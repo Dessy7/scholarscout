@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:33:26.411Z",
+  "generatedAt": "2026-08-19T13:38:54.584Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:23.257Z",
+      "lastVerifiedAt": "2026-08-19T13:38:14.378Z",
       "contentHash": "b53a51bf8d24f136",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -154,7 +154,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:27.380Z",
+      "lastVerifiedAt": "2026-08-19T13:38:18.848Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -275,7 +275,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-19T00:32:31.593Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -392,7 +392,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:35.558Z",
+      "lastVerifiedAt": "2026-08-19T13:38:23.764Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +511,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:37.736Z",
+      "lastVerifiedAt": "2026-08-19T13:38:25.971Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +629,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:40.731Z",
+      "lastVerifiedAt": "2026-08-19T13:38:28.960Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -747,7 +747,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:44.202Z",
+      "lastVerifiedAt": "2026-08-19T13:38:32.492Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:32:46.782Z",
+      "lastVerifiedAt": "2026-08-19T13:38:34.667Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,9 +983,9 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-18T20:40:40.192Z",
+      "lastVerifiedAt": "2026-08-19T13:38:38.119Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 56,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-19T00:33:12.935Z",
+      "lastVerifiedAt": "2026-08-19T13:38:42.439Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -2983,7 +2983,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-19T00:33:23.171Z",
+      "lastVerifiedAt": "2026-08-19T13:38:51.535Z",
       "contentHash": "e232d293c6c61386",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -3100,7 +3100,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-19T00:33:23.172Z",
+      "lastVerifiedAt": "2026-08-19T13:38:51.536Z",
       "contentHash": "e30e863fac13ff3c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -3218,7 +3218,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-19T00:33:23.172Z",
+      "lastVerifiedAt": "2026-08-19T13:38:51.536Z",
       "contentHash": "719cdd033ea2ef26",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -3336,7 +3336,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-19T00:33:26.405Z",
+      "lastVerifiedAt": "2026-08-19T13:38:54.584Z",
       "contentHash": "9463e970c95315b3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -3454,7 +3454,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-19T00:33:26.406Z",
+      "lastVerifiedAt": "2026-08-19T13:38:54.584Z",
       "contentHash": "056779e368c78fd4",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -4228,6 +4228,582 @@
         "reasons": [
           "Matches your target opportunity types"
         ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_71b055f53c4a1886",
+      "title": "11th Africa Energy Innovation Challenge (AEIC) 2026 (up to $10,000)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-10",
+        "rawText": "Deadline: September 10, 2026 Applications are open for the 11th Africa Energy Innovation Challenge (AEIC) 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 10, 2026 Applications are open for the 11th Africa Energy Innovation Challenge (AEIC) 2026. The 11th Africa Energy Innovation Challenge (AEIC), organized by Nigeria Energy Forum (NEF), mobilizes young, early-stage energy entrepreneurs across Africa to develop, prototype and scale innovative devices, equipment and digital solutions for social enterprise, agribusiness, fintech and energy management [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/19/11th-africa-energy-innovation-challenge-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/19/11th-africa-energy-innovation-challenge-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/19/11th-africa-energy-innovation-challenge-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-19T13:38:11.874Z",
+      "updatedAt": "2026-08-19T13:38:11.874Z",
+      "lastVerifiedAt": "2026-08-19T13:38:11.874Z",
+      "contentHash": "f22363124dd9a135",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "Adjacent discipline with a technology component"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8d73729839be8b0f",
+      "title": "ARES International Training Scholarships 2027-2028",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "masters",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-18",
+        "rawText": "Deadline: September 18, 2026 Are you a permanent resident of an ARES partner country?",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 18, 2026 Are you a permanent resident of an ARES partner country? Do you have a graduate degree? Do you have professional experience and would you like to deepen your skills in a development-related theme? Applications are open for the ARES International Training Scholarships 2027-2028. As part of the five-year programme 2027-2032, ARES is offering [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/19/ares-international-training-scholarships-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/19/ares-international-training-scholarships-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/19/ares-international-training-scholarships-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-19T13:38:11.874Z",
+      "updatedAt": "2026-08-19T13:38:11.874Z",
+      "lastVerifiedAt": "2026-08-19T13:38:11.874Z",
+      "contentHash": "bc9d59cbb40b8c90",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_20ea85901a7da499",
+      "title": "Fast Forward Accelerator 2027 for Tech Nonprofits",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-07",
+        "rawText": "Deadline: September 7, 2026 Are you a tech nonprofit founder on a mission to change the world?",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 7, 2026 Are you a tech nonprofit founder on a mission to change the world? Applications are open for the Fast Forward Accelerator 2027. They are here to change your trajectory. Since 2014, Fast Forward has helped 100+ tech nonprofits scale through their Accelerator, so they know what works. Through the Accelerator, they will [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/19/fast-forward-accelerator-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/19/fast-forward-accelerator-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/19/fast-forward-accelerator-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-19T13:38:11.874Z",
+      "updatedAt": "2026-08-19T13:38:11.874Z",
+      "lastVerifiedAt": "2026-08-19T13:38:11.874Z",
+      "contentHash": "a060e5f65f4f0975",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_0c7bd8c6feb85b7f",
+      "title": "InnovateHERs Scholarship Challenge 2026 for Women in Business",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-29",
+        "rawText": "Deadline: September 29, 2026 Applications are open for the InnovateHERs Scholarship Challenge 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 29, 2026 Applications are open for the InnovateHERs Scholarship Challenge 2026. The InnovateHERs Scholarship Challenge supports female high school students interested in business and entrepreneurship through scholarships awarded for innovative business plan submissions. Students from any country can participate by submitting a concise two-page business plan for a real or hypothetical product or [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/19/innovatehers-scholarship-challenge-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/19/innovatehers-scholarship-challenge-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/19/innovatehers-scholarship-challenge-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-19T13:38:11.874Z",
+      "updatedAt": "2026-08-19T13:38:11.874Z",
+      "lastVerifiedAt": "2026-08-19T13:38:11.874Z",
+      "contentHash": "1faf3a9650d86989",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_20f278fe11179d43",
+      "title": "Pulitzer Center Lavwa Lenpak – Africa Content Creators Program 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-08-26",
+        "rawText": "Deadline: August 26, 2026 Are you a content creator in Africa and passionate about forest governance and human rights?",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: August 26, 2026 Are you a content creator in Africa and passionate about forest governance and human rights? Apply for the second cohort of Pulitzer Center Lavwa Lenpak, the program for content creators in Africa, and learn how to use investigative journalism to engage your community and make an impact. This second edition of [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/19/pulitzer-center-lavwa-lenpak-africa-content-creators-program-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/19/pulitzer-center-lavwa-lenpak-africa-content-creators-program-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/19/pulitzer-center-lavwa-lenpak-africa-content-creators-program-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-19T13:38:11.874Z",
+      "updatedAt": "2026-08-19T13:38:11.874Z",
+      "lastVerifiedAt": "2026-08-19T13:38:11.874Z",
+      "contentHash": "f7b0acff874ebc26",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
