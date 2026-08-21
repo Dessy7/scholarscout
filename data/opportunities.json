@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:40:35.211Z",
+  "generatedAt": "2026-08-21T00:36:11.844Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:39:51.766Z",
+      "lastVerifiedAt": "2026-08-21T00:35:27.318Z",
       "contentHash": "b53a51bf8d24f136",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -154,7 +154,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:39:56.550Z",
+      "lastVerifiedAt": "2026-08-21T00:35:32.092Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:00.587Z",
+      "lastVerifiedAt": "2026-08-21T00:35:35.717Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -392,7 +392,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:03.459Z",
+      "lastVerifiedAt": "2026-08-21T00:35:38.145Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +511,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:05.580Z",
+      "lastVerifiedAt": "2026-08-21T00:35:40.189Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +629,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:07.788Z",
+      "lastVerifiedAt": "2026-08-21T00:35:42.941Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -747,7 +747,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:11.329Z",
+      "lastVerifiedAt": "2026-08-21T00:35:48.191Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:13.867Z",
+      "lastVerifiedAt": "2026-08-21T00:35:50.359Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,13 +983,13 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:17.849Z",
+      "lastVerifiedAt": "2026-08-21T00:35:54.589Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 56,
-        "tier": "good",
+        "score": 44,
+        "tier": "fair",
         "breakdown": [
           {
             "key": "nationality",
@@ -1016,15 +1016,15 @@
             "key": "field",
             "label": "Field relevance",
             "weight": 15,
-            "earned": 12.8,
-            "reason": "Matches one of your priority fields"
+            "earned": 3,
+            "reason": "No clear field match detected"
           },
           {
             "key": "career",
             "label": "Career & interest fit",
             "weight": 10,
-            "earned": 3,
-            "reason": "Related to your technical direction"
+            "earned": 0,
+            "reason": "Limited career-interest signal"
           },
           {
             "key": "geography",
@@ -1057,13 +1057,13 @@
         ],
         "reasons": [
           "Open to international applicants",
-          "Matches one of your priority fields",
           "South Korea is one of your preferred destinations",
           "Matches your target opportunity types"
         ],
         "concerns": [
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Deadline could not be verified",
           "Some details need manual review"
         ]
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-20T13:40:22.741Z",
+      "lastVerifiedAt": "2026-08-21T00:35:59.683Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -2983,12 +2983,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-20T13:40:31.953Z",
+      "lastVerifiedAt": "2026-08-21T00:36:08.778Z",
       "contentHash": "e232d293c6c61386",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 34,
+        "score": 32,
         "tier": "weak",
         "breakdown": [
           {
@@ -3037,8 +3037,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -3063,6 +3063,7 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -4846,7 +4847,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-20T00:32:31.612Z",
       "updatedAt": "2026-08-20T00:32:31.612Z",
-      "lastVerifiedAt": "2026-08-20T13:40:31.952Z",
+      "lastVerifiedAt": "2026-08-21T00:36:08.778Z",
       "contentHash": "db2960e5c5cbecf0",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -4964,7 +4965,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-20T13:39:49.275Z",
       "updatedAt": "2026-08-20T13:39:49.275Z",
-      "lastVerifiedAt": "2026-08-20T13:39:49.275Z",
+      "lastVerifiedAt": "2026-08-21T00:36:11.843Z",
       "contentHash": "06e5c992df7a347b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5079,7 +5080,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-20T13:39:49.275Z",
       "updatedAt": "2026-08-20T13:39:49.275Z",
-      "lastVerifiedAt": "2026-08-20T13:39:49.275Z",
+      "lastVerifiedAt": "2026-08-21T00:36:11.844Z",
       "contentHash": "dc870dffd1ccf77e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5196,7 +5197,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-20T13:39:49.275Z",
       "updatedAt": "2026-08-20T13:39:49.275Z",
-      "lastVerifiedAt": "2026-08-20T13:39:49.275Z",
+      "lastVerifiedAt": "2026-08-21T00:36:11.844Z",
       "contentHash": "c83271b647683bb5",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5276,6 +5277,360 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_39e729d51ebe2c7a",
+      "title": "University of Edinburgh Mastercard Foundation Scholars Program 2027/2028 for young Africans (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-19",
+        "rawText": "Application Deadline: 19 October 2026 Applications are now open for the 2027/2028 University of Edinburgh Mastercard Foundation Scholars Program.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 19 October 2026 Applications are now open for the 2027/2028 University of Edinburgh Mastercard Foundation Scholars Program. The scholarship programme has introduced important changes to the application process…",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-scholars-program-2027-2028/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-scholars-program-2027-2028/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-scholars-program-2027-2028",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-08-21T00:35:24.895Z",
+      "updatedAt": "2026-08-21T00:35:24.895Z",
+      "lastVerifiedAt": "2026-08-21T00:35:24.895Z",
+      "contentHash": "7a59971675147955",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 51,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_4d905e6003ab7943",
+      "title": "KfW EAC Master’s Scholarships 2026/2027 for young East Africans ( Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-10",
+        "rawText": "Application Deadline: 10 September 2026 · 17:00 EAT Applications are now open for the 2026/2027 KfW EAC Master’s Scholarship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 10 September 2026 · 17:00 EAT Applications are now open for the 2026/2027 KfW EAC Master’s Scholarship. The Inter-University Council for East Africa (IUCEA) hereby invites suitably qualified…",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-08-21T00:35:24.895Z",
+      "updatedAt": "2026-08-21T00:35:24.895Z",
+      "lastVerifiedAt": "2026-08-21T00:35:24.895Z",
+      "contentHash": "dd1383942c45a493",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 52,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_30d27e57d4904f56",
+      "title": "Swiss Government Excellence Scholarships 2027/2028 for Foreign Students & Artists to study in Switzerland (Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: Ongoing Applications are now open for the 2027/2028 Swiss Government Excellence Scholarships.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: Ongoing Applications are now open for the 2027/2028 Swiss Government Excellence Scholarships. Each year the Swiss Confederation awards Government Excellence Scholarships to encourage international exchange and research cooperation…",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/swiss-government-excellence-scholarships-2027-2028-for-foreign-students-artists/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/swiss-government-excellence-scholarships-2027-2028-for-foreign-students-artists/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/swiss-government-excellence-scholarships-2027-2028-for-foreign-students-artists",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-08-21T00:35:24.895Z",
+      "updatedAt": "2026-08-21T00:35:24.895Z",
+      "lastVerifiedAt": "2026-08-21T00:35:24.895Z",
+      "contentHash": "9924fb5da0ad8264",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
           "Some details need manual review"
         ]
       }
