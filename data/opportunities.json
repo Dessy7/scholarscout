@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:33:27.746Z",
+  "generatedAt": "2026-08-22T13:27:12.304Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:26.953Z",
+      "lastVerifiedAt": "2026-08-22T13:25:50.938Z",
       "contentHash": "b53a51bf8d24f136",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -154,7 +154,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:30.207Z",
+      "lastVerifiedAt": "2026-08-22T13:25:54.892Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -392,7 +392,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:35.992Z",
+      "lastVerifiedAt": "2026-08-22T13:26:20.120Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +511,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:38.636Z",
+      "lastVerifiedAt": "2026-08-22T13:26:22.248Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +629,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:41.126Z",
+      "lastVerifiedAt": "2026-08-22T13:26:27.085Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -747,7 +747,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:47.141Z",
+      "lastVerifiedAt": "2026-08-22T13:26:31.208Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:32:49.277Z",
+      "lastVerifiedAt": "2026-08-22T13:26:33.613Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-22T00:33:15.281Z",
+      "lastVerifiedAt": "2026-08-22T13:27:00.127Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -2983,7 +2983,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-18T20:40:08.496Z",
       "updatedAt": "2026-08-18T20:40:08.496Z",
-      "lastVerifiedAt": "2026-08-22T00:33:24.333Z",
+      "lastVerifiedAt": "2026-08-22T13:27:09.192Z",
       "contentHash": "e232d293c6c61386",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -4847,7 +4847,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-20T00:32:31.612Z",
       "updatedAt": "2026-08-20T00:32:31.612Z",
-      "lastVerifiedAt": "2026-08-22T00:33:24.332Z",
+      "lastVerifiedAt": "2026-08-22T13:27:09.192Z",
       "contentHash": "db2960e5c5cbecf0",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5314,7 +5314,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-21T00:35:24.895Z",
       "updatedAt": "2026-08-21T00:35:24.895Z",
-      "lastVerifiedAt": "2026-08-22T00:33:24.330Z",
+      "lastVerifiedAt": "2026-08-22T13:27:09.189Z",
       "contentHash": "7a59971675147955",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5432,7 +5432,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-21T00:35:24.895Z",
       "updatedAt": "2026-08-21T00:35:24.895Z",
-      "lastVerifiedAt": "2026-08-22T00:33:24.331Z",
+      "lastVerifiedAt": "2026-08-22T13:27:09.191Z",
       "contentHash": "dd1383942c45a493",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5550,7 +5550,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-21T00:35:24.895Z",
       "updatedAt": "2026-08-21T00:35:24.895Z",
-      "lastVerifiedAt": "2026-08-22T00:33:24.332Z",
+      "lastVerifiedAt": "2026-08-22T13:27:09.191Z",
       "contentHash": "9924fb5da0ad8264",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5668,7 +5668,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-21T13:38:39.747Z",
       "updatedAt": "2026-08-21T13:38:39.747Z",
-      "lastVerifiedAt": "2026-08-22T00:33:27.745Z",
+      "lastVerifiedAt": "2026-08-22T13:27:12.303Z",
       "contentHash": "cddb494a2304c731",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5783,7 +5783,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-21T13:38:39.747Z",
       "updatedAt": "2026-08-21T13:38:39.747Z",
-      "lastVerifiedAt": "2026-08-22T00:33:27.745Z",
+      "lastVerifiedAt": "2026-08-22T13:27:12.303Z",
       "contentHash": "6c2c4e395d822040",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5900,7 +5900,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-21T13:38:39.747Z",
       "updatedAt": "2026-08-21T13:38:39.747Z",
-      "lastVerifiedAt": "2026-08-22T00:33:27.745Z",
+      "lastVerifiedAt": "2026-08-22T13:27:12.304Z",
       "contentHash": "f3927e6de315778c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -5981,6 +5981,357 @@
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
           "Closes within 3 days — tight timeline",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_e1c23a129ddc7941",
+      "title": "Lester B. Pearson International Student Scholarships 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "Pearson International Student Scholarships 2027 Deadline: October 9, 2026 Applications are invited for the Lester B.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "Pearson International Student Scholarships 2027 Deadline: October 9, 2026 Applications are invited for the Lester B.",
+      "ghanaEligibility": "international",
+      "deadline": {
+        "date": "2026-10-09",
+        "rawText": "Deadline: October 9, 2026 Applications are invited for the Lester B.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 9, 2026 Applications are invited for the Lester B. Pearson International Student Scholarships 2027. Join a global community of exceptional changemakers. The Lester B. Pearson International Scholarship is the university’s most prestigious award for international students. It recognizes outstanding academic achievement, creativity and leadership potential. The Lester B. Pearson International Scholarships is one [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/22/lester-b-pearson-international-student-scholarships-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/22/lester-b-pearson-international-student-scholarships-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/22/lester-b-pearson-international-student-scholarships-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-22T13:25:48.370Z",
+      "updatedAt": "2026-08-22T13:25:48.370Z",
+      "lastVerifiedAt": "2026-08-22T13:25:48.370Z",
+      "contentHash": "456ef51b1a615684",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 16,
+            "reason": "Open to international applicants"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Open to international applicants",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_6864ff9611c3d9c5",
+      "title": "Hoover Fellows Program at Stanford University 2026-2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-17",
+        "rawText": "Deadline: November 17, 2026 Applications are open for the Hoover Fellows Program 2026-2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 17, 2026 Applications are open for the Hoover Fellows Program 2026-2027. The Hoover Institution at Stanford University seeks outstanding scholars for positions as a Hoover Fellow. The term of the appointment is from one to three years. The position is located at the Hoover Institution, Stanford, CA. During their fellowship, Hoover Fellows are [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/22/hoover-fellows-program-2026-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/22/hoover-fellows-program-2026-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/22/hoover-fellows-program-2026-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-22T13:25:48.370Z",
+      "updatedAt": "2026-08-22T13:25:48.370Z",
+      "lastVerifiedAt": "2026-08-22T13:25:48.370Z",
+      "contentHash": "ad459112346b7549",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_0f138803eeaf53a2",
+      "title": "PNNL Linus Pauling Distinguished Postdoctoral Fellowship 2027 (up to USD $118,000)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-15",
+        "rawText": "Deadline: October 15, 2026 Applications are open for the Pacific Northwest National Laboratory (PNNL) Linus Pauling Distinguished Postdoctoral Fellowship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 15, 2026 Applications are open for the Pacific Northwest National Laboratory (PNNL) Linus Pauling Distinguished Postdoctoral Fellowship 2027. PNNL’s Linus Pauling Distinguished Postdoctoral Fellowship is designed for the next generation of scientists and engineers who will push the boundaries of science to world-recognized discoveries. Pauling Fellows are equipped with the resources to carry [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/08/22/pnnl-linus-pauling-distinguished-postdoctoral-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/08/22/pnnl-linus-pauling-distinguished-postdoctoral-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/08/22/pnnl-linus-pauling-distinguished-postdoctoral-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-08-22T13:25:48.370Z",
+      "updatedAt": "2026-08-22T13:25:48.370Z",
+      "lastVerifiedAt": "2026-08-22T13:25:48.370Z",
+      "contentHash": "7cf7a96e149eb909",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
