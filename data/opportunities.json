@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T13:43:14.936Z",
+  "generatedAt": "2026-08-26T00:35:58.305Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:04.340Z",
+      "lastVerifiedAt": "2026-08-26T00:34:34.277Z",
       "contentHash": "b53a51bf8d24f136",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -154,7 +154,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:12.127Z",
+      "lastVerifiedAt": "2026-08-26T00:34:40.275Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -275,7 +275,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-25T13:42:16.557Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -392,7 +392,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:19.071Z",
+      "lastVerifiedAt": "2026-08-26T00:35:04.078Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +511,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:21.227Z",
+      "lastVerifiedAt": "2026-08-26T00:35:06.737Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +629,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:24.555Z",
+      "lastVerifiedAt": "2026-08-26T00:35:09.880Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -747,7 +747,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:29.553Z",
+      "lastVerifiedAt": "2026-08-26T00:35:13.798Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:32.139Z",
+      "lastVerifiedAt": "2026-08-26T00:35:15.935Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-08-25T13:42:59.775Z",
+      "lastVerifiedAt": "2026-08-26T00:35:42.428Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -6369,7 +6369,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-24T13:58:21.220Z",
       "updatedAt": "2026-08-24T13:58:21.220Z",
-      "lastVerifiedAt": "2026-08-25T13:43:14.936Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.305Z",
       "contentHash": "7fba3438a08f1ec3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -6484,7 +6484,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-24T13:58:21.220Z",
       "updatedAt": "2026-08-24T13:58:21.220Z",
-      "lastVerifiedAt": "2026-08-25T13:43:14.936Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.305Z",
       "contentHash": "f3bbf9fed8cd623f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -6948,7 +6948,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-25T00:33:37.333Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:55.030Z",
       "contentHash": "7659e048af290227",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -7065,13 +7065,13 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-25T00:33:37.333Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:55.030Z",
       "contentHash": "46fdcc4004f0eaa9",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 39,
-        "tier": "weak",
+        "score": 40,
+        "tier": "fair",
         "breakdown": [
           {
             "key": "nationality",
@@ -7119,8 +7119,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -7183,7 +7183,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:55.027Z",
       "contentHash": "b9902f3d4f030638",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -7300,7 +7300,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:55.029Z",
       "contentHash": "360317aab515802d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -7419,12 +7419,12 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.303Z",
       "contentHash": "cd23f7e48520f45b",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 47,
+        "score": 45,
         "tier": "fair",
         "breakdown": [
           {
@@ -7473,8 +7473,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -7499,6 +7499,7 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -7538,7 +7539,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.303Z",
       "contentHash": "595e308e73fc65c9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -7655,7 +7656,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.304Z",
       "contentHash": "378a3c3c769861c5",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -7770,12 +7771,12 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.304Z",
       "contentHash": "5cdffcb189260c30",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 33,
+        "score": 34,
         "tier": "weak",
         "breakdown": [
           {
@@ -7824,8 +7825,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -7887,12 +7888,12 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.304Z",
       "contentHash": "d43bdae2602a22c7",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 37,
+        "score": 38,
         "tier": "weak",
         "breakdown": [
           {
@@ -7941,8 +7942,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -8004,7 +8005,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-08-25T13:42:01.821Z",
       "updatedAt": "2026-08-25T13:42:01.821Z",
-      "lastVerifiedAt": "2026-08-25T13:42:01.821Z",
+      "lastVerifiedAt": "2026-08-26T00:35:58.305Z",
       "contentHash": "6fb1d098739e56d3",
       "verificationStatus": "needs_review",
       "environmental": false,
