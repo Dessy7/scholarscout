@@ -30,8 +30,8 @@
         "foreign"
       ],
       "notes": "Official Ghanaian government scholarship body (scholarships.gov.gh). Ghana-specific by definition.",
-      "lastChecked": "2026-09-03T01:49:13.011Z",
-      "lastSuccess": "2026-09-03T01:49:15.491Z",
+      "lastChecked": "2026-09-03T16:47:58.551Z",
+      "lastSuccess": "2026-09-03T16:48:01.117Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -61,8 +61,8 @@
         ]
       },
       "notes": "Ghana-specific page. Requires 2 years (2,800 hours) work experience.",
-      "lastChecked": "2026-09-03T01:49:15.497Z",
-      "lastSuccess": "2026-09-03T01:49:21.740Z",
+      "lastChecked": "2026-09-03T16:48:01.124Z",
+      "lastSuccess": "2026-09-03T16:48:04.497Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -92,10 +92,10 @@
         ]
       },
       "notes": "Official DAAD scholarship-database entry for EPOS (English). Typically requires ~2 years professional experience; degrees \"far above average\" — extract exact wording per course.",
-      "lastChecked": "2026-09-03T01:49:21.741Z",
-      "lastSuccess": "2026-09-02T16:56:18.581Z",
-      "failureCount": 1,
-      "robotsStatus": "unknown"
+      "lastChecked": "2026-09-03T16:48:04.497Z",
+      "lastSuccess": "2026-09-03T16:48:08.929Z",
+      "failureCount": 0,
+      "robotsStatus": "allowed"
     },
     {
       "id": "erasmus-mundus",
@@ -127,8 +127,8 @@
         ]
       },
       "notes": "Each consortium sets its own academic entry requirements — many accept a good second-class degree. Apply directly to programmes in the EMJM catalogue.",
-      "lastChecked": "2026-09-03T01:49:24.131Z",
-      "lastSuccess": "2026-09-03T01:49:26.598Z",
+      "lastChecked": "2026-09-03T16:48:08.935Z",
+      "lastSuccess": "2026-09-03T16:48:11.835Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -158,8 +158,8 @@
         ]
       },
       "notes": "Usually requires at least an upper second (2:1); extract exact wording each cycle — some development themes have flexibility.",
-      "lastChecked": "2026-09-03T01:49:26.601Z",
-      "lastSuccess": "2026-09-03T01:49:28.694Z",
+      "lastChecked": "2026-09-03T16:48:11.836Z",
+      "lastSuccess": "2026-09-03T16:48:13.957Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -187,8 +187,8 @@
         ]
       },
       "notes": null,
-      "lastChecked": "2026-09-03T01:49:28.698Z",
-      "lastSuccess": "2026-09-03T01:49:31.614Z",
+      "lastChecked": "2026-09-03T16:48:13.963Z",
+      "lastSuccess": "2026-09-03T16:48:16.008Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -217,10 +217,10 @@
         ]
       },
       "notes": "Official Australia Awards Africa programme site. Verify Ghana inclusion in the current intake each cycle — never assume.",
-      "lastChecked": "2026-09-03T01:49:31.616Z",
-      "lastSuccess": "2026-09-02T16:56:30.686Z",
-      "failureCount": 1,
-      "robotsStatus": "unknown"
+      "lastChecked": "2026-09-03T16:48:16.011Z",
+      "lastSuccess": "2026-09-03T16:48:26.506Z",
+      "failureCount": 0,
+      "robotsStatus": "allowed"
     },
     {
       "id": "mext",
@@ -247,8 +247,8 @@
         ]
       },
       "notes": "Embassy track for Ghana usually opens around April–May each year.",
-      "lastChecked": "2026-09-03T01:49:52.299Z",
-      "lastSuccess": "2026-09-03T01:49:54.834Z",
+      "lastChecked": "2026-09-03T16:48:26.507Z",
+      "lastSuccess": "2026-09-03T16:48:28.626Z",
       "failureCount": 0,
       "robotsStatus": "unknown"
     },
@@ -277,9 +277,9 @@
         ]
       },
       "notes": "Official Study in Korea portal; GKS notices under K-Scholarship > GKS Notice. GKS typically requires CGPA >= 80% of the scale — extract exact wording; verify against KNUST conversion.",
-      "lastChecked": "2026-09-03T01:49:54.835Z",
+      "lastChecked": "2026-09-03T16:48:28.627Z",
       "lastSuccess": "2026-09-02T16:56:37.251Z",
-      "failureCount": 1,
+      "failureCount": 2,
       "robotsStatus": "unknown"
     },
     {
@@ -306,9 +306,9 @@
         ]
       },
       "notes": "campuschina.org intermittently blocks automated requests (HTTP 412). Failures are recorded and skipped; the Ghana Scholarships Authority bilateral track also covers CSC awards.",
-      "lastChecked": "2026-09-03T01:50:15.816Z",
+      "lastChecked": "2026-09-03T16:48:49.607Z",
       "lastSuccess": null,
-      "failureCount": 34,
+      "failureCount": 35,
       "robotsStatus": "unknown"
     },
     {
@@ -336,8 +336,8 @@
         ]
       },
       "notes": "Application is per partner university (e.g., KNUST, Ashesi, EPFL, McGill, Edinburgh).",
-      "lastChecked": "2026-09-03T01:50:17.983Z",
-      "lastSuccess": "2026-09-03T01:50:20.096Z",
+      "lastChecked": "2026-09-03T16:48:52.381Z",
+      "lastSuccess": "2026-09-03T16:48:54.836Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -372,8 +372,8 @@
         "grant"
       ],
       "notes": "Clean-air philanthropy active in Accra. List parser scans news for open calls.",
-      "lastChecked": "2026-09-03T01:50:20.097Z",
-      "lastSuccess": "2026-09-03T01:50:22.316Z",
+      "lastChecked": "2026-09-03T16:48:54.838Z",
+      "lastSuccess": "2026-09-03T16:48:57.129Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -400,8 +400,8 @@
         ]
       },
       "notes": "UN Environment Programme engagement page; scanned for open programmes.",
-      "lastChecked": "2026-09-03T01:50:22.316Z",
-      "lastSuccess": "2026-09-03T01:50:26.740Z",
+      "lastChecked": "2026-09-03T16:48:57.129Z",
+      "lastSuccess": "2026-09-03T16:49:01.752Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -429,8 +429,8 @@
         "tech"
       ],
       "notes": "Reputable aggregator for African opportunities. Every item still links to and is verified against its own page; used for discovery, not as ground truth.",
-      "lastChecked": "2026-09-03T01:50:26.740Z",
-      "lastSuccess": "2026-09-03T01:50:29.085Z",
+      "lastChecked": "2026-09-03T16:49:01.752Z",
+      "lastSuccess": "2026-09-03T16:49:04.153Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
@@ -459,8 +459,8 @@
         "tech"
       ],
       "notes": "Reputable global opportunity aggregator used for discovery only.",
-      "lastChecked": "2026-09-03T01:50:29.089Z",
-      "lastSuccess": "2026-09-03T01:50:32.312Z",
+      "lastChecked": "2026-09-03T16:49:04.160Z",
+      "lastSuccess": "2026-09-03T16:49:07.458Z",
       "failureCount": 0,
       "robotsStatus": "allowed"
     },
