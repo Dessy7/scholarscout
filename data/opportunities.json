@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:56:54.791Z",
+  "generatedAt": "2026-09-03T01:50:32.317Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:10.220Z",
+      "lastVerifiedAt": "2026-09-03T01:49:15.497Z",
       "contentHash": "b53a51bf8d24f136",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -154,7 +154,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:14.716Z",
+      "lastVerifiedAt": "2026-09-03T01:49:21.741Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -275,7 +275,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-02T16:56:18.587Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -392,7 +392,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:21.047Z",
+      "lastVerifiedAt": "2026-09-03T01:49:26.601Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +511,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:23.498Z",
+      "lastVerifiedAt": "2026-09-03T01:49:28.698Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +629,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:27.503Z",
+      "lastVerifiedAt": "2026-09-03T01:49:31.616Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -749,7 +749,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-02T16:56:30.686Z",
       "contentHash": "773b9b687c7b5c65",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -867,7 +867,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:32.853Z",
+      "lastVerifiedAt": "2026-09-03T01:49:54.835Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -987,7 +987,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-02T16:56:37.253Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -1104,7 +1104,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-02T16:56:42.992Z",
+      "lastVerifiedAt": "2026-09-03T01:50:20.097Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -13648,7 +13648,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:29.089Z",
       "contentHash": "3cefeecc08331313",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -13766,12 +13766,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:29.089Z",
       "contentHash": "7af1dc8a25513a0d",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 49,
+        "score": 47,
         "tier": "fair",
         "breakdown": [
           {
@@ -13820,8 +13820,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -13846,6 +13846,7 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -13883,7 +13884,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "6eb4f11ff558a3fc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -13999,7 +14000,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "a60dc67c3b4d58db",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14114,7 +14115,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "c45b2757d57772b8",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14230,7 +14231,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "3314217d17860988",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14350,7 +14351,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "e2352b0edd0883bf",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14467,7 +14468,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "6f8ef619122152b6",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14582,7 +14583,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "17acce2ab3fe15fd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14699,7 +14700,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-02T16:56:07.764Z",
       "updatedAt": "2026-09-02T16:56:07.764Z",
-      "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
+      "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "e010120c4d1fa8c1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -14889,6 +14890,359 @@
           }
         ],
         "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a3fdad1eb725010f",
+      "title": "Japan International Cooperation Center (JICE) Japan-Africa Youth Program 2026 for African Animation Professionals (Fully Funded to Japan)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-08",
+        "rawText": "Application Deadline: September 8, 2026 Applications are now open for the 2026 JICE Japan-Africa Youth Program.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: September 8, 2026 Applications are now open for the 2026 JICE Japan-Africa Youth Program. Japan International Cooperation Center (JICE) is pleased to announce that, as part of the… The post Japan International Cooperation Center (JICE) Japan-Africa Youth Program 2026 for African Animation Professionals (Fully Funded to Japan) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-03T01:49:13.006Z",
+      "updatedAt": "2026-09-03T01:49:13.006Z",
+      "lastVerifiedAt": "2026-09-03T01:49:13.006Z",
+      "contentHash": "df87725f42b8f38c",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 49,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_437150eafc80bc29",
+      "title": "Julius Berger Nigeria Plc. Female Scholarship Award 2026 for Nigerian female undergraduates.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-16",
+        "rawText": "Application Deadline: September 16th, 2026 Applications are now open for the 2026 Julius Berger Nigeria Plc.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: September 16th, 2026 Applications are now open for the 2026 Julius Berger Nigeria Plc. Female Scholarship Award. Julius Berger Nigeria Plc (JBN) is a leading Nigerian company offering… The post Julius Berger Nigeria Plc. Female Scholarship Award 2026 for Nigerian female undergraduates. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-03T01:49:13.006Z",
+      "updatedAt": "2026-09-03T01:49:13.006Z",
+      "lastVerifiedAt": "2026-09-03T01:49:13.006Z",
+      "contentHash": "4e7b1f12bcf87547",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 37,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_1276585064622cd1",
+      "title": "The CivicHive Creative Changemakers Fellowship (CCMF) 2026 for young Nigerian creatives.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-15",
+        "rawText": "Application Deadline: September 15, 2026 Applications are now open for the 2026 CivicHive Creative Changemakers Fellowship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: September 15, 2026 Applications are now open for the 2026 CivicHive Creative Changemakers Fellowship. The Creative Changemakers Fellowship (CCMF) is a fellowship designed to nurture creatives who use… The post The CivicHive Creative Changemakers Fellowship (CCMF) 2026 for young Nigerian creatives. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-03T01:49:13.006Z",
+      "updatedAt": "2026-09-03T01:49:13.006Z",
+      "lastVerifiedAt": "2026-09-03T01:49:13.006Z",
+      "contentHash": "faef3e2d17e4f492",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 37,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
           "Matches your target opportunity types"
         ],
         "concerns": [
