@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:41:29.095Z",
+  "generatedAt": "2026-09-05T01:45:16.601Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -20,8 +20,8 @@
       "nationalityRequirement": "Ghana Scholarships Authority — Foreign Scholarships for Ghanaian Students Official Ghana Scholarships Authority portal for government-funded local and foreign scholarships, application guidance, public notices, and scholar support.",
       "ghanaEligibility": "ghana_eligible",
       "deadline": {
-        "date": null,
-        "rawText": "Stay close to the verified announcements that matter: openings, deadlines, eligibility",
+        "date": "2026-09-15",
+        "rawText": "Deadline: Sep 15, 2026",
         "timezone": null
       },
       "startDate": null,
@@ -33,14 +33,14 @@
       "sourceId": "ghana-scholarships-authority",
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
-      "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:40:45.371Z",
-      "contentHash": "b53a51bf8d24f136",
-      "verificationStatus": "needs_review",
+      "updatedAt": "2026-09-05T01:44:31.885Z",
+      "lastVerifiedAt": "2026-09-05T01:44:31.885Z",
+      "contentHash": "7c4965bcb645c9d9",
+      "verificationStatus": "verified",
       "environmental": false,
       "match": {
-        "score": 52,
-        "tier": "fair",
+        "score": 58,
+        "tier": "good",
         "breakdown": [
           {
             "key": "nationality",
@@ -88,8 +88,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 2,
-            "reason": "Deadline not confirmed"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -102,8 +102,8 @@
             "key": "verification",
             "label": "Source confidence",
             "weight": 5,
-            "earned": 2.5,
-            "reason": "Some details need manual review"
+            "earned": 5,
+            "reason": "Verified directly from the official source"
           }
         ],
         "reasons": [
@@ -113,9 +113,7 @@
         ],
         "concerns": [
           "Funding details could not be verified from the source",
-          "Academic requirement not stated — check the programme page",
-          "Deadline could not be verified",
-          "Some details need manual review"
+          "Academic requirement not stated — check the programme page"
         ]
       }
     },
@@ -154,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:40:49.241Z",
+      "lastVerifiedAt": "2026-09-05T01:44:37.898Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:40:53.794Z",
+      "lastVerifiedAt": "2026-09-05T01:44:42.002Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -392,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:40:56.708Z",
+      "lastVerifiedAt": "2026-09-05T01:44:44.418Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -511,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:40:58.807Z",
+      "lastVerifiedAt": "2026-09-05T01:44:46.522Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -629,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:41:02.033Z",
+      "lastVerifiedAt": "2026-09-05T01:44:49.275Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -747,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:41:05.649Z",
+      "lastVerifiedAt": "2026-09-05T01:44:52.870Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -867,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:41:08.055Z",
+      "lastVerifiedAt": "2026-09-05T01:44:55.351Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -985,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:41:11.380Z",
+      "lastVerifiedAt": "2026-09-05T01:44:59.045Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1104,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-04T16:41:16.917Z",
+      "lastVerifiedAt": "2026-09-05T01:45:03.321Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -15289,7 +15287,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-03T16:47:58.542Z",
       "updatedAt": "2026-09-03T16:47:58.542Z",
-      "lastVerifiedAt": "2026-09-04T16:41:26.064Z",
+      "lastVerifiedAt": "2026-09-05T01:45:13.325Z",
       "contentHash": "b06feec1c6a3e574",
       "verificationStatus": "needs_review",
       "environmental": true,
@@ -16339,7 +16337,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:13.324Z",
       "contentHash": "3e1349d78453a302",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16457,7 +16455,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:13.324Z",
       "contentHash": "6b1fdcd97edbb2dc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16576,7 +16574,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:16.596Z",
       "contentHash": "5208da1d3ffebae4",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16693,7 +16691,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:16.600Z",
       "contentHash": "1f4eebe3fc7bbc8a",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16810,7 +16808,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:16.600Z",
       "contentHash": "fedaaf5c8df7203b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16927,7 +16925,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:16.600Z",
       "contentHash": "647e408552545058",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16982,7 +16980,7 @@
             "label": "Deadline urgency",
             "weight": 5,
             "earned": 5,
-            "reason": "Healthy application window (≤ 30 days)"
+            "reason": "Healthy application window (≤ 7 days)"
           },
           {
             "key": "type",
@@ -17046,7 +17044,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-04T16:40:42.811Z",
+      "lastVerifiedAt": "2026-09-05T01:45:16.601Z",
       "contentHash": "90c631365937c427",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17129,9 +17127,139 @@
           "Some details need manual review"
         ]
       }
+    },
+    {
+      "id": "opp_63e92f201cb49099",
+      "title": "ICGEB South African Women in Biotechnology Programme SAWBP – Postdoctoral Fellowship 2027 for South African women Researchers.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "phd",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-20",
+        "rawText": "Application Deadline: 20 October 2026 Applications are now open for the 2027 ICGEB South African Women in Biotechnology Programme SAWBP – Postdoctoral Fellowship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 20 October 2026 Applications are now open for the 2027 ICGEB South African Women in Biotechnology Programme SAWBP – Postdoctoral Fellowship. The ICGEB-SAWBP PhD Fellowship Scheme, in partnership… The post ICGEB South African Women in Biotechnology Programme SAWBP – Postdoctoral Fellowship 2027 for South African women Researchers. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/icgeb-south-african-women-in-biotechnology-programme-sawbp-postdoctoral-fellowship-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/icgeb-south-african-women-in-biotechnology-programme-sawbp-postdoctoral-fellowship-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/icgeb-south-african-women-in-biotechnology-programme-sawbp-postdoctoral-fellowship-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-05T01:44:31.885Z",
+      "updatedAt": "2026-09-05T01:44:31.885Z",
+      "lastVerifiedAt": "2026-09-05T01:44:31.885Z",
+      "contentHash": "5496e9d5f8114a46",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
     }
   ],
   "changes": [
+    {
+      "opportunityId": "opp_67c03977ff0eafbe",
+      "changedAt": "2026-09-05T01:44:34.442Z",
+      "runId": "run_1788572671885",
+      "changedFields": [
+        {
+          "field": "deadline",
+          "from": null,
+          "to": "2026-09-15"
+        }
+      ]
+    },
     {
       "opportunityId": "opp_eb2c3feabff38543",
       "changedAt": "2026-08-28T22:50:20.374Z",
