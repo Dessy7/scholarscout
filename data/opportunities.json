@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:39:19.909Z",
+  "generatedAt": "2026-09-06T15:55:52.570Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-06T01:38:34.949Z",
+      "lastVerifiedAt": "2026-09-06T15:55:12.039Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:41.148Z",
+      "lastVerifiedAt": "2026-09-06T15:55:16.492Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:46.800Z",
+      "lastVerifiedAt": "2026-09-06T15:55:21.006Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:48.852Z",
+      "lastVerifiedAt": "2026-09-06T15:55:23.057Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:52.667Z",
+      "lastVerifiedAt": "2026-09-06T15:55:26.022Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:56.448Z",
+      "lastVerifiedAt": "2026-09-06T15:55:29.364Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:38:58.576Z",
+      "lastVerifiedAt": "2026-09-06T15:55:31.981Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:39:02.295Z",
+      "lastVerifiedAt": "2026-09-06T15:55:36.208Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-06T01:39:06.574Z",
+      "lastVerifiedAt": "2026-09-06T15:55:40.653Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -15287,7 +15287,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-03T16:47:58.542Z",
       "updatedAt": "2026-09-03T16:47:58.542Z",
-      "lastVerifiedAt": "2026-09-06T01:39:16.533Z",
+      "lastVerifiedAt": "2026-09-06T15:55:49.679Z",
       "contentHash": "b06feec1c6a3e574",
       "verificationStatus": "needs_review",
       "environmental": true,
@@ -16337,7 +16337,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-06T01:39:16.532Z",
+      "lastVerifiedAt": "2026-09-06T15:55:49.678Z",
       "contentHash": "3e1349d78453a302",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16455,7 +16455,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-06T01:39:16.532Z",
+      "lastVerifiedAt": "2026-09-06T15:55:49.678Z",
       "contentHash": "6b1fdcd97edbb2dc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16574,7 +16574,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-06T01:39:19.909Z",
+      "lastVerifiedAt": "2026-09-06T15:55:52.570Z",
       "contentHash": "5208da1d3ffebae4",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17161,7 +17161,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-05T01:44:31.885Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-06T01:39:16.530Z",
+      "lastVerifiedAt": "2026-09-06T15:55:49.677Z",
       "contentHash": "5496e9d5f8114a46",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17279,7 +17279,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-06T01:38:32.371Z",
       "updatedAt": "2026-09-06T01:38:32.371Z",
-      "lastVerifiedAt": "2026-09-06T01:38:32.371Z",
+      "lastVerifiedAt": "2026-09-06T15:55:52.569Z",
       "contentHash": "b7a4740d527f1126",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17396,7 +17396,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-06T01:38:32.371Z",
       "updatedAt": "2026-09-06T01:38:32.371Z",
-      "lastVerifiedAt": "2026-09-06T01:38:32.371Z",
+      "lastVerifiedAt": "2026-09-06T15:55:52.569Z",
       "contentHash": "43438f26c45012a5",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17514,7 +17514,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-06T01:38:32.371Z",
       "updatedAt": "2026-09-06T01:38:32.371Z",
-      "lastVerifiedAt": "2026-09-06T01:38:32.371Z",
+      "lastVerifiedAt": "2026-09-06T15:55:52.570Z",
       "contentHash": "14ab389cf9b38dcf",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17593,6 +17593,357 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_4941dc882d13051b",
+      "title": "How to Use Opportunity Desk to Reach Your Desired Future",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "The future you desire may feel far away, but sometimes the distance between where you are and where you want to be is simply access to the right opportunity. That is where Opportunity Desk comes in. Opportunity Desk connects young people, students, professionals, entrepreneurs and changemakers with opportunities from around the world. From scholarships and fellowships to [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/06/how-to-use-opportunity-desk-to-reach-your-desired-future/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/06/how-to-use-opportunity-desk-to-reach-your-desired-future/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/06/how-to-use-opportunity-desk-to-reach-your-desired-future",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-06T15:55:09.590Z",
+      "updatedAt": "2026-09-06T15:55:09.590Z",
+      "lastVerifiedAt": "2026-09-06T15:55:09.590Z",
+      "contentHash": "9f143d116967fb9e",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 28,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8f79db09b59a7350",
+      "title": "Mastercard Foundation Scholarships: What Sets the Programme Apart, Who Can Apply and How to Get Started",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "For many talented young Africans, the challenge is not a lack of ambition or academic ability, but access to the resources, networks and opportunities that can turn that potential into impact. The Mastercard Foundation Scholars Program was created to help address that gap. Since its launch in 2012, the programme has developed into much more than a [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/06/mastercard-foundation-scholarships-what-sets-the-programme-apart-who-can-apply-and-how-to-get-started/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/06/mastercard-foundation-scholarships-what-sets-the-programme-apart-who-can-apply-and-how-to-get-started/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/06/mastercard-foundation-scholarships-what-sets-the-programme-apart-who-can-apply-and-how-to-get-started",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-06T15:55:09.590Z",
+      "updatedAt": "2026-09-06T15:55:09.590Z",
+      "lastVerifiedAt": "2026-09-06T15:55:09.590Z",
+      "contentHash": "d9d694966a57e703",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 28,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_89ee3b646a8bd6e7",
+      "title": "34 Scholarships, Fellowships, Conferences and Travel Opportunities Currently Open – September 6, 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "software_engineering"
+      ],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "Mastercard Foundation Scholars Program at University of British Columbia 2027The Mastercard Foundation Scholars Program at the University of British Columbia supports talented young people from Africa to pursue eligible graduate programmes at UBC.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "Mastercard Foundation Scholars Program at University of British Columbia 2027The Mastercard Foundation Scholars Program at the University of British Columbia supports talented young people from Africa to pursue eligible graduate programmes at UBC.",
+      "ghanaEligibility": "africa_eligible",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "1. Mastercard Foundation Scholars Program at University of British Columbia 2027The Mastercard Foundation Scholars Program at the University of British Columbia supports talented young people from Africa to pursue eligible graduate programmes at UBC. Scholars receive comprehensive financial support alongside academic, social, leadership and career-development programming. The current programme focuses on areas including forestry, agriculture, [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/06/34-scholarships-fellowships-conferences-and-travel-opportunities-currently-open-september-6-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/06/34-scholarships-fellowships-conferences-and-travel-opportunities-currently-open-september-6-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/06/34-scholarships-fellowships-conferences-and-travel-opportunities-currently-open-september-6-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-06T15:55:09.590Z",
+      "updatedAt": "2026-09-06T15:55:09.590Z",
+      "lastVerifiedAt": "2026-09-06T15:55:09.590Z",
+      "contentHash": "5bad4071395d9f94",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 53,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 18,
+            "reason": "African applicants (including Ghana) eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "African applicants (including Ghana) eligible",
+          "Matches one of your priority fields"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Deadline could not be verified",
           "Some details need manual review"
         ]
       }
