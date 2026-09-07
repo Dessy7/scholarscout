@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:37:24.918Z",
+  "generatedAt": "2026-09-07T18:01:56.465Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-07T01:36:24.450Z",
+      "lastVerifiedAt": "2026-09-07T18:00:55.882Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:30.038Z",
+      "lastVerifiedAt": "2026-09-07T18:01:02.481Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:34.038Z",
+      "lastVerifiedAt": "2026-09-07T18:01:06.162Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:36.186Z",
+      "lastVerifiedAt": "2026-09-07T18:01:08.594Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:38.291Z",
+      "lastVerifiedAt": "2026-09-07T18:01:10.643Z",
       "contentHash": "bc7292346fdfce15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:40.936Z",
+      "lastVerifiedAt": "2026-09-07T18:01:13.500Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:44.613Z",
+      "lastVerifiedAt": "2026-09-07T18:01:16.655Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:36:46.760Z",
+      "lastVerifiedAt": "2026-09-07T18:01:18.824Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-07T01:37:12.568Z",
+      "lastVerifiedAt": "2026-09-07T18:01:44.640Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -16337,7 +16337,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-04T16:40:42.811Z",
       "updatedAt": "2026-09-04T16:40:42.811Z",
-      "lastVerifiedAt": "2026-09-07T01:37:21.737Z",
+      "lastVerifiedAt": "2026-09-07T18:01:53.487Z",
       "contentHash": "3e1349d78453a302",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17161,7 +17161,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-05T01:44:31.885Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-07T01:37:21.736Z",
+      "lastVerifiedAt": "2026-09-07T18:01:53.486Z",
       "contentHash": "5496e9d5f8114a46",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17630,7 +17630,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-06T15:55:09.590Z",
       "updatedAt": "2026-09-06T15:55:09.590Z",
-      "lastVerifiedAt": "2026-09-07T01:37:24.916Z",
+      "lastVerifiedAt": "2026-09-07T18:01:56.464Z",
       "contentHash": "9f143d116967fb9e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17746,7 +17746,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-06T15:55:09.590Z",
       "updatedAt": "2026-09-06T15:55:09.590Z",
-      "lastVerifiedAt": "2026-09-07T01:37:24.916Z",
+      "lastVerifiedAt": "2026-09-07T18:01:56.465Z",
       "contentHash": "d9d694966a57e703",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17944,6 +17944,712 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_72f75e108852c183",
+      "title": "The National Treasury Chartered Accountants Academy Programme 2027 for young South Africans (Three-years full-time training contract)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "non_degree",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-02",
+        "rawText": "Application Deadline: 02 October 2026 at 12h00 (midday) Applications are now open for the 2027 National Treasury Chartered Accountants Academy Programme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 02 October 2026 at 12h00 (midday) Applications are now open for the 2027 National Treasury Chartered Accountants Academy Programme. The National Treasury’s Chartered Accountants Academy offers a three-year… The post The National Treasury Chartered Accountants Academy Programme 2027 for young South Africans (Three-years full-time training contract) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-national-treasury-chartered-accountants-academy-programme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-national-treasury-chartered-accountants-academy-programme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-national-treasury-chartered-accountants-academy-programme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "538d5a1c9211b633",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_f500d3a75a58f786",
+      "title": "MTN Foundation ICT and Business Skills Training (Phase 8) for young Nigerian Entrepreneurs (N100 million in Equipment Grant)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [
+        "information_technology"
+      ],
+      "level": "non_degree",
+      "type": "funded_training",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-11",
+        "rawText": "Application Deadline: October 11, 2026 Applications are now open for the MTN Foundation ICT and Business Skills Training (Phase 8).",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: October 11, 2026 Applications are now open for the MTN Foundation ICT and Business Skills Training (Phase 8). The MTN ICT and Business Skills Training Programme empowers young… The post MTN Foundation ICT and Business Skills Training (Phase 8) for young Nigerian Entrepreneurs (N100 million in Equipment Grant) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/mtn-foundation-ict-and-business-skills-training-phase-8/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/mtn-foundation-ict-and-business-skills-training-phase-8/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/mtn-foundation-ict-and-business-skills-training-phase-8",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "9c154abc0d78fff7",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 49,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_7fe7a85fd2dc0958",
+      "title": "The Association of Commonwealth Universities (ACU) Early Career Conference Grants 2026 for early career researchers.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "non_degree",
+      "type": "conference",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-13",
+        "rawText": "Application Deadline: 13 October 2026, 15:00 UTC Applications are now open for the 2026 Association of Commonwealth Universities (ACU) Early Career Conference Grants.",
+        "timezone": "Etc/UTC"
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 13 October 2026, 15:00 UTC Applications are now open for the 2026 Association of Commonwealth Universities (ACU) Early Career Conference Grants. Early Career Conference Grants help to ensure… The post The Association of Commonwealth Universities (ACU) Early Career Conference Grants 2026 for early career researchers. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-association-of-commonwealth-universities-acu-early-career-conference-grants-for-early-career-researchers/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-association-of-commonwealth-universities-acu-early-career-conference-grants-for-early-career-researchers/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-association-of-commonwealth-universities-acu-early-career-conference-grants-for-early-career-researchers",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "0257b9f3a5a759f4",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d1f8bf423079de65",
+      "title": "Mycoskie – UC Berkeley Psychedelic Documentary Fellowship 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-05",
+        "rawText": "Deadline: October 5, 2026 Applications are open for the Mycoskie – UC Berkeley Psychedelic Documentary Fellowship 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 5, 2026 Applications are open for the Mycoskie – UC Berkeley Psychedelic Documentary Fellowship 2026. The Mycoskie-UC Berkeley Psychedelic Documentary Fellowship aims to empower a new generation of filmmakers exploring the burgeoning field of psychedelics. They are looking for groundbreaking narratives fit for cinematic storytelling – untold stories that captivate audiences and shed [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/07/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/07/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/07/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "0e3cebb1a00d8ebc",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8058881c4ea4bc9b",
+      "title": "ACU Early Career Conference Grants 2026-2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "non_degree",
+      "type": "conference",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "The Early Career Conference Grants help to ensure that emerging researchers – and the universities that employ them – can benefit from the valuable opportunity of attending and taking part in in-person conferences in Commonwealth countries outside of their country [...] Deadline: October 13, 2026 Ap",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "The Early Career Conference Grants help to ensure that emerging researchers – and the universities that employ them – can benefit from the valuable opportunity of attending and taking part in in-person conferences in Commonwealth countries outside of their country [...] Deadline: October 13, 2026 Ap",
+      "ghanaEligibility": "international",
+      "deadline": {
+        "date": "2026-10-13",
+        "rawText": "Deadline: October 13, 2026 Applications are open for the ACU Early Career Conference Grants 2026-2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 13, 2026 Applications are open for the ACU Early Career Conference Grants 2026-2027. The Early Career Conference Grants help to ensure that emerging researchers – and the universities that employ them – can benefit from the valuable opportunity of attending and taking part in in-person conferences in Commonwealth countries outside of their country [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/07/acu-early-career-conference-grants-2026-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/07/acu-early-career-conference-grants-2026-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/07/acu-early-career-conference-grants-2026-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "1dd1b51215304d75",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 16,
+            "reason": "Open to international applicants"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Open to international applicants",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_7990f18c5bf45eed",
+      "title": "NGO Whisperer Global Fellows Programme Class of 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-15",
+        "rawText": "Deadline: September 15, 2026 Applications are open for the NGO Whisperer Global Fellows Programme Class of 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 15, 2026 Applications are open for the NGO Whisperer Global Fellows Programme Class of 2027. The NGO Whisperer Global Fellowship Programme is an accredited seven-month rigorous online leadership programme for exceptional leaders and founders of mission-led Voluntary, Community, Faith, and Social Enterprise (VCFSE) organisations, and public sector leaders across the globe, especially those [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/07/ngo-whisperer-global-fellows-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/07/ngo-whisperer-global-fellows-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/07/ngo-whisperer-global-fellows-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-07T18:00:53.416Z",
+      "updatedAt": "2026-09-07T18:00:53.416Z",
+      "lastVerifiedAt": "2026-09-07T18:00:53.416Z",
+      "contentHash": "7715c69af29d1dc9",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
