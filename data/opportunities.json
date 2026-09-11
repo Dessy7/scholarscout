@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:48:50.026Z",
+  "generatedAt": "2026-09-11T01:49:15.006Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-10T16:48:04.969Z",
+      "lastVerifiedAt": "2026-09-11T01:48:29.355Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:10.252Z",
+      "lastVerifiedAt": "2026-09-11T01:48:36.281Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-10T16:48:14.223Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:16.520Z",
+      "lastVerifiedAt": "2026-09-11T01:48:41.973Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-10T16:48:18.671Z",
+      "lastVerifiedAt": "2026-09-11T01:48:44.074Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:21.536Z",
+      "lastVerifiedAt": "2026-09-11T01:48:47.397Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:25.806Z",
+      "lastVerifiedAt": "2026-09-11T01:48:51.108Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:28.373Z",
+      "lastVerifiedAt": "2026-09-11T01:48:53.231Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:32.143Z",
+      "lastVerifiedAt": "2026-09-11T01:48:57.309Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-10T16:48:37.084Z",
+      "lastVerifiedAt": "2026-09-11T01:49:03.075Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -17981,7 +17981,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-07T18:00:53.416Z",
       "updatedAt": "2026-09-07T18:00:53.416Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.528Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.191Z",
       "contentHash": "538d5a1c9211b633",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -18687,7 +18687,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-08T16:57:22.616Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.190Z",
       "contentHash": "98b980f9e26e5a36",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -18805,7 +18805,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-08T16:57:22.616Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.527Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.190Z",
       "contentHash": "10a4506f1c23e120",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -18923,7 +18923,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-08T16:57:22.616Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.527Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.190Z",
       "contentHash": "dd542e01fc8b1de0",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -18978,7 +18978,7 @@
             "label": "Deadline urgency",
             "weight": 5,
             "earned": 5,
-            "reason": "Healthy application window (≤ 30 days)"
+            "reason": "Healthy application window (≤ 7 days)"
           },
           {
             "key": "type",
@@ -19041,7 +19041,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-08T16:57:22.616Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.528Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.190Z",
       "contentHash": "1c3491ccb8e14eb3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -19392,7 +19392,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-09T16:57:21.493Z",
       "updatedAt": "2026-09-09T16:57:21.493Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.526Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.189Z",
       "contentHash": "32f38f3887e5b9e3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -19508,7 +19508,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-09T16:57:21.493Z",
       "updatedAt": "2026-09-09T16:57:21.493Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.526Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.189Z",
       "contentHash": "775be827d6a9190e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -19626,12 +19626,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-09T16:57:21.493Z",
       "updatedAt": "2026-09-09T16:57:21.493Z",
-      "lastVerifiedAt": "2026-09-10T16:48:46.526Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.190Z",
       "contentHash": "5a4178ffaa5431ec",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 51,
+        "score": 52,
         "tier": "fair",
         "breakdown": [
           {
@@ -19680,8 +19680,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -19746,7 +19746,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-09T16:57:21.493Z",
       "updatedAt": "2026-09-09T16:57:21.493Z",
-      "lastVerifiedAt": "2026-09-10T16:48:50.026Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "8cff9703f45eabb6",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -19862,7 +19862,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-09T16:57:21.493Z",
       "updatedAt": "2026-09-09T16:57:21.493Z",
-      "lastVerifiedAt": "2026-09-10T16:48:50.026Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "06996ed8e044996f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20447,7 +20447,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:12.188Z",
       "contentHash": "8fdaff2325dba344",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20564,7 +20564,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.005Z",
       "contentHash": "85e4276af6d14a2b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20681,7 +20681,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.005Z",
       "contentHash": "b65010081f6606ad",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20736,7 +20736,7 @@
             "label": "Deadline urgency",
             "weight": 5,
             "earned": 5,
-            "reason": "Healthy application window (≤ 30 days)"
+            "reason": "Healthy application window (≤ 7 days)"
           },
           {
             "key": "type",
@@ -20798,7 +20798,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.005Z",
       "contentHash": "5ca40b4cbf06c39f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20914,7 +20914,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.005Z",
       "contentHash": "f4e4ee7a685cb45d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -21031,8 +21031,125 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "8ba1e43089c5e5ef",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_9c5773ce81507961",
+      "title": "Chevening British Library Coptic Collections Fellowship 2027 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-27",
+        "rawText": "Deadline: October 27, 2026 Applications are open for the Chevening British Library Coptic Collections Fellowship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 27, 2026 Applications are open for the Chevening British Library Coptic Collections Fellowship 2027. The Chevening British Library Coptic Collections Fellowship is co-funded by the British Library and the UK Foreign, Commonwealth and Development Office. It is open to applications from mid-career professionals from Egypt, Palestine, and Sudan, who have a strong interest [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-10T16:48:02.447Z",
+      "updatedAt": "2026-09-10T16:48:02.447Z",
+      "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
+      "contentHash": "ed2e8ffd0a002b40",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
@@ -21116,8 +21233,8 @@
       }
     },
     {
-      "id": "opp_9c5773ce81507961",
-      "title": "Chevening British Library Coptic Collections Fellowship 2027 (Funded)",
+      "id": "opp_a63dd54a4a9d0d1d",
+      "title": "20 Hot Jobs With Deadline Fast Approaching – September 10, 2026",
       "organization": "Opportunity Desk (RSS)",
       "university": null,
       "country": null,
@@ -21125,7 +21242,7 @@
       "region": null,
       "fields": [],
       "level": "unknown",
-      "type": "fellowship",
+      "type": "other",
       "fundingType": "unknown",
       "fundingDetails": null,
       "eligibilityText": null,
@@ -21134,26 +21251,26 @@
       "nationalityRequirement": null,
       "ghanaEligibility": "unknown",
       "deadline": {
-        "date": "2026-10-27",
-        "rawText": "Deadline: October 27, 2026 Applications are open for the Chevening British Library Coptic Collections Fellowship 2027.",
+        "date": null,
+        "rawText": null,
         "timezone": null
       },
       "startDate": null,
       "duration": null,
-      "summary": "Deadline: October 27, 2026 Applications are open for the Chevening British Library Coptic Collections Fellowship 2027. The Chevening British Library Coptic Collections Fellowship is co-funded by the British Library and the UK Foreign, Commonwealth and Development Office. It is open to applications from mid-career professionals from Egypt, Palestine, and Sudan, who have a strong interest [...]",
-      "applicationUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
-      "sourceUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
-      "canonicalUrl": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027",
+      "summary": "1. LEAP Africa Director of ProgrammesLEAP Africa is recruiting an executive Director of Programmes to guide the strategic expansion, delivery, and evaluation of youth leadership, social entrepreneurship, and workforce development initiatives across its African regional offices. The Director leads programmatic teams, manages multi-stakeholder and bilateral donor funding streams, and oversees organizational monitoring and evaluation metrics. [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/10/20-hot-jobs-with-deadline-fast-approaching-september-10-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/10/20-hot-jobs-with-deadline-fast-approaching-september-10-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/10/20-hot-jobs-with-deadline-fast-approaching-september-10-2026",
       "sourceId": "opportunity-desk",
       "sourceName": "Opportunity Desk (RSS)",
-      "discoveredAt": "2026-09-10T16:48:02.447Z",
-      "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-10T16:48:02.447Z",
-      "contentHash": "ed2e8ffd0a002b40",
+      "discoveredAt": "2026-09-11T01:48:26.831Z",
+      "updatedAt": "2026-09-11T01:48:26.831Z",
+      "lastVerifiedAt": "2026-09-11T01:48:26.831Z",
+      "contentHash": "9a2a6230af825d8d",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 33,
+        "score": 28,
         "tier": "weak",
         "breakdown": [
           {
@@ -21202,15 +21319,15 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 2,
+            "reason": "Deadline not confirmed"
           },
           {
             "key": "type",
             "label": "Opportunity-type preference",
             "weight": 5,
-            "earned": 5,
-            "reason": "Matches your target opportunity types"
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
           },
           {
             "key": "verification",
@@ -21220,14 +21337,13 @@
             "reason": "Some details need manual review"
           }
         ],
-        "reasons": [
-          "Matches your target opportunity types"
-        ],
+        "reasons": [],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Deadline could not be verified",
           "Some details need manual review"
         ]
       }
