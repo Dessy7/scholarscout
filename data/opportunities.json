@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:04:37.222Z",
+  "generatedAt": "2026-09-16T17:25:04.249Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-16T02:03:35.432Z",
+      "lastVerifiedAt": "2026-09-16T17:24:17.281Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:41.991Z",
+      "lastVerifiedAt": "2026-09-16T17:24:24.709Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:46.026Z",
+      "lastVerifiedAt": "2026-09-16T17:24:28.719Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:48.235Z",
+      "lastVerifiedAt": "2026-09-16T17:24:31.391Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-16T02:03:50.410Z",
+      "lastVerifiedAt": "2026-09-16T17:24:33.527Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:53.319Z",
+      "lastVerifiedAt": "2026-09-16T17:24:36.485Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:56.799Z",
+      "lastVerifiedAt": "2026-09-16T17:24:39.851Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:03:58.972Z",
+      "lastVerifiedAt": "2026-09-16T17:24:42.013Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,9 +983,9 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:35.089Z",
+      "lastVerifiedAt": "2026-09-16T17:24:45.826Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 44,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T02:04:24.221Z",
+      "lastVerifiedAt": "2026-09-16T17:24:51.248Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -21381,7 +21381,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-11T16:50:11.719Z",
       "updatedAt": "2026-09-11T16:50:11.719Z",
-      "lastVerifiedAt": "2026-09-16T02:04:33.953Z",
+      "lastVerifiedAt": "2026-09-16T17:25:01.197Z",
       "contentHash": "256a1876564b7097",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22431,7 +22431,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-16T02:04:33.951Z",
+      "lastVerifiedAt": "2026-09-16T17:25:01.197Z",
       "contentHash": "46818b89b181804c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22549,7 +22549,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-16T02:04:33.952Z",
+      "lastVerifiedAt": "2026-09-16T17:25:01.197Z",
       "contentHash": "a783f3e163fb68da",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23604,7 +23604,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-16T02:04:33.949Z",
+      "lastVerifiedAt": "2026-09-16T17:25:01.196Z",
       "contentHash": "033a13ee584bf7d7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23722,7 +23722,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-16T02:04:37.220Z",
+      "lastVerifiedAt": "2026-09-16T17:25:04.249Z",
       "contentHash": "79019d636a6617f2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24266,6 +24266,585 @@
         ],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_b55cf7fd483ee2f6",
+      "title": "The European University Institute Jean Monnet Fellowships 2027 for PhD Scholars (€ 2,850 per month grant and Fully Funded to Florence, Italy)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "phd",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-23",
+        "rawText": "Application Deadline: 23 October 2026 (14:00 CEST).",
+        "timezone": "Europe/Paris"
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 23 October 2026 (14:00 CEST). Applications are now open for the 2027 European University Institute Jean Monnet Fellowships. The Robert Schuman Centre for Advanced Studies offers one-year Jean… The post The European University Institute Jean Monnet Fellowships 2027 for PhD Scholars (€ 2,850 per month grant and Fully Funded to Florence, Italy) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-16T17:24:14.792Z",
+      "updatedAt": "2026-09-16T17:24:14.792Z",
+      "lastVerifiedAt": "2026-09-16T17:24:14.792Z",
+      "contentHash": "3a098cf15db9f426",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 48,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_154434239c6935f4",
+      "title": "CANEX Create-Thon 2026 ($50,000 prize pool)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-25",
+        "rawText": "Deadline: September 25, 2026 Applications for the CANEX Create-Thon 2026 are now open.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 25, 2026 Applications for the CANEX Create-Thon 2026 are now open. The CANEX Create-Thon 2026, powered by Gebeya is a Pan-African creative technology competition designed to discover and showcase Africa’s next generation of innovators across Gaming, Video, and Music. Brought to you by CANEX in partnership with Gebeya and Afreximbank Innovation Lab, participants [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/16/canex-create-thon-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/16/canex-create-thon-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/16/canex-create-thon-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-16T17:24:14.792Z",
+      "updatedAt": "2026-09-16T17:24:14.792Z",
+      "lastVerifiedAt": "2026-09-16T17:24:14.792Z",
+      "contentHash": "0eb5a05ac913e9b7",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "Adjacent discipline with a technology component"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_22b6804d49a1d9c8",
+      "title": "Teach for Uganda STEM Fellowship 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-14",
+        "rawText": "Deadline: October 14, 2026 Applications are open for the Teach for Uganda STEM Fellowship 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 14, 2026 Applications are open for the Teach for Uganda STEM Fellowship 2026. The Teach for Uganda STEM Fellowship is a pilot program implemented under the Leaders in Teaching Program, a flagship initiative supported by the Mastercard Foundation and led by the Luigi Giussani Foundation through a consortium of education partners. The Fellowship responds [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/16/teach-for-uganda-stem-fellowship-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/16/teach-for-uganda-stem-fellowship-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/16/teach-for-uganda-stem-fellowship-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-16T17:24:14.792Z",
+      "updatedAt": "2026-09-16T17:24:14.792Z",
+      "lastVerifiedAt": "2026-09-16T17:24:14.792Z",
+      "contentHash": "f865088b9fd89cfe",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_31343f0276c01187",
+      "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "phd",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-02",
+        "rawText": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 2, 2026 Applications are open for the AfricaLics PhD Visiting Fellowship Programme (VFP) 2027. The AfricaLics VFP aims to support African PhD students working in Innovation and Development by strengthening their academic and research capabilities, improving the quality of their dissertations, and preparing them for careers in academia, the private sector, or government [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-16T17:24:14.792Z",
+      "updatedAt": "2026-09-16T17:24:14.792Z",
+      "lastVerifiedAt": "2026-09-16T17:24:14.792Z",
+      "contentHash": "7d1d2b09d42dcdb4",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 39,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "Adjacent discipline with a technology component"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_e333ba1cdfdff84d",
+      "title": "Cloneshouse Internship Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-06",
+        "rawText": "Deadline: November 6, 2026 Applications are open for the Cloneshouse Internship Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 6, 2026 Applications are open for the Cloneshouse Internship Programme 2027. The Cloneshouse Internship Programme is a practical learning and professional development initiative designed to equip young professionals with hands-on experience, ethical grounding, and relevant skills in Monitoring, Evaluation and Learning (MEL), Business Development, Evidence Generation, and Impact Technology. Delivered by Cloneshouse Foundation [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/16/cloneshouse-internship-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/16/cloneshouse-internship-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/16/cloneshouse-internship-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-16T17:24:14.792Z",
+      "updatedAt": "2026-09-16T17:24:14.792Z",
+      "lastVerifiedAt": "2026-09-16T17:24:14.792Z",
+      "contentHash": "a4707e457c501832",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
           "Some details need manual review"
