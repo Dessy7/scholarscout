@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:25:52.675Z",
+  "generatedAt": "2026-09-16T02:04:37.222Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,13 +34,13 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-15T17:25:10.261Z",
+      "lastVerifiedAt": "2026-09-16T02:03:35.432Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
       "match": {
-        "score": 55,
-        "tier": "good",
+        "score": 53,
+        "tier": "fair",
         "breakdown": [
           {
             "key": "nationality",
@@ -88,8 +88,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 2.5,
-            "reason": "Closes today — extremely tight"
+            "earned": 0,
+            "reason": "Deadline has passed"
           },
           {
             "key": "type",
@@ -113,8 +113,7 @@
         ],
         "concerns": [
           "Funding details could not be verified from the source",
-          "Academic requirement not stated — check the programme page",
-          "Closes today — extremely tight"
+          "Academic requirement not stated — check the programme page"
         ]
       }
     },
@@ -153,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:14.817Z",
+      "lastVerifiedAt": "2026-09-16T02:03:41.991Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -272,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:18.684Z",
+      "lastVerifiedAt": "2026-09-16T02:03:46.026Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -391,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:21.263Z",
+      "lastVerifiedAt": "2026-09-16T02:03:48.235Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -510,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-15T17:25:23.323Z",
+      "lastVerifiedAt": "2026-09-16T02:03:50.410Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -628,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:25.539Z",
+      "lastVerifiedAt": "2026-09-16T02:03:53.319Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -746,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:28.642Z",
+      "lastVerifiedAt": "2026-09-16T02:03:56.799Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -866,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:30.811Z",
+      "lastVerifiedAt": "2026-09-16T02:03:58.972Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -986,7 +985,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-15T17:25:35.089Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -1103,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-15T17:25:40.678Z",
+      "lastVerifiedAt": "2026-09-16T02:04:24.221Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -20448,7 +20447,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-10T16:48:02.447Z",
       "updatedAt": "2026-09-10T16:48:02.447Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.418Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.954Z",
       "contentHash": "8fdaff2325dba344",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -21382,7 +21381,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-11T16:50:11.719Z",
       "updatedAt": "2026-09-11T16:50:11.719Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.417Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.953Z",
       "contentHash": "256a1876564b7097",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -21500,12 +21499,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-11T16:50:11.719Z",
       "updatedAt": "2026-09-11T16:50:11.719Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.417Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.953Z",
       "contentHash": "e06e2331773f571a",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 48,
+        "score": 49,
         "tier": "fair",
         "breakdown": [
           {
@@ -21554,8 +21553,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 4.3,
-            "reason": "Deadline is comfortably in the future"
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
           },
           {
             "key": "type",
@@ -21617,7 +21616,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-11T16:50:11.719Z",
       "updatedAt": "2026-09-11T16:50:11.719Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.417Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.953Z",
       "contentHash": "be70496baabd5ea4",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22432,7 +22431,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.416Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.951Z",
       "contentHash": "46818b89b181804c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22550,7 +22549,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-15T17:25:49.416Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.952Z",
       "contentHash": "a783f3e163fb68da",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22668,7 +22667,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-15T17:25:52.675Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "708702b5d0df62e8",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22785,7 +22784,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-15T17:25:52.675Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.222Z",
       "contentHash": "a489405a5961738d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -22904,12 +22903,12 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-14T18:17:15.310Z",
       "updatedAt": "2026-09-14T18:17:15.310Z",
-      "lastVerifiedAt": "2026-09-15T17:25:52.675Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.222Z",
       "contentHash": "90a656f807d3adf5",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 44,
+        "score": 41,
         "tier": "fair",
         "breakdown": [
           {
@@ -22958,8 +22957,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 2.5,
-            "reason": "Closes today — extremely tight"
+            "earned": 0,
+            "reason": "Deadline has passed"
           },
           {
             "key": "type",
@@ -22982,7 +22981,6 @@
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Academic requirement not stated — check the programme page",
-          "Closes today — extremely tight",
           "Some details need manual review"
         ]
       }
@@ -23606,7 +23604,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:33.949Z",
       "contentHash": "033a13ee584bf7d7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23724,7 +23722,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.220Z",
       "contentHash": "79019d636a6617f2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23843,7 +23841,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.220Z",
       "contentHash": "b7623eb1de1ad67e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23960,7 +23958,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "448fd41b22124f08",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24074,7 +24072,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "af3a20851c5433c2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24190,7 +24188,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-15T17:25:07.791Z",
+      "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "463d5ba6b59fdf99",
       "verificationStatus": "needs_review",
       "environmental": false,
