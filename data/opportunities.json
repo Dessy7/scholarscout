@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T02:08:44.291Z",
+  "generatedAt": "2026-09-17T17:24:10.204Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-17T02:07:42.577Z",
+      "lastVerifiedAt": "2026-09-17T17:23:25.339Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:07:49.179Z",
+      "lastVerifiedAt": "2026-09-17T17:23:30.580Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T17:24:28.719Z",
+      "lastVerifiedAt": "2026-09-17T17:23:34.813Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:07:54.191Z",
+      "lastVerifiedAt": "2026-09-17T17:23:37.572Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-17T02:07:56.239Z",
+      "lastVerifiedAt": "2026-09-17T17:23:39.753Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:07:59.851Z",
+      "lastVerifiedAt": "2026-09-17T17:23:42.593Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:08:03.791Z",
+      "lastVerifiedAt": "2026-09-17T17:23:46.385Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:08:06.247Z",
+      "lastVerifiedAt": "2026-09-17T17:23:48.972Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,9 +983,9 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-16T17:24:45.826Z",
+      "lastVerifiedAt": "2026-09-17T17:23:52.886Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 44,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T02:08:31.493Z",
+      "lastVerifiedAt": "2026-09-17T17:23:57.568Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23604,7 +23604,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-17T02:08:41.272Z",
+      "lastVerifiedAt": "2026-09-17T17:24:07.109Z",
       "contentHash": "033a13ee584bf7d7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24305,7 +24305,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-16T17:24:14.792Z",
       "updatedAt": "2026-09-16T17:24:14.792Z",
-      "lastVerifiedAt": "2026-09-17T02:08:41.271Z",
+      "lastVerifiedAt": "2026-09-17T17:24:07.109Z",
       "contentHash": "3a098cf15db9f426",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24422,7 +24422,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-16T17:24:14.792Z",
       "updatedAt": "2026-09-16T17:24:14.792Z",
-      "lastVerifiedAt": "2026-09-17T02:08:44.289Z",
+      "lastVerifiedAt": "2026-09-17T17:24:10.204Z",
       "contentHash": "0eb5a05ac913e9b7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24884,7 +24884,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-17T02:07:39.996Z",
       "updatedAt": "2026-09-17T02:07:39.996Z",
-      "lastVerifiedAt": "2026-09-17T02:07:39.996Z",
+      "lastVerifiedAt": "2026-09-17T17:24:07.108Z",
       "contentHash": "7a058bc251440bed",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25004,7 +25004,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-17T02:07:39.996Z",
       "updatedAt": "2026-09-17T02:07:39.996Z",
-      "lastVerifiedAt": "2026-09-17T02:07:39.996Z",
+      "lastVerifiedAt": "2026-09-17T17:24:10.203Z",
       "contentHash": "cdf414fdacc3c332",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25122,7 +25122,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-17T02:07:39.996Z",
       "updatedAt": "2026-09-17T02:07:39.996Z",
-      "lastVerifiedAt": "2026-09-17T02:07:39.996Z",
+      "lastVerifiedAt": "2026-09-17T17:24:10.204Z",
       "contentHash": "e69f7c88f957d223",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25203,6 +25203,593 @@
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
           "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_f1e14a7acb19be75",
+      "title": "The World Bank Group Small AI for Development Hackathon Challenge 2026 (Fully Funded to present at the 2026 Global AI and Digital Summit in Seoul, South Korea)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [
+        "ai"
+      ],
+      "level": "unknown",
+      "type": "conference",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-26",
+        "rawText": "Application Deadline: 26 September 2026 Applications are now open for the 2026 World Bank Group Small AI for Development Hackathon Challenge.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 26 September 2026 Applications are now open for the 2026 World Bank Group Small AI for Development Hackathon Challenge. Artificial intelligence is changing what is possible in development.… The post The World Bank Group Small AI for Development Hackathon Challenge 2026 (Fully Funded to present at the 2026 Global AI and Digital Summit in Seoul, South Korea) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-17T17:23:22.765Z",
+      "updatedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "contentHash": "2a2025a4ed5bc8a5",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 64,
+        "tier": "good",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Matches one of your priority fields",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_3274e84267e2edd3",
+      "title": "The International Institute of Tropical Agriculture (IITA) Graduate Internship 2026 for young Nigerians.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: Unspecified Applications are now open for the 2026 International Institute of Tropical Agriculture (IITA) Graduate Internship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: Unspecified Applications are now open for the 2026 International Institute of Tropical Agriculture (IITA) Graduate Internship. The International Institute of Tropical Agriculture (IITA) is a non-profit agricultural research-for-development… The post The International Institute of Tropical Agriculture (IITA) Graduate Internship 2026 for young Nigerians. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-international-institute-of-tropical-agriculture-iita-graduate-internship-2026-for-young-nigerians/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-international-institute-of-tropical-agriculture-iita-graduate-internship-2026-for-young-nigerians/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-international-institute-of-tropical-agriculture-iita-graduate-internship-2026-for-young-nigerians",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-17T17:23:22.765Z",
+      "updatedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "contentHash": "a84317d17f27cd00",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_082d0c371bb1c216",
+      "title": "U.S. Department of State’s Gilman-McCain Scholarship – Fall 2026 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-01",
+        "rawText": "Deadline: October 1, 2026 Applications are open for the U.S.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 1, 2026 Applications are open for the U.S. Department of State’s Gilman-McCain Scholarship – Fall 2026. The John S. McCain International Scholarship for Military Families (Gilman-McCain Scholarship) is a congressionally funded initiative of the Bureau of Educational and Cultural Affairs at the U.S. Department of State and named after the late senator John [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-17T17:23:22.765Z",
+      "updatedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "contentHash": "d58b037fbcb281c2",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_13f5358e63270907",
+      "title": "AGNES Intra-Africa Mobility Grants for Junior Researchers 2026 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-16",
+        "rawText": "Deadline: October 16, 2026 Applications are open for the AGNES Intra-Africa Mobility Grants for Junior Researchers 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 16, 2026 Applications are open for the AGNES Intra-Africa Mobility Grants for Junior Researchers 2026. This grant is generously funded by the German Ministry for Economic Cooperation and Development (BMZ) and with the support of the Alexander von Humboldt Foundation (AvH). This AGNES Intra-Africa Mobility Grant for Junior Researchers aims to strengthen the [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/agnes-intra-africa-mobility-grants-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-17T17:23:22.765Z",
+      "updatedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "contentHash": "4f0f8a66b5cc7ed1",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_e96de02c15b758a3",
+      "title": "Jean Monnet Fellowship in the Social Sciences & Humanities for Postdoctoral Researchers 2027-2028",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-26",
+        "rawText": "Deadline: October 26, 2026 Applications are open for the Jean Monnet Fellowship in the Social Sciences & Humanities for Postdoctoral Researchers 2027-2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 26, 2026 Applications are open for the Jean Monnet Fellowship in the Social Sciences & Humanities for Postdoctoral Researchers 2027-2028. The Robert Schuman Centre for Advanced Studies offers one-year Jean Monnet Fellowships to scholars who have obtained their doctorate more than five years prior to the start of the fellowship, i.e. 1 September [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/jean-monnet-fellowship-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/jean-monnet-fellowship-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/jean-monnet-fellowship-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-17T17:23:22.765Z",
+      "updatedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "contentHash": "06b8863438dfabed",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
