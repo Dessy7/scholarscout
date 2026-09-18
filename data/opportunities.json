@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:24:10.204Z",
+  "generatedAt": "2026-09-18T01:56:08.963Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-05T01:44:31.885Z",
-      "lastVerifiedAt": "2026-09-17T17:23:25.339Z",
+      "lastVerifiedAt": "2026-09-18T01:55:26.216Z",
       "contentHash": "7c4965bcb645c9d9",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:30.580Z",
+      "lastVerifiedAt": "2026-09-18T01:55:32.176Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-09-17T17:23:34.813Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:37.572Z",
+      "lastVerifiedAt": "2026-09-18T01:55:37.242Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-17T17:23:39.753Z",
+      "lastVerifiedAt": "2026-09-18T01:55:39.302Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:42.593Z",
+      "lastVerifiedAt": "2026-09-18T01:55:41.445Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:46.385Z",
+      "lastVerifiedAt": "2026-09-18T01:55:45.117Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:48.972Z",
+      "lastVerifiedAt": "2026-09-18T01:55:47.571Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:52.886Z",
+      "lastVerifiedAt": "2026-09-18T01:55:51.079Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-17T17:23:57.568Z",
+      "lastVerifiedAt": "2026-09-18T01:55:56.369Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -23604,7 +23604,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-15T17:25:07.791Z",
       "updatedAt": "2026-09-15T17:25:07.791Z",
-      "lastVerifiedAt": "2026-09-17T17:24:07.109Z",
+      "lastVerifiedAt": "2026-09-18T01:56:06.085Z",
       "contentHash": "033a13ee584bf7d7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24305,7 +24305,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-16T17:24:14.792Z",
       "updatedAt": "2026-09-16T17:24:14.792Z",
-      "lastVerifiedAt": "2026-09-17T17:24:07.109Z",
+      "lastVerifiedAt": "2026-09-18T01:56:06.085Z",
       "contentHash": "3a098cf15db9f426",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -24884,7 +24884,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-17T02:07:39.996Z",
       "updatedAt": "2026-09-17T02:07:39.996Z",
-      "lastVerifiedAt": "2026-09-17T17:24:07.108Z",
+      "lastVerifiedAt": "2026-09-18T01:56:06.084Z",
       "contentHash": "7a058bc251440bed",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25242,7 +25242,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-17T17:23:22.765Z",
       "updatedAt": "2026-09-17T17:23:22.765Z",
-      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-18T01:56:06.082Z",
       "contentHash": "2a2025a4ed5bc8a5",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25360,7 +25360,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-17T17:23:22.765Z",
       "updatedAt": "2026-09-17T17:23:22.765Z",
-      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-18T01:56:06.083Z",
       "contentHash": "a84317d17f27cd00",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25478,7 +25478,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-17T17:23:22.765Z",
       "updatedAt": "2026-09-17T17:23:22.765Z",
-      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-18T01:56:08.962Z",
       "contentHash": "d58b037fbcb281c2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25595,7 +25595,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-17T17:23:22.765Z",
       "updatedAt": "2026-09-17T17:23:22.765Z",
-      "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
+      "lastVerifiedAt": "2026-09-18T01:56:08.962Z",
       "contentHash": "4f0f8a66b5cc7ed1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -25712,6 +25712,361 @@
       "updatedAt": "2026-09-17T17:23:22.765Z",
       "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
       "contentHash": "06b8863438dfabed",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_21fb1ee1a798f046",
+      "title": "MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "ai"
+      ],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-23",
+        "rawText": "Deadline: September 23, 2026 Applications are open for the MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 23, 2026 Applications are open for the MAIA AI Safety Fundamentals (AISF) Fellowship – Fall 2026. The AI Safety Fundamentals Fellowship (AISF) is MAIA’s flagship introduction to AI safety and the main way people get involved with MIT AI Alignment. It’s an 8-week reading group designed to help you understand why the field [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-18T01:55:23.640Z",
+      "updatedAt": "2026-09-18T01:55:23.640Z",
+      "lastVerifiedAt": "2026-09-18T01:55:23.640Z",
+      "contentHash": "2add0267c3fd4406",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 47,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a6e2686494985617",
+      "title": "MTN ICT & Business Skills Training Programme (Phase 8)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "information_technology"
+      ],
+      "level": "non_degree",
+      "type": "funded_training",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-11",
+        "rawText": "Deadline: October 11, 2026 Applications for the MTN ICT & Business Skills Training Programme are now open.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 11, 2026 Applications for the MTN ICT & Business Skills Training Programme are now open. The MTN ICT and Business Skills Training Programme empowers young Nigerian microbusiness owners aged 18 – 35 with practical, tech-driven and digital skills to help their businesses thrive in today’s fast-paced economy. Since 2018 the initiative has run [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/mtn-ict-business-skills-training-programme-phase-8/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/mtn-ict-business-skills-training-programme-phase-8/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/mtn-ict-business-skills-training-programme-phase-8",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-18T01:55:23.640Z",
+      "updatedAt": "2026-09-18T01:55:23.640Z",
+      "lastVerifiedAt": "2026-09-18T01:55:23.640Z",
+      "contentHash": "9a5f1fecc4c61c1f",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 47,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d9f43b30490df6db",
+      "title": "The Open Notebook Early-Career Fellowship Program 2027 ($6,600 stipend)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-31",
+        "rawText": "Deadline: October 31, 2026 Applications are open for the Open Notebook Early-Career Fellowship Program 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 31, 2026 Applications are open for the Open Notebook Early-Career Fellowship Program 2027. The Open Notebook offers a paid, part-time fellowship program for early-career science journalists. During the course of this fellowship, fellows work with a mentor to plan, report, and write articles for publication at The Open Notebook and become part of [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/17/the-open-notebook-early-career-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/17/the-open-notebook-early-career-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/17/the-open-notebook-early-career-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-18T01:55:23.640Z",
+      "updatedAt": "2026-09-18T01:55:23.640Z",
+      "lastVerifiedAt": "2026-09-18T01:55:23.640Z",
+      "contentHash": "af2db404e1d8daad",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
