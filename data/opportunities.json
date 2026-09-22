@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:10:48.146Z",
+  "generatedAt": "2026-09-22T17:28:29.246Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-18T16:51:22.175Z",
-      "lastVerifiedAt": "2026-09-22T02:10:07.646Z",
+      "lastVerifiedAt": "2026-09-22T17:27:49.844Z",
       "contentHash": "4818c72ee3b7e567",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:12.198Z",
+      "lastVerifiedAt": "2026-09-22T17:27:54.223Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:17.118Z",
+      "lastVerifiedAt": "2026-09-22T17:27:58.780Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-22T02:10:19.175Z",
+      "lastVerifiedAt": "2026-09-22T17:28:00.847Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:21.265Z",
+      "lastVerifiedAt": "2026-09-22T17:28:03.515Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:24.347Z",
+      "lastVerifiedAt": "2026-09-22T17:28:06.816Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:26.969Z",
+      "lastVerifiedAt": "2026-09-22T17:28:08.992Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:30.991Z",
+      "lastVerifiedAt": "2026-09-22T17:28:12.944Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-22T02:10:36.451Z",
+      "lastVerifiedAt": "2026-09-22T17:28:17.317Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -26651,7 +26651,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-21T18:24:19.642Z",
       "updatedAt": "2026-09-21T18:24:19.642Z",
-      "lastVerifiedAt": "2026-09-22T02:10:45.211Z",
+      "lastVerifiedAt": "2026-09-22T17:28:26.115Z",
       "contentHash": "3c6651ed79881246",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -26768,7 +26768,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-21T18:24:19.642Z",
       "updatedAt": "2026-09-21T18:24:19.642Z",
-      "lastVerifiedAt": "2026-09-22T02:10:45.212Z",
+      "lastVerifiedAt": "2026-09-22T17:28:26.116Z",
       "contentHash": "449555822d3b3503",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -26885,7 +26885,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-21T18:24:19.642Z",
       "updatedAt": "2026-09-21T18:24:19.642Z",
-      "lastVerifiedAt": "2026-09-22T02:10:45.212Z",
+      "lastVerifiedAt": "2026-09-22T17:28:26.116Z",
       "contentHash": "07b3076b9c8b21fc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -27122,7 +27122,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-21T18:24:19.642Z",
       "updatedAt": "2026-09-21T18:24:19.642Z",
-      "lastVerifiedAt": "2026-09-22T02:10:48.144Z",
+      "lastVerifiedAt": "2026-09-22T17:28:29.246Z",
       "contentHash": "22c668b466fd299b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -27239,7 +27239,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-21T18:24:19.642Z",
       "updatedAt": "2026-09-21T18:24:19.642Z",
-      "lastVerifiedAt": "2026-09-22T02:10:48.145Z",
+      "lastVerifiedAt": "2026-09-22T17:28:29.246Z",
       "contentHash": "76e80ccf2e0c3dec",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -27787,6 +27787,822 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_fb57001a726ede8b",
+      "title": "The YALI 2027 Mandela Washington Fellowship for young African Leaders (Fully Funded to the United States of America)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-13",
+        "rawText": "Application Deadline: October 13, 2026 Applications are now open for the 2027 YALI Mandela Washington Fellowship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: October 13, 2026 Applications are now open for the 2027 YALI Mandela Washington Fellowship. The Mandela Washington Fellowship will bring approximately 550 young leaders to the United States… The post The YALI 2027 Mandela Washington Fellowship for young African Leaders (Fully Funded to the United States of America) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/yali-2027-mandela-washington-fellowship/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/yali-2027-mandela-washington-fellowship/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/yali-2027-mandela-washington-fellowship",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "53f9389b0bb716e0",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 52,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d795b97171866f58",
+      "title": "Hustle Fund’s Venture Fellowship 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-09-27",
+        "rawText": "Deadline: September 27, 2026 Applications are open for the Hustle Fund’s Venture Fellowship 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: September 27, 2026 Applications are open for the Hustle Fund’s Venture Fellowship 2026. This is a virtual program for aspiring VCs, fund managers, and angel investors to work closely with the Hustle Fund team evaluating their live deal pipeline – including startups that apply through their website and pitch competitions. This current cohort (Cohort [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/hustle-fund-venture-fellowship-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/hustle-fund-venture-fellowship-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/hustle-fund-venture-fellowship-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "efff05a1b6151c68",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_537c0e3996e57fee",
+      "title": "Naija Feminists Media Editorial Fellowship on Reproductive Health 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-09",
+        "rawText": "Deadline: October 9, 2026 Applications are open for the Naija Feminists Media Editorial Fellowship on Reproductive Health 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 9, 2026 Applications are open for the Naija Feminists Media Editorial Fellowship on Reproductive Health 2026. As part of its commitment to advancing feminist journalism and gender reporting, Naija Feminists Media invites media professionals to apply for its 2026 Editorial Fellowship on reproductive health to mark #16DaysofActivism Against Gender-Based Violence. Reproductive rights are [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/naija-feminists-media-editorial-fellowship-on-reproductive-health-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/naija-feminists-media-editorial-fellowship-on-reproductive-health-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/naija-feminists-media-editorial-fellowship-on-reproductive-health-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "dbd36c1dbb6f5e90",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_f37085bdeecfe2da",
+      "title": "MediaTech Hub (MTH) Accelerator 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-31",
+        "rawText": "Deadline: October 31, 2026 Applications are open for the MediaTech Hub (MTH) Accelerator 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 31, 2026 Applications are open for the MediaTech Hub (MTH) Accelerator 2026. Are you working on technology that’s changing the way media is produced, distributed, or experienced? Then you’ve come to the right place. The MTH Accelerator supports early-stage media tech startups—with personalized guidance, access to the media industry in Babelsberg, and a [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/mth-accelerator-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/mth-accelerator-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/mth-accelerator-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "7e213642c2440e5f",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d629d8524e9a2607",
+      "title": "African Climate Collaborative PhD Fellowships in Climate and Development 2026 (Fully-funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "phd",
+      "type": "climate_programme",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully-funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-15",
+        "rawText": "Deadline: October 15, 2026 Applications are invited for the African Climate Collaborative PhD Fellowships in Climate and Development 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 15, 2026 Applications are invited for the African Climate Collaborative PhD Fellowships in Climate and Development 2026. The African Climate Collaborative is pleased to invite applications for 12 PhD fellowships to support participation in a four-year doctoral training programme in Climate and Development. The programme comprises one year of structured coursework followed by [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/african-climate-collaborative-phd-fellowships-in-climate-and-development-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/african-climate-collaborative-phd-fellowships-in-climate-and-development-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/african-climate-collaborative-phd-fellowships-in-climate-and-development-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "2a505b7c5a4f7c0b",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 53,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3.5,
+            "reason": "Aligned with your career interests"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a188e8bb3e75459a",
+      "title": "UN FAO Internship Programme for Africa (RAF) 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-31",
+        "rawText": "Deadline: December 31, 2026 Applications are open for the UN FAO Internship Programme for Africa (RAF) 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 31, 2026 Applications are open for the UN FAO Internship Programme for Africa (RAF) 2026. The Food and Agriculture Organization of the United Nations (FAO) leads international efforts to defeat hunger and to achieve food security for all and make sure that people have regular access to enough high-quality food to lead active, [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/un-fao-internship-programme-for-africa-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/un-fao-internship-programme-for-africa-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/un-fao-internship-programme-for-africa-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "0584aa34a74c29c7",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_816c7dc4eda6600f",
+      "title": "Bloomberg Harvard Visiting Scholars Program 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-28",
+        "rawText": "Deadline: October 28, 2026 Applications are open for the Bloomberg Harvard Visiting Scholars Program 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 28, 2026 Applications are open for the Bloomberg Harvard Visiting Scholars Program 2027. The Bloomberg Harvard Visiting Scholars Program supports rigorous, policy-relevant research on urban problem-solving and city leadership. The program selects a cohort of researchers whose work has the potential to make meaningful contributions both to scholarship and to real-world challenges. Individuals [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/22/bloomberg-harvard-visiting-scholars-program-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/22/bloomberg-harvard-visiting-scholars-program-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/22/bloomberg-harvard-visiting-scholars-program-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-22T17:27:47.349Z",
+      "updatedAt": "2026-09-22T17:27:47.349Z",
+      "lastVerifiedAt": "2026-09-22T17:27:47.349Z",
+      "contentHash": "2caa092e3eb279ff",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
