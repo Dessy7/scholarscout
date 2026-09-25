@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T02:13:53.896Z",
+  "generatedAt": "2026-09-25T17:41:12.479Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-18T16:51:22.175Z",
-      "lastVerifiedAt": "2026-09-25T02:13:11.258Z",
+      "lastVerifiedAt": "2026-09-25T17:40:26.369Z",
       "contentHash": "4818c72ee3b7e567",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:16.726Z",
+      "lastVerifiedAt": "2026-09-25T17:40:32.620Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-24T17:40:27.274Z",
+      "lastVerifiedAt": "2026-09-25T17:40:37.001Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:21.841Z",
+      "lastVerifiedAt": "2026-09-25T17:40:39.706Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-25T02:13:23.896Z",
+      "lastVerifiedAt": "2026-09-25T17:40:41.876Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:26.836Z",
+      "lastVerifiedAt": "2026-09-25T17:40:44.853Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:29.920Z",
+      "lastVerifiedAt": "2026-09-25T17:40:48.295Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:32.528Z",
+      "lastVerifiedAt": "2026-09-25T17:40:50.468Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:36.805Z",
+      "lastVerifiedAt": "2026-09-25T17:40:55.318Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-25T02:13:41.958Z",
+      "lastVerifiedAt": "2026-09-25T17:40:59.713Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -28757,7 +28757,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-23T17:37:16.795Z",
       "updatedAt": "2026-09-24T01:56:37.743Z",
-      "lastVerifiedAt": "2026-09-25T02:13:51.137Z",
+      "lastVerifiedAt": "2026-09-25T17:41:09.389Z",
       "contentHash": "d518128ec06cfde3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -29691,7 +29691,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-24T17:40:17.853Z",
       "updatedAt": "2026-09-24T17:40:17.853Z",
-      "lastVerifiedAt": "2026-09-25T02:13:51.135Z",
+      "lastVerifiedAt": "2026-09-25T17:41:09.387Z",
       "contentHash": "0153907400de5f99",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -29809,7 +29809,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-24T17:40:17.853Z",
       "updatedAt": "2026-09-24T17:40:17.853Z",
-      "lastVerifiedAt": "2026-09-25T02:13:51.135Z",
+      "lastVerifiedAt": "2026-09-25T17:41:09.388Z",
       "contentHash": "b6d58925398f21aa",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -29927,7 +29927,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-24T17:40:17.853Z",
       "updatedAt": "2026-09-24T17:40:17.853Z",
-      "lastVerifiedAt": "2026-09-25T02:13:51.136Z",
+      "lastVerifiedAt": "2026-09-25T17:41:09.389Z",
       "contentHash": "99f1fdd5c487e054",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -30045,7 +30045,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-24T17:40:17.853Z",
       "updatedAt": "2026-09-24T17:40:17.853Z",
-      "lastVerifiedAt": "2026-09-25T02:13:53.893Z",
+      "lastVerifiedAt": "2026-09-25T17:41:12.478Z",
       "contentHash": "81ef67be710001fb",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -30164,7 +30164,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-24T17:40:17.853Z",
       "updatedAt": "2026-09-24T17:40:17.853Z",
-      "lastVerifiedAt": "2026-09-25T02:13:53.895Z",
+      "lastVerifiedAt": "2026-09-25T17:41:12.478Z",
       "contentHash": "6dbc7e93c1fef7ee",
       "verificationStatus": "needs_review",
       "environmental": true,
@@ -30950,7 +30950,7 @@
     },
     {
       "id": "opp_9a111cf008eea345",
-      "title": "10 More Ways to Increase Your Chances of Winning a Fully Funded Scholarship",
+      "title": "10 Ways to Increase Your Chances of Winning a Fully Funded Scholarship",
       "organization": "Opportunity Desk (RSS)",
       "university": null,
       "country": null,
@@ -30980,9 +30980,9 @@
       "sourceId": "opportunity-desk",
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-25T02:13:08.787Z",
-      "updatedAt": "2026-09-25T02:13:08.787Z",
-      "lastVerifiedAt": "2026-09-25T02:13:08.787Z",
-      "contentHash": "d6c8ec913de547c4",
+      "updatedAt": "2026-09-25T17:40:23.847Z",
+      "lastVerifiedAt": "2026-09-25T17:40:23.847Z",
+      "contentHash": "50e8036a54971e51",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
@@ -31065,9 +31065,256 @@
           "Some details need manual review"
         ]
       }
+    },
+    {
+      "id": "opp_815c081b3cf61934",
+      "title": "Mercedes-Benz beVisioneers Fellowship Program 2027 for young innovators (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-31",
+        "rawText": "Application Deadline: 31st January 2027, 23:59:59 Central European Time Applications are now open for the 2027 Mercedes-Benz beVisioneers Fellowship Program.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 31st January 2027, 23:59:59 Central European Time Applications are now open for the 2027 Mercedes-Benz beVisioneers Fellowship Program. beVisioneers is a global fellowship that equips innovators aged 18… The post Mercedes-Benz beVisioneers Fellowship Program 2027 for young innovators (Fully Funded) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-09-25T17:40:23.847Z",
+      "updatedAt": "2026-09-25T17:40:23.847Z",
+      "lastVerifiedAt": "2026-09-25T17:40:23.847Z",
+      "contentHash": "b15ee8b82b9334a5",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 51,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_ff6660eb6b459536",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "non_degree",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "The Jim Leech Mastercard Foundation Fellowship on Entrepreneurship gives African students and recent graduates the opportunity to access training, resources, financial support and a network of mentors to develop their entrepreneurial skills and start building their own venture.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "The Jim Leech Mastercard Foundation Fellowship on Entrepreneurship gives African students and recent graduates the opportunity to access training, resources, financial support and a network of mentors to develop their entrepreneurial skills and start building their own venture.",
+      "ghanaEligibility": "africa_eligible",
+      "deadline": {
+        "date": "2026-12-01",
+        "rawText": "Deadline: December 1, 2026 Applications are open for the Jim Leech Mastercard Foundation Fellowship on Entrepreneurship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 1, 2026 Applications are open for the Jim Leech Mastercard Foundation Fellowship on Entrepreneurship 2027. The Jim Leech Mastercard Foundation Fellowship on Entrepreneurship gives African students and recent graduates the opportunity to access training, resources, financial support and a network of mentors to develop their entrepreneurial skills and start building their own venture. [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/25/jim-leech-mastercard-foundation-fellowship-on-entrepreneurship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/25/jim-leech-mastercard-foundation-fellowship-on-entrepreneurship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/25/jim-leech-mastercard-foundation-fellowship-on-entrepreneurship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-09-25T17:40:23.847Z",
+      "updatedAt": "2026-09-25T17:40:23.847Z",
+      "lastVerifiedAt": "2026-09-25T17:40:23.847Z",
+      "contentHash": "9c4987e90802a89c",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 45,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 18,
+            "reason": "African applicants (including Ghana) eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "African applicants (including Ghana) eligible",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
     }
   ],
   "changes": [
+    {
+      "opportunityId": "opp_9a111cf008eea345",
+      "changedAt": "2026-09-25T17:41:12.478Z",
+      "runId": "run_1790358023847",
+      "changedFields": [
+        {
+          "field": "title",
+          "from": "10 More Ways to Increase Your Chances of Winning a Fully Funded Scholarship",
+          "to": "10 Ways to Increase Your Chances of Winning a Fully Funded Scholarship"
+        }
+      ]
+    },
     {
       "opportunityId": "opp_bd67c79d7ca79e1e",
       "changedAt": "2026-09-24T01:57:20.381Z",
