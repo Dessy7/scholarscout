@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:14:05.822Z",
+  "generatedAt": "2026-10-01T02:50:35.102Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-09-30T18:13:20.737Z",
+      "lastVerifiedAt": "2026-10-01T02:49:50.188Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:26.082Z",
+      "lastVerifiedAt": "2026-10-01T02:49:55.077Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:30.255Z",
+      "lastVerifiedAt": "2026-10-01T02:49:59.204Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:32.643Z",
+      "lastVerifiedAt": "2026-10-01T02:50:02.033Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-09-30T18:13:34.769Z",
+      "lastVerifiedAt": "2026-10-01T02:50:04.219Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:37.004Z",
+      "lastVerifiedAt": "2026-10-01T02:50:07.005Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:40.834Z",
+      "lastVerifiedAt": "2026-10-01T02:50:10.428Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:43.374Z",
+      "lastVerifiedAt": "2026-10-01T02:50:12.615Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:47.507Z",
+      "lastVerifiedAt": "2026-10-01T02:50:17.153Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-09-30T18:13:52.894Z",
+      "lastVerifiedAt": "2026-10-01T02:50:22.454Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -32034,7 +32034,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-28T19:55:34.733Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-09-30T18:14:02.274Z",
+      "lastVerifiedAt": "2026-10-01T02:50:31.916Z",
       "contentHash": "c96771f70e1b9732",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -32738,7 +32738,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-29T18:24:01.053Z",
       "updatedAt": "2026-09-29T18:24:01.053Z",
-      "lastVerifiedAt": "2026-09-30T18:14:02.273Z",
+      "lastVerifiedAt": "2026-10-01T02:50:31.916Z",
       "contentHash": "a52e05e4790adb8b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -32856,7 +32856,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-29T18:24:01.053Z",
       "updatedAt": "2026-09-29T18:24:01.053Z",
-      "lastVerifiedAt": "2026-09-30T18:14:02.274Z",
+      "lastVerifiedAt": "2026-10-01T02:50:31.916Z",
       "contentHash": "ef5b50dd513af128",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -33441,7 +33441,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-09-30T18:13:18.241Z",
       "updatedAt": "2026-09-30T18:13:18.241Z",
-      "lastVerifiedAt": "2026-09-30T18:13:18.241Z",
+      "lastVerifiedAt": "2026-10-01T02:50:31.915Z",
       "contentHash": "504e1d81634c0000",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -33558,7 +33558,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-30T18:13:18.241Z",
       "updatedAt": "2026-09-30T18:13:18.241Z",
-      "lastVerifiedAt": "2026-09-30T18:13:18.241Z",
+      "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "e9f04278f137fb4d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -33673,7 +33673,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-30T18:13:18.241Z",
       "updatedAt": "2026-09-30T18:13:18.241Z",
-      "lastVerifiedAt": "2026-09-30T18:13:18.241Z",
+      "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "89c8a614e515bc75",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -33790,7 +33790,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-09-30T18:13:18.241Z",
       "updatedAt": "2026-09-30T18:13:18.241Z",
-      "lastVerifiedAt": "2026-09-30T18:13:18.241Z",
+      "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "2c5200efd98cf736",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -33982,6 +33982,239 @@
         "reasons": [
           "Matches your target opportunity types"
         ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d7d0fd0cfef90ea9",
+      "title": "The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 for young Africans (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-12",
+        "rawText": "Application Deadline: October 12, 2026 Applications are now open for the 2026/2027 University of Rwanda Mastercard Foundation Undergraduate Scholars Program.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: October 12, 2026 Applications are now open for the 2026/2027 University of Rwanda Mastercard Foundation Undergraduate Scholars Program. The Mastercard Foundation Scholars Program at the University of Rwanda… The post The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 for young Africans (Fully Funded) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T02:49:47.627Z",
+      "updatedAt": "2026-10-01T02:49:47.627Z",
+      "lastVerifiedAt": "2026-10-01T02:49:47.627Z",
+      "contentHash": "9c3a7b696d6dacfc",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 49,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_90fe57c2712fa709",
+      "title": "Sameer Ali Khan is OD Young Person of the Month -October 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Sameer Ali Khan is a peacebuilder, climate justice advocate, and social innovator from Thatta, Sindh, Pakistan, whose work connects the realities of climate-vulnerable and marginalized communities with global conversations on peace, democracy, women’s rights, and technology. Background and Work Growing up in the Indus Delta, Sameer experienced the consequences of climate vulnerability firsthand. The 2010 [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T02:49:47.627Z",
+      "updatedAt": "2026-10-01T02:49:47.627Z",
+      "lastVerifiedAt": "2026-10-01T02:49:47.627Z",
+      "contentHash": "1d27e4220acc8a67",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 32,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3.5,
+            "reason": "Aligned with your career interests"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
