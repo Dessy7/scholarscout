@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:50:35.102Z",
+  "generatedAt": "2026-10-01T18:40:00.617Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-01T02:49:50.188Z",
+      "lastVerifiedAt": "2026-10-01T18:38:42.141Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:49:55.077Z",
+      "lastVerifiedAt": "2026-10-01T18:38:47.316Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-10-01T02:49:59.204Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:50:02.033Z",
+      "lastVerifiedAt": "2026-10-01T18:39:10.616Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-01T02:50:04.219Z",
+      "lastVerifiedAt": "2026-10-01T18:39:12.699Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:50:07.005Z",
+      "lastVerifiedAt": "2026-10-01T18:39:14.761Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:50:10.428Z",
+      "lastVerifiedAt": "2026-10-01T18:39:18.699Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:50:12.615Z",
+      "lastVerifiedAt": "2026-10-01T18:39:20.825Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -985,7 +985,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-10-01T02:50:17.153Z",
       "contentHash": "4a5ddc5127eb5fb2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-01T02:50:22.454Z",
+      "lastVerifiedAt": "2026-10-01T18:39:46.787Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -34134,16 +34134,16 @@
       },
       "startDate": null,
       "duration": null,
-      "summary": "Sameer Ali Khan is a peacebuilder, climate justice advocate, and social innovator from Thatta, Sindh, Pakistan, whose work connects the realities of climate-vulnerable and marginalized communities with global conversations on peace, democracy, women’s rights, and technology. Background and Work Growing up in the Indus Delta, Sameer experienced the consequences of climate vulnerability firsthand. The 2010 [...]",
+      "summary": "Sameer Ali Khan is a peacebuilder, climate justice advocate, and social innovator from Thatta, Sindh, Pakistan, whose work connects the realities of climate-vulnerable and marginalized communities with global conversations on peace, democracy, women’s rights, and technology. Read on to learn more about him and his work. Background and Work Growing up in the Indus Delta, [...]",
       "applicationUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026/",
       "sourceUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026/",
       "canonicalUrl": "https://opportunitydesk.org/2026/09/30/sameer-ali-khan-is-od-young-person-of-the-month-october-2026",
       "sourceId": "opportunity-desk",
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-01T02:49:47.627Z",
-      "updatedAt": "2026-10-01T02:49:47.627Z",
-      "lastVerifiedAt": "2026-10-01T02:49:47.627Z",
-      "contentHash": "1d27e4220acc8a67",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "e3c2167f3d24acd8",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
@@ -34224,9 +34224,1320 @@
           "Some details need manual review"
         ]
       }
+    },
+    {
+      "id": "opp_86fedf3facfe069c",
+      "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "phd",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding) Application Deadline: October 30, 2026.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding) Application Deadline: October 30, 2026.",
+      "ghanaEligibility": "international",
+      "deadline": {
+        "date": "2026-10-30",
+        "rawText": "Application Deadline: October 30, 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: October 30, 2026. Applications are now open for the 2027/2028 NVIDIA International Graduate Fellowship Program. The NVIDIA Graduate Fellowship Program provides up to $60,000 per award for PhD… The post NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "ef3bd9a991a7b610",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 47,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 16,
+            "reason": "Open to international applicants"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Open to international applicants",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a7bcf59f563a3d74",
+      "title": "Dalai Lama Fellowship Programme 2027 for emerging changemakers (Fully Funded to Contemplative Leadership Assembly)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-11",
+        "rawText": "Application Deadline: November 11, 2026 Applications are now open for the 2027 Dalai Lama Fellowship Programme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: November 11, 2026 Applications are now open for the 2027 Dalai Lama Fellowship Programme. Dalai Lama Fellows (DLF) offers a one-year fellowship program for emerging changemakers aiming to… The post Dalai Lama Fellowship Programme 2027 for emerging changemakers (Fully Funded to Contemplative Leadership Assembly) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "e3b6c0081a23988b",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 51,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a1f328a2e70d56e9",
+      "title": "The UONGOZI Institute Emerging Leaders Programme 2026/2027 for mid-level executives (Scholarships Available",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-23",
+        "rawText": "Application Deadline: 23 October, 2026 at 23:00 hours (EAT).",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 23 October, 2026 at 23:00 hours (EAT). Applications are now open for the 2026/2027 UONGOZI Institute Emerging Leaders Programme. UONGOZI Institute invites applications from mid-level executives working in… The post The UONGOZI Institute Emerging Leaders Programme 2026/2027 for mid-level executives (Scholarships Available appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "4d9311c20b5ac041",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_e2a946212d3868dc",
+      "title": "The Yale Maurice R. Greenberg World Fellows Program 2027 for mid-career emerging Global Leaders (Fully Funded to Yale University, USA)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: 2 December at 14:00 PM Eastern Time Applications are now open for the 2027 Yale Maurice R.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 2 December at 14:00 PM Eastern Time Applications are now open for the 2027 Yale Maurice R. Greenberg World Fellows Program. Yale’s flagship four-month, full-time residential program for… The post The Yale Maurice R. Greenberg World Fellows Program 2027 for mid-career emerging Global Leaders (Fully Funded to Yale University, USA) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "23fbc2e72d29e336",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 49,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_18e7ad963b4133af",
+      "title": "Washington College of Law Human Rights Essay Award 2027 (full tuition scholarship to the Program of Advanced Studies on Human Rights and Humanitarian Law)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-02-03",
+        "rawText": "Application Deadline: February 3rd, 2027 Applications are now open for the 2027 Washington College of Law Human Rights Essay Award.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: February 3rd, 2027 Applications are now open for the 2027 Washington College of Law Human Rights Essay Award. The Human Rights Essay Award is an annual award sponsored… The post Washington College of Law Human Rights Essay Award 2027 (full tuition scholarship to the Program of Advanced Studies on Human Rights and Humanitarian Law) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "7cb893431732f198",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_bf2b9b23859001d2",
+      "title": "International Monetary Fund Internship Program (FIP) 2027 for young professionals (Paid Internship- Washington D.C. USA)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "phd",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: Applications are now open for the 2027 International Monetary Fund Internship Program.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: Applications are now open for the 2027 International Monetary Fund Internship Program. The Fund Internship Program (FIP) offers PhD students in economics an outstanding opportunity to contribute to… The post International Monetary Fund Internship Program (FIP) 2027 for young professionals (Paid Internship- Washington D.C. USA) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/international-monetary-fund-internship-program-fip-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/international-monetary-fund-internship-program-fip-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/international-monetary-fund-internship-program-fip-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "4a94884fcb8858ae",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_15888febf7cc0fa8",
+      "title": "Mastercard Foundation Scholars Program at the University of Rwanda 2026/2027 (Fully-funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully-funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-12",
+        "rawText": "Deadline: October 12, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Rwanda 2026/2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 12, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Rwanda 2026/2027. The Mastercard Foundation Scholars Program at the University of Rwanda supports academically talented, service-oriented youth yet still facing social and economic barriers in Rwanda and Africa to pursue higher education and cultivate their leadership potential. The [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/01/mastercard-foundation-scholars-program-at-the-university-of-rwanda-2026-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/01/mastercard-foundation-scholars-program-at-the-university-of-rwanda-2026-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/01/mastercard-foundation-scholars-program-at-the-university-of-rwanda-2026-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "751a28fce0271057",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 46,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_084b7f5c56fd0947",
+      "title": "University of California President Postdoctoral Fellowship Program 2026/2027 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-01",
+        "rawText": "Deadline: November 1, 2026 Applications are open for the University of California President Postdoctoral Fellowship Program 2026/2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 1, 2026 Applications are open for the University of California President Postdoctoral Fellowship Program 2026/2027. The University of California President’s Postdoctoral Fellowship Program offers postdoctoral research fellowships, professional development and faculty mentoring to outstanding scholars in all fields whose research, teaching, and service will advance the research excellence and public service missions of [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/01/university-of-california-president-postdoctoral-fellowship-2026-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/01/university-of-california-president-postdoctoral-fellowship-2026-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/01/university-of-california-president-postdoctoral-fellowship-2026-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "77fdcf8a3355d4f5",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 41,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 10.5,
+            "reason": "Open to all fields of study (your field qualifies)"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Open to all fields of study (your field qualifies)",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_a5609b2f5429b756",
+      "title": "MOPGA Fellowship Program 2027 for Early-career International Researchers",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "climate_tech"
+      ],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-15",
+        "rawText": "Deadline: December 15, 2026 Applications are open for the MOPGA Fellowship Program 2027 for Early-career International Researchers.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 15, 2026 Applications are open for the MOPGA Fellowship Program 2027 for Early-career International Researchers. In line with its continued commitment to the Paris Agreement, and as a key actor in the fight against climate change, France is launching a new edition of the MOPGA programme to strengthen scientific contributions to the issues [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/01/mopga-fellowship-program-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/01/mopga-fellowship-program-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/01/mopga-fellowship-program-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "680010282305d3f5",
+      "verificationStatus": "needs_review",
+      "environmental": true,
+      "match": {
+        "score": 53,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 10,
+            "reason": "Aligned with your career interests"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Aligned with your career interests",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_4332c58397591fa0",
+      "title": "King’s Commonwealth Fellowship (KCFP) Programme Undergraduate Fellowships 2026-2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "climate_tech"
+      ],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-14",
+        "rawText": "Deadline: October 14, 2026 Applications are open for the King’s Commonwealth Fellowship (KCFP) Programme Undergraduate Fellowships 2026-2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 14, 2026 Applications are open for the King’s Commonwealth Fellowship (KCFP) Programme Undergraduate Fellowships 2026-2027. Commonwealth Small Island Developing States (SIDS) are on the frontline of climate change and face growing demand for skilled professionals in sectors critical to national development. The King’s Commonwealth Fellowship Programme (KCFP) Undergraduate Fellowships support talented students to [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/01/kcfp-programme-undergraduate-fellowships-2026-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/01/kcfp-programme-undergraduate-fellowships-2026-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/01/kcfp-programme-undergraduate-fellowships-2026-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "5912b545476e439a",
+      "verificationStatus": "needs_review",
+      "environmental": true,
+      "match": {
+        "score": 54,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 10,
+            "reason": "Aligned with your career interests"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Aligned with your career interests",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_9612d0a80e28141b",
+      "title": "69 Master’s and PhD Scholarships and Fellowships You Can Apply for Now – October 1, 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "1. Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027-2028 The Maria Rosario Lazzati Niada Scholarship supports talented Afghan women who already hold a university degree and want to pursue postgraduate study in international relations and development at the Geneva Graduate Institute. The two-year scholarship is intended to expand access to advanced education for Afghan [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-01T18:38:39.626Z",
+      "updatedAt": "2026-10-01T18:38:39.626Z",
+      "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
+      "contentHash": "e251db572f16fcf8",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
     }
   ],
   "changes": [
+    {
+      "opportunityId": "opp_90fe57c2712fa709",
+      "changedAt": "2026-10-01T18:40:00.617Z",
+      "runId": "run_1790879919626",
+      "changedFields": [
+        {
+          "field": "summary",
+          "from": "Sameer Ali Khan is a peacebuilder, climate justice advocate, and social innovator from Thatta, Sindh, Pakistan, whose work connects the realities of climate-vulnerable and marginalized communities with global conversations on peace, democracy, women’s rights, and technology. Background and Work Growing up in the Indus Delta, Sameer experienced the consequences of climate vulnerability firsthand. The 2010 [...]",
+          "to": "Sameer Ali Khan is a peacebuilder, climate justice advocate, and social innovator from Thatta, Sindh, Pakistan, whose work connects the realities of climate-vulnerable and marginalized communities with global conversations on peace, democracy, women’s rights, and technology. Read on to learn more about him and his work. Background and Work Growing up in the Indus Delta, [...]"
+        }
+      ]
+    },
     {
       "opportunityId": "opp_67c03977ff0eafbe",
       "changedAt": "2026-09-28T19:55:37.197Z",
