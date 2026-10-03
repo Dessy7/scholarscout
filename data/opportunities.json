@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:09:17.625Z",
+  "generatedAt": "2026-10-03T02:39:57.749Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-02T18:08:35.601Z",
+      "lastVerifiedAt": "2026-10-03T02:39:14.652Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:39.108Z",
+      "lastVerifiedAt": "2026-10-03T02:39:20.392Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T02:52:52.371Z",
+      "lastVerifiedAt": "2026-10-03T02:39:24.226Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:44.017Z",
+      "lastVerifiedAt": "2026-10-03T02:39:26.597Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-02T18:08:46.336Z",
+      "lastVerifiedAt": "2026-10-03T02:39:28.646Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:50.480Z",
+      "lastVerifiedAt": "2026-10-03T02:39:30.805Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:53.608Z",
+      "lastVerifiedAt": "2026-10-03T02:39:33.931Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -865,7 +865,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:55.762Z",
+      "lastVerifiedAt": "2026-10-03T02:39:36.102Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:08:59.652Z",
+      "lastVerifiedAt": "2026-10-03T02:39:40.598Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-02T18:09:05.071Z",
+      "lastVerifiedAt": "2026-10-03T02:39:45.506Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -34258,7 +34258,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-01T18:38:39.626Z",
       "updatedAt": "2026-10-01T18:38:39.626Z",
-      "lastVerifiedAt": "2026-10-02T18:09:14.471Z",
+      "lastVerifiedAt": "2026-10-03T02:39:54.633Z",
       "contentHash": "ef3bd9a991a7b610",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -34376,7 +34376,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-01T18:38:39.626Z",
       "updatedAt": "2026-10-01T18:38:39.626Z",
-      "lastVerifiedAt": "2026-10-02T18:09:14.472Z",
+      "lastVerifiedAt": "2026-10-03T02:39:54.634Z",
       "contentHash": "e3b6c0081a23988b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -34494,7 +34494,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-01T18:38:39.626Z",
       "updatedAt": "2026-10-01T18:38:39.626Z",
-      "lastVerifiedAt": "2026-10-02T18:09:14.472Z",
+      "lastVerifiedAt": "2026-10-03T02:39:54.634Z",
       "contentHash": "4d9311c20b5ac041",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -35557,7 +35557,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-02T02:52:38.565Z",
       "updatedAt": "2026-10-02T02:52:38.565Z",
-      "lastVerifiedAt": "2026-10-02T18:09:17.624Z",
+      "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "701780986963c3a9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -35673,7 +35673,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-02T18:08:30.795Z",
       "updatedAt": "2026-10-02T18:08:30.795Z",
-      "lastVerifiedAt": "2026-10-02T18:08:30.795Z",
+      "lastVerifiedAt": "2026-10-03T02:39:54.632Z",
       "contentHash": "d8d764ee73a57b2d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -35790,7 +35790,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-02T18:08:30.795Z",
       "updatedAt": "2026-10-02T18:08:30.795Z",
-      "lastVerifiedAt": "2026-10-02T18:08:30.795Z",
+      "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "c7961256522d443d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -35907,7 +35907,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-02T18:08:30.795Z",
       "updatedAt": "2026-10-02T18:08:30.795Z",
-      "lastVerifiedAt": "2026-10-02T18:08:30.795Z",
+      "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "80e562a9740d6728",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36024,7 +36024,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-02T18:08:30.795Z",
       "updatedAt": "2026-10-02T18:08:30.795Z",
-      "lastVerifiedAt": "2026-10-02T18:08:30.795Z",
+      "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "057fd1790a2aa0a4",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36104,6 +36104,124 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_3e3236878f3552fa",
+      "title": "ITU Gender Champions Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "tech4dev"
+      ],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-15",
+        "rawText": "Deadline: November 15, 2026 Applications are open for the ITU Gender Champions Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 15, 2026 Applications are open for the ITU Gender Champions Programme 2027. Are you a young woman using technology to create positive change in your community, country, or region? The ITU Gender Champions Programme recognizes and supports emerging women leaders who are advancing digital transformation, promoting digital inclusion, and helping shape a more [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/02/itu-gender-champions-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/02/itu-gender-champions-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/02/itu-gender-champions-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-03T02:39:12.200Z",
+      "updatedAt": "2026-10-03T02:39:12.200Z",
+      "lastVerifiedAt": "2026-10-03T02:39:12.200Z",
+      "contentHash": "6484e68e600eb6d9",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
           "Some details need manual review"
         ]
       }
