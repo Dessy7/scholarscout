@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:37:03.999Z",
+  "generatedAt": "2026-10-06T18:43:39.625Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-06T03:36:21.290Z",
+      "lastVerifiedAt": "2026-10-06T18:42:56.244Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:26.792Z",
+      "lastVerifiedAt": "2026-10-06T18:43:02.475Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-05T20:54:48.890Z",
+      "lastVerifiedAt": "2026-10-06T18:43:06.493Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:31.912Z",
+      "lastVerifiedAt": "2026-10-06T18:43:08.913Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-06T03:36:33.993Z",
+      "lastVerifiedAt": "2026-10-06T18:43:11.018Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:37.224Z",
+      "lastVerifiedAt": "2026-10-06T18:43:13.264Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:40.623Z",
+      "lastVerifiedAt": "2026-10-06T18:43:16.440Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:43.099Z",
+      "lastVerifiedAt": "2026-10-06T18:43:18.966Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -982,7 +982,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:46.611Z",
+      "lastVerifiedAt": "2026-10-06T18:43:23.081Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T03:36:51.534Z",
+      "lastVerifiedAt": "2026-10-06T18:43:27.422Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -35672,7 +35672,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-02T18:08:30.795Z",
       "updatedAt": "2026-10-02T18:08:30.795Z",
-      "lastVerifiedAt": "2026-10-06T03:37:00.675Z",
+      "lastVerifiedAt": "2026-10-06T18:43:36.755Z",
       "contentHash": "d8d764ee73a57b2d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36727,7 +36727,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:00.674Z",
+      "lastVerifiedAt": "2026-10-06T18:43:36.754Z",
       "contentHash": "8ddc3f9d738789fc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36844,7 +36844,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:00.675Z",
+      "lastVerifiedAt": "2026-10-06T18:43:36.755Z",
       "contentHash": "96bde020f6b68bb7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36963,7 +36963,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.997Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "881f0316c88e2783",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37082,7 +37082,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.997Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "80ad36ddaaff8a56",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37200,7 +37200,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "be1bf59a7b253529",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37317,7 +37317,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "93e90e8cc41a29af",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37434,7 +37434,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "b552710a84b4ebfb",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37553,7 +37553,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
+      "lastVerifiedAt": "2026-10-06T18:43:39.625Z",
       "contentHash": "5082c92de695daf8",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -37672,6 +37672,238 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
       "contentHash": "55228d8673ab86cf",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d5170d2b4622a23c",
+      "title": "Tomorrow’s Leaders Program 2027–2028 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-18",
+        "rawText": "Deadline: November 18, 2026 Applications are open for the Tomorrow’s Leaders Program 2027–2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 18, 2026 Applications are open for the Tomorrow’s Leaders Program 2027–2028. The Tomorrow’s Leaders (TL) program is an innovative leadership program that offers undergraduate scholarships and leadership development to meritorious students in the MENA region identified for their potential to be leaders and decision-makers. The program aims to create a cadre of professionals who collaborate [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/06/tomorrow-leaders-program-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/06/tomorrow-leaders-program-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/06/tomorrow-leaders-program-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-06T18:42:53.774Z",
+      "updatedAt": "2026-10-06T18:42:53.774Z",
+      "lastVerifiedAt": "2026-10-06T18:42:53.774Z",
+      "contentHash": "4ff9aeef79d0c28e",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_375a10a63bdd74a5",
+      "title": "Sara E. and Bruce B. Collette Postdoctoral Fellowship in Systematic Ichthyology 2027 (stipend available)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-20",
+        "rawText": "Deadline: November 20, 2026 Applications are open for the Sara E.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 20, 2026 Applications are open for the Sara E. and Bruce B. Collette Postdoctoral Fellowship in Systematic Ichthyology 2027. The purpose of the Collette Postdoctoral Fellowship is to support full-time, resident, independent research focused on the study of systematics, including comparative morphology, of fishes using the NMNH collections. This is a one-year award [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/06/sara-e-and-bruce-b-collette-postdoctoral-fellowship-in-systematic-ichthyology-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/06/sara-e-and-bruce-b-collette-postdoctoral-fellowship-in-systematic-ichthyology-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/06/sara-e-and-bruce-b-collette-postdoctoral-fellowship-in-systematic-ichthyology-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-06T18:42:53.774Z",
+      "updatedAt": "2026-10-06T18:42:53.774Z",
+      "lastVerifiedAt": "2026-10-06T18:42:53.774Z",
+      "contentHash": "406130f27719c28f",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
