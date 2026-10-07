@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:03:03.868Z",
+  "generatedAt": "2026-10-07T19:09:58.898Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-07T03:02:15.951Z",
+      "lastVerifiedAt": "2026-10-07T19:09:16.899Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:26.784Z",
+      "lastVerifiedAt": "2026-10-07T19:09:21.509Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-06T18:43:06.493Z",
+      "lastVerifiedAt": "2026-10-07T19:09:25.859Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:31.550Z",
+      "lastVerifiedAt": "2026-10-07T19:09:28.402Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-07T03:02:33.597Z",
+      "lastVerifiedAt": "2026-10-07T19:09:30.486Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:36.422Z",
+      "lastVerifiedAt": "2026-10-07T19:09:32.603Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:39.517Z",
+      "lastVerifiedAt": "2026-10-07T19:09:35.963Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:42.131Z",
+      "lastVerifiedAt": "2026-10-07T19:09:38.096Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -982,7 +982,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:46.942Z",
+      "lastVerifiedAt": "2026-10-07T19:09:41.633Z",
       "contentHash": "4a5ddc5127eb5fb2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-07T03:02:51.732Z",
+      "lastVerifiedAt": "2026-10-07T19:09:46.721Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -36727,7 +36727,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-05T20:54:38.326Z",
       "updatedAt": "2026-10-05T20:54:38.326Z",
-      "lastVerifiedAt": "2026-10-07T03:03:00.865Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.808Z",
       "contentHash": "8ddc3f9d738789fc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38019,7 +38019,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.806Z",
       "contentHash": "1c39ab8039cb2763",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38137,7 +38137,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.807Z",
       "contentHash": "587f11d3d177e4a2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38255,7 +38255,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.807Z",
       "contentHash": "12b653fb1e18f87e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38373,7 +38373,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.808Z",
       "contentHash": "f2442f08b9d80e53",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38491,7 +38491,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:55.808Z",
       "contentHash": "faa7ba4527ad7cb6",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -38608,7 +38608,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-07T03:02:13.453Z",
       "updatedAt": "2026-10-07T03:02:13.453Z",
-      "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
+      "lastVerifiedAt": "2026-10-07T19:09:58.897Z",
       "contentHash": "abb8bacafe33c9cb",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -39077,6 +39077,472 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
       "contentHash": "4e7a489f39d94d74",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 28,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_cb3d9d7a0e41402f",
+      "title": "Stanford University Center for International Security and Cooperation Fellowship 2027-2028",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-02",
+        "rawText": "Deadline: December 2, 2026 Applications are open for the Stanford CISAC Fellowship 2027-2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 2, 2026 Applications are open for the Stanford CISAC Fellowship 2027-2028. The Center for International Security and Cooperation (CISAC) at Stanford University serves as a forum for scholars and professionals to explore complex international problems and innovative solutions in a collegial and collaborative environment. The CISAC Fellowship Program is an integral part of [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-07T19:09:14.298Z",
+      "updatedAt": "2026-10-07T19:09:14.298Z",
+      "lastVerifiedAt": "2026-10-07T19:09:14.298Z",
+      "contentHash": "4536a8cf445953d0",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_32265aa769ac6f1a",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "non_degree",
+      "type": "conference",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-19",
+        "rawText": "Deadline: October 19, 2026 Applications are open for the Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 19, 2026 Applications are open for the Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027. The Hamburg Sustainability Conference is driven by the vision that reaching the SDGs requires interdisciplinary and trustful collaboration among the international community. The conference aims to foster new partnerships and collective action of those who are willing to [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-07T19:09:14.298Z",
+      "updatedAt": "2026-10-07T19:09:14.298Z",
+      "lastVerifiedAt": "2026-10-07T19:09:14.298Z",
+      "contentHash": "04f46645ce18fc00",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 38,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3.5,
+            "reason": "Aligned with your career interests"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d833044e4ad33fa9",
+      "title": "SafeTech Africa HackLab 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "The United Nations Population Fund (UNFPA Eastern and Southern Region & Western and Central African Region), in partnership with the Spotlight Initiative Africa Regional Programme (SIARP 2.0), the Global Programme to End Child Marriage (GPECM), the African Union Women, Gender and Youth [...] Deadlin",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "The United Nations Population Fund (UNFPA Eastern and Southern Region & Western and Central African Region), in partnership with the Spotlight Initiative Africa Regional Programme (SIARP 2.0), the Global Programme to End Child Marriage (GPECM), the African Union Women, Gender and Youth [...] Deadlin",
+      "ghanaEligibility": "africa_eligible",
+      "deadline": {
+        "date": "2026-10-18",
+        "rawText": "Deadline: October 18, 2026 Applications are open for the SafeTech Africa HackLab 2026.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 18, 2026 Applications are open for the SafeTech Africa HackLab 2026. The United Nations Population Fund (UNFPA Eastern and Southern Region & Western and Central African Region), in partnership with the Spotlight Initiative Africa Regional Programme (SIARP 2.0), the Global Programme to End Child Marriage (GPECM), the African Union Women, Gender and Youth [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/07/safetech-africa-hacklab-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/07/safetech-africa-hacklab-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/07/safetech-africa-hacklab-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-07T19:09:14.298Z",
+      "updatedAt": "2026-10-07T19:09:14.298Z",
+      "lastVerifiedAt": "2026-10-07T19:09:14.298Z",
+      "contentHash": "84ff7b058767a2aa",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 18,
+            "reason": "African applicants (including Ghana) eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "African applicants (including Ghana) eligible"
+        ],
+        "concerns": [
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8f466769c92e5c8e",
+      "title": "Study in the USA: How to Find Scholarships and Turn Your American Dream into an Admission Offer",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "For many students, studying in the United States begins with a dream: learning in a new environment, gaining an internationally recognised qualification, and building connections that could shape their future. Yet the distance between that dream and an admission offer can feel overwhelming. Where do you find opportunities? How do you identify scholarships? And how [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/07/study-in-the-usa-how-to-find-scholarships-and-turn-your-american-dream-into-an-admission-offer/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/07/study-in-the-usa-how-to-find-scholarships-and-turn-your-american-dream-into-an-admission-offer/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/07/study-in-the-usa-how-to-find-scholarships-and-turn-your-american-dream-into-an-admission-offer",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-07T19:09:14.298Z",
+      "updatedAt": "2026-10-07T19:09:14.298Z",
+      "lastVerifiedAt": "2026-10-07T19:09:14.298Z",
+      "contentHash": "bd15a45ddc52307e",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
