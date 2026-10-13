@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T04:15:45.563Z",
+  "generatedAt": "2026-10-13T19:41:43.413Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-13T04:15:04.112Z",
+      "lastVerifiedAt": "2026-10-13T19:41:01.725Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:08.533Z",
+      "lastVerifiedAt": "2026-10-13T19:41:06.531Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-10-13T04:15:12.516Z",
       "contentHash": "f9576eaec7cade61",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 51,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:14.686Z",
+      "lastVerifiedAt": "2026-10-13T19:41:11.571Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-13T04:15:16.803Z",
+      "lastVerifiedAt": "2026-10-13T19:41:13.688Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:19.571Z",
+      "lastVerifiedAt": "2026-10-13T19:41:16.469Z",
       "contentHash": "11a531bdf9512272",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:22.574Z",
+      "lastVerifiedAt": "2026-10-13T19:41:20.052Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:24.734Z",
+      "lastVerifiedAt": "2026-10-13T19:41:22.591Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -982,7 +982,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-08T19:05:36.256Z",
-      "lastVerifiedAt": "2026-10-13T04:15:28.628Z",
+      "lastVerifiedAt": "2026-10-13T19:41:26.448Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-13T04:15:33.517Z",
+      "lastVerifiedAt": "2026-10-13T19:41:30.809Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -41878,7 +41878,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.447Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.201Z",
       "contentHash": "2f3a3690bf834f87",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -41995,7 +41995,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.448Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.202Z",
       "contentHash": "17ad2a4ea6bd3e75",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42112,7 +42112,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.448Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.202Z",
       "contentHash": "0a79c422cb5b7371",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42230,7 +42230,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.449Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.202Z",
       "contentHash": "40b8dc927a32aa8f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42347,7 +42347,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.449Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.203Z",
       "contentHash": "3fadbe0d37917c30",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42464,7 +42464,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.449Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.203Z",
       "contentHash": "514822d759b96f86",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42581,7 +42581,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:42.449Z",
+      "lastVerifiedAt": "2026-10-13T19:41:40.204Z",
       "contentHash": "6990c79e96ab0579",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42817,7 +42817,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:45.562Z",
+      "lastVerifiedAt": "2026-10-13T19:41:43.412Z",
       "contentHash": "4b3a04bc5a4b1d4d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -42934,7 +42934,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:45.562Z",
+      "lastVerifiedAt": "2026-10-13T19:41:43.412Z",
       "contentHash": "89fbe08de89973be",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -43051,7 +43051,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-12T21:29:35.722Z",
       "updatedAt": "2026-10-12T21:29:35.722Z",
-      "lastVerifiedAt": "2026-10-13T04:15:45.562Z",
+      "lastVerifiedAt": "2026-10-13T19:41:43.412Z",
       "contentHash": "d32a0136e58a3135",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -43362,6 +43362,471 @@
         ],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_59839e2b2886e712",
+      "title": "UNDP Africa Pan-African MineTech Exploration Technology Pre-Incubation Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-16",
+        "rawText": "Deadline: October 16, 2026 Applications are open for the UNDP Africa Pan-African MineTech Exploration Technology Pre-Incubation Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 16, 2026 Applications are open for the UNDP Africa Pan-African MineTech Exploration Technology Pre-Incubation Programme 2027. The timbuktoo MineTech Hub, together with the United Nations Development Programme and ecosystem partners across Botswana, Liberia, Malawi, Nigeria, Zambia and Zimbabwe, invites students, graduates, researchers, engineers, innovators, technical professionals and early-stage entrepreneurs to turn real world [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/13/undp-africa-pan-african-minetech-exploration-technology-pre-incubation-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/13/undp-africa-pan-african-minetech-exploration-technology-pre-incubation-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/13/undp-africa-pan-african-minetech-exploration-technology-pre-incubation-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-13T19:40:59.185Z",
+      "updatedAt": "2026-10-13T19:40:59.185Z",
+      "lastVerifiedAt": "2026-10-13T19:40:59.185Z",
+      "contentHash": "7c8a8fc389ccd5d8",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Closes within 3 days — tight timeline",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_cd7bcac750a0aa1e",
+      "title": "Afreximbank Group Internship Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Deadline: On Rolling Basis Applications are open for the Afreximbank Group Internship Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: On Rolling Basis Applications are open for the Afreximbank Group Internship Programme 2027. Afreximbank Group recognises that as part of its mandate to promote and finance trade in Africa, it needs to facilitate a broader understanding of the problems of African trade and trade finance as well as the principles of trade finance, especially [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-13T19:40:59.185Z",
+      "updatedAt": "2026-10-13T19:40:59.185Z",
+      "lastVerifiedAt": "2026-10-13T19:40:59.185Z",
+      "contentHash": "b18af84116eb0d12",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 28,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_066d7513d2ea6200",
+      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "non_degree",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-31",
+        "rawText": "Deadline: January 31, 2027 Applications are open for the Global Investigative Journalism Conference (GIJC) Fellowship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: January 31, 2027 Applications are open for the Global Investigative Journalism Conference (GIJC) Fellowship 2027. The 15th Global Investigative Journalism Conference (GIJC) will be held in Rotterdam, The Netherlands, from October 19 – 23, 2027, and is being co-hosted by GIJN and De Vereniging van Onderzoeksjournalisten (VVOJ) — the Dutch-Flemish Association of Investigative Journalists [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-13T19:40:59.185Z",
+      "updatedAt": "2026-10-13T19:40:59.185Z",
+      "lastVerifiedAt": "2026-10-13T19:40:59.185Z",
+      "contentHash": "9cfb87d866ab2867",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_85b45816d3c37257",
+      "title": "United Nations Regional Course in International Law for Africa 2027 (Funding available)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": "The United Nations Regional Course in International Law for Africa is organized by the Codification Division of the United Nations Office of Legal Affairs in cooperation with the Federal Democratic Republic of Ethiopia, the African Union, [...] Deadline: October 30, 2026 Applications are open for th",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "The United Nations Regional Course in International Law for Africa is organized by the Codification Division of the United Nations Office of Legal Affairs in cooperation with the Federal Democratic Republic of Ethiopia, the African Union, [...] Deadline: October 30, 2026 Applications are open for th",
+      "ghanaEligibility": "africa_eligible",
+      "deadline": {
+        "date": "2026-10-30",
+        "rawText": "Deadline: October 30, 2026 Applications are open for the United Nations Regional Course in International Law for Africa 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 30, 2026 Applications are open for the United Nations Regional Course in International Law for Africa 2027. The United Nations Regional Course in International Law for Africa is organized by the Codification Division of the United Nations Office of Legal Affairs in cooperation with the Federal Democratic Republic of Ethiopia, the African Union, [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/13/united-nations-regional-course-in-international-law-for-africa-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/13/united-nations-regional-course-in-international-law-for-africa-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/13/united-nations-regional-course-in-international-law-for-africa-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-13T19:40:59.185Z",
+      "updatedAt": "2026-10-13T19:40:59.185Z",
+      "lastVerifiedAt": "2026-10-13T19:40:59.185Z",
+      "contentHash": "068b4d39219481d8",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 18,
+            "reason": "African applicants (including Ghana) eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "African applicants (including Ghana) eligible"
+        ],
+        "concerns": [
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
