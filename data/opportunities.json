@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:40:49.553Z",
+  "generatedAt": "2026-10-21T02:18:49.854Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-20T17:40:06.846Z",
+      "lastVerifiedAt": "2026-10-21T02:18:08.307Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -89,7 +89,7 @@
             "label": "Deadline urgency",
             "weight": 5,
             "earned": 5,
-            "reason": "Healthy application window (≤ 30 days)"
+            "reason": "Healthy application window (≤ 7 days)"
           },
           {
             "key": "type",
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:11.789Z",
+      "lastVerifiedAt": "2026-10-21T02:18:11.606Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:16.089Z",
+      "lastVerifiedAt": "2026-10-21T02:18:15.992Z",
       "contentHash": "f9576eaec7cade61",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:18.968Z",
+      "lastVerifiedAt": "2026-10-21T02:18:19.280Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-08T16:57:22.616Z",
-      "lastVerifiedAt": "2026-10-20T17:40:21.042Z",
+      "lastVerifiedAt": "2026-10-21T02:18:21.368Z",
       "contentHash": "e574be57b6c446b4",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:25.133Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:28.050Z",
+      "lastVerifiedAt": "2026-10-21T02:18:28.603Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:30.583Z",
+      "lastVerifiedAt": "2026-10-21T02:18:31.078Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -963,11 +963,11 @@
       "type": "masters_scholarship",
       "fundingType": "unknown",
       "fundingDetails": null,
-      "eligibilityText": "International Student Association in Korea",
+      "eligibilityText": "Ghana",
       "academicRequirement": null,
       "academicFit": "unknown",
-      "nationalityRequirement": "International Student Association in Korea",
-      "ghanaEligibility": "international",
+      "nationalityRequirement": "Ghana",
+      "ghanaEligibility": "ghana_eligible",
       "deadline": {
         "date": null,
         "rawText": null,
@@ -982,21 +982,21 @@
       "sourceId": "gks",
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
-      "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
-      "contentHash": "4a5ddc5127eb5fb2",
+      "updatedAt": "2026-10-21T02:18:05.762Z",
+      "lastVerifiedAt": "2026-10-21T02:18:05.762Z",
+      "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 56,
+        "score": 60,
         "tier": "good",
         "breakdown": [
           {
             "key": "nationality",
             "label": "Nationality eligibility",
             "weight": 20,
-            "earned": 16,
-            "reason": "Open to international applicants"
+            "earned": 20,
+            "reason": "Ghanaian applicants explicitly eligible"
           },
           {
             "key": "funding",
@@ -1056,7 +1056,7 @@
           }
         ],
         "reasons": [
-          "Open to international applicants",
+          "Ghanaian applicants explicitly eligible",
           "Matches one of your priority fields",
           "South Korea is one of your preferred destinations",
           "Matches your target opportunity types"
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-20T17:40:39.329Z",
+      "lastVerifiedAt": "2026-10-21T02:18:39.641Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -47388,7 +47388,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-19T18:55:21.916Z",
       "updatedAt": "2026-10-19T18:55:21.916Z",
-      "lastVerifiedAt": "2026-10-20T17:40:46.474Z",
+      "lastVerifiedAt": "2026-10-21T02:18:46.709Z",
       "contentHash": "26bea5db3e6430bc",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -47867,7 +47867,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-19T18:55:21.916Z",
       "updatedAt": "2026-10-19T18:55:21.916Z",
-      "lastVerifiedAt": "2026-10-20T17:40:49.552Z",
+      "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "d8d68a34ff6207cd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48214,7 +48214,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:46.708Z",
       "contentHash": "d805ec4e1047119d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48333,7 +48333,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:46.708Z",
       "contentHash": "4595b34262bcf37b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48451,7 +48451,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:46.708Z",
       "contentHash": "94e6d5f34471622c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48571,7 +48571,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:49.852Z",
       "contentHash": "545a2246e39262ed",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48626,7 +48626,7 @@
             "label": "Deadline urgency",
             "weight": 5,
             "earned": 5,
-            "reason": "Healthy application window (≤ 30 days)"
+            "reason": "Healthy application window (≤ 7 days)"
           },
           {
             "key": "type",
@@ -48688,7 +48688,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:49.852Z",
       "contentHash": "f080ecdd5f4a8b0c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48807,7 +48807,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "b5853ba97d803104",
       "verificationStatus": "needs_review",
       "environmental": true,
@@ -48924,7 +48924,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-20T17:40:04.349Z",
+      "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "d847b17c48d0e4b3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -49006,9 +49006,375 @@
           "Some details need manual review"
         ]
       }
+    },
+    {
+      "id": "opp_96e3f8de30d675af",
+      "title": "The Ye! Youth Ecopreneurs Programme (YECO) 2026/2027 for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "non_degree",
+      "type": "conference",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-22",
+        "rawText": "Application Deadline: 22 November 2026 Applications are now open for the 2026/2027 Ye!",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 22 November 2026 Applications are now open for the 2026/2027 Ye! Youth Ecopreneurs Programme. a global initiative by ITC and the UNCCD-G20 Global Land Initiative supporting young entrepreneurs… The post The Ye! Youth Ecopreneurs Programme (YECO) 2026/2027 for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-21T02:18:05.762Z",
+      "updatedAt": "2026-10-21T02:18:05.762Z",
+      "lastVerifiedAt": "2026-10-21T02:18:05.762Z",
+      "contentHash": "da4c90a96a58aa4e",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d7514b793efc56e8",
+      "title": "Jane Street Graduate Research Fellowship (GRF) 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "computer_science"
+      ],
+      "level": "phd",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-13",
+        "rawText": "Deadline: November 13, 2026 Applications are open for the Jane Street Graduate Research Fellowship (GRF) 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 13, 2026 Applications are open for the Jane Street Graduate Research Fellowship (GRF) 2027. The Jane Street Graduate Research Fellowship (GRF) supports exceptional doctoral students currently pursuing a PhD in electrical engineering and computer science, mathematics, physics, or statistics. At Jane Street, they take a rigorous, quantitative approach to trading on global markets, [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/20/jane-street-graduate-research-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/20/jane-street-graduate-research-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/20/jane-street-graduate-research-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-21T02:18:05.762Z",
+      "updatedAt": "2026-10-21T02:18:05.762Z",
+      "lastVerifiedAt": "2026-10-21T02:18:05.762Z",
+      "contentHash": "5cf67402b7ff1dad",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 47,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_003ff6f89d3b1f25",
+      "title": "U.S. Bank Discover Us: Finance & Banking Fellowship 2026",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-10-30",
+        "rawText": "Deadline: October 30, 2026 Are you interested in the banking and finance industry, but not sure what career path to take or where to start?",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: October 30, 2026 Are you interested in the banking and finance industry, but not sure what career path to take or where to start? Curious about what it’s like to work at a Fortune 500 company and have a passion for advancing diverse communities? Apply for the U.S. Bank Discover Us: Finance & Banking [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-21T02:18:05.762Z",
+      "updatedAt": "2026-10-21T02:18:05.762Z",
+      "lastVerifiedAt": "2026-10-21T02:18:05.762Z",
+      "contentHash": "18b9d4cd8a046a4e",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
     }
   ],
   "changes": [
+    {
+      "opportunityId": "opp_9251d01e7a8c2569",
+      "changedAt": "2026-10-21T02:18:34.621Z",
+      "runId": "run_1792549085762",
+      "changedFields": [
+        {
+          "field": "eligibilityText",
+          "from": "International Student Association in Korea",
+          "to": "Ghana"
+        }
+      ]
+    },
     {
       "opportunityId": "opp_9251d01e7a8c2569",
       "changedAt": "2026-10-20T17:40:34.475Z",
