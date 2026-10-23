@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:19:25.300Z",
+  "generatedAt": "2026-10-23T17:38:18.932Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-23T02:18:45.816Z",
+      "lastVerifiedAt": "2026-10-23T17:37:39.270Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-23T02:18:50.076Z",
+      "lastVerifiedAt": "2026-10-23T17:37:42.505Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-22T17:46:48.909Z",
+      "lastVerifiedAt": "2026-10-23T17:37:46.228Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-23T02:18:54.804Z",
+      "lastVerifiedAt": "2026-10-23T17:37:48.622Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-23T02:18:56.882Z",
+      "lastVerifiedAt": "2026-10-23T17:37:50.681Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-23T02:19:00.113Z",
+      "lastVerifiedAt": "2026-10-23T17:37:53.398Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-23T02:19:03.370Z",
+      "lastVerifiedAt": "2026-10-23T17:37:56.877Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-23T02:19:05.850Z",
+      "lastVerifiedAt": "2026-10-23T17:37:59.048Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-10-23T02:19:09.940Z",
+      "lastVerifiedAt": "2026-10-23T17:38:03.787Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-23T02:19:14.311Z",
+      "lastVerifiedAt": "2026-10-23T17:38:08.969Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -48215,7 +48215,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-20T17:40:04.349Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.769Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.839Z",
       "contentHash": "d805ec4e1047119d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -49042,7 +49042,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-21T02:18:05.762Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.769Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.839Z",
       "contentHash": "da4c90a96a58aa4e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -49396,7 +49396,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-21T17:48:02.345Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.768Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.838Z",
       "contentHash": "72e13511e8d1de78",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50097,7 +50097,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.767Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.836Z",
       "contentHash": "c1001420dda949a1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50215,7 +50215,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.768Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.837Z",
       "contentHash": "bf23a3de294335cd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50332,7 +50332,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.768Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.837Z",
       "contentHash": "3b28d0d2f5addde9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50450,7 +50450,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-23T02:19:21.768Z",
+      "lastVerifiedAt": "2026-10-23T17:38:15.838Z",
       "contentHash": "e81ff265a862cb3c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50567,7 +50567,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-23T02:19:25.295Z",
+      "lastVerifiedAt": "2026-10-23T17:38:18.931Z",
       "contentHash": "4a7838cee83315b9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51158,6 +51158,244 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.300Z",
       "contentHash": "725dadb62270b79b",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_32b8cf3a0dbc2fe1",
+      "title": "The DAAD Heilbronn AI Fellowship 2026/2027 for International Postdoctoral Researchers in Artificial Intelligence (Funded study in Germany)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [
+        "ai"
+      ],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: Ongoing Applications are now open for the 2026/2027 DAAD Heilbronn AI Fellowship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: Ongoing Applications are now open for the 2026/2027 DAAD Heilbronn AI Fellowship. The Heilbronn AI Fellowship attracts outstanding international postdoctoral researchers to Heilbronn’s rapidly growing AI ecosystem. The… The post The DAAD Heilbronn AI Fellowship 2026/2027 for International Postdoctoral Researchers in Artificial Intelligence (Funded study in Germany) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-daad-heilbronn-ai-fellowship-2026-2027-for-international-postdoctoral-researchers-in-artificial-intelligence/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-daad-heilbronn-ai-fellowship-2026-2027-for-international-postdoctoral-researchers-in-artificial-intelligence/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-daad-heilbronn-ai-fellowship-2026-2027-for-international-postdoctoral-researchers-in-artificial-intelligence",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-23T17:37:36.768Z",
+      "updatedAt": "2026-10-23T17:37:36.768Z",
+      "lastVerifiedAt": "2026-10-23T17:37:36.768Z",
+      "contentHash": "f1f1b9d3807d24ee",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 46,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8f7323cc253dd233",
+      "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-04",
+        "rawText": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to scholars who wish to devote a semester or a full academic year to genuinely innovative work in the humanities, sciences, or [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-23T17:37:36.768Z",
+      "updatedAt": "2026-10-23T17:37:36.768Z",
+      "lastVerifiedAt": "2026-10-23T17:37:36.768Z",
+      "contentHash": "16deb99bc5c07554",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
