@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:04:44.264Z",
+  "generatedAt": "2026-10-26T18:58:32.162Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-26T02:04:05.339Z",
+      "lastVerifiedAt": "2026-10-26T18:57:50.661Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -153,7 +153,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T02:04:10.061Z",
+      "lastVerifiedAt": "2026-10-26T18:57:56.783Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -274,7 +274,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-26T02:04:13.970Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 55,
@@ -391,7 +391,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T02:04:16.559Z",
+      "lastVerifiedAt": "2026-10-26T18:58:02.601Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -510,7 +510,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-26T02:04:18.609Z",
+      "lastVerifiedAt": "2026-10-26T18:58:04.655Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -628,7 +628,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-26T02:04:21.428Z",
+      "lastVerifiedAt": "2026-10-26T18:58:06.796Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,9 +745,9 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-25T16:56:05.342Z",
+      "lastVerifiedAt": "2026-10-26T18:58:10.150Z",
       "contentHash": "773b9b687c7b5c65",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 34,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T02:04:25.812Z",
+      "lastVerifiedAt": "2026-10-26T18:58:12.274Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -984,7 +984,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-10-26T02:04:29.635Z",
+      "lastVerifiedAt": "2026-10-26T18:58:16.263Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1103,7 +1103,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T02:04:34.427Z",
+      "lastVerifiedAt": "2026-10-26T18:58:21.100Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -49397,7 +49397,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-21T17:48:02.345Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.170Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
       "contentHash": "72e13511e8d1de78",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50098,7 +50098,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.168Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
       "contentHash": "c1001420dda949a1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50216,7 +50216,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.169Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
       "contentHash": "bf23a3de294335cd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50333,7 +50333,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.169Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
       "contentHash": "3b28d0d2f5addde9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51276,7 +51276,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-23T17:37:36.768Z",
       "updatedAt": "2026-10-23T17:37:36.768Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.167Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
       "contentHash": "f1f1b9d3807d24ee",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51512,7 +51512,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-24T16:23:14.123Z",
       "updatedAt": "2026-10-24T16:23:14.123Z",
-      "lastVerifiedAt": "2026-10-26T02:04:41.166Z",
+      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
       "contentHash": "b5b2212fe5b7d688",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51630,7 +51630,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-24T16:23:14.123Z",
       "updatedAt": "2026-10-24T16:23:14.123Z",
-      "lastVerifiedAt": "2026-10-26T02:04:44.263Z",
+      "lastVerifiedAt": "2026-10-26T18:58:32.162Z",
       "contentHash": "c3e972d1cb2061aa",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51944,6 +51944,474 @@
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_ae993d6c1287c009",
+      "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-02-28",
+        "rawText": "Application Deadline: 28 February 2027 Applications are now open for the 2027/2028 VLIR-UOS Scholarships for master Programmes (ICP Connect).",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 28 February 2027 Applications are now open for the 2027/2028 VLIR-UOS Scholarships for master Programmes (ICP Connect). ICP programmes equip students to become leaders and change agents in… The post VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-26T18:57:48.050Z",
+      "updatedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "contentHash": "a18553b267534db7",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 51,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_27c85b1f6b2f3686",
+      "title": "The WACSI Next Generation Internship Programme 2027 for young graduates and early-Career professionals (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": "WACSI is seeking interns from Benin, Mali, Cameroon, Chad, Ghana, and Nigeria who… The post The WACSI Next Generation Internship Programme 2027 for young graduates and early-Career professionals (Fully Funded) appeared first on Opportunities For Africans.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "WACSI is seeking interns from Benin, Mali, Cameroon, Chad, Ghana, and Nigeria who… The post The WACSI Next Generation Internship Programme 2027 for young graduates and early-Career professionals (Fully Funded) appeared first on Opportunities For Africans.",
+      "ghanaEligibility": "ghana_eligible",
+      "deadline": {
+        "date": "2026-11-08",
+        "rawText": "Application Deadline: November 8, 2026 Applications are now open for the 2027 WACSI Next Generation Internship Programme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: November 8, 2026 Applications are now open for the 2027 WACSI Next Generation Internship Programme. WACSI is seeking interns from Benin, Mali, Cameroon, Chad, Ghana, and Nigeria who… The post The WACSI Next Generation Internship Programme 2027 for young graduates and early-Career professionals (Fully Funded) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-wacsi-next-generation-internship-programme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-wacsi-next-generation-internship-programme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-wacsi-next-generation-internship-programme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-10-26T18:57:48.050Z",
+      "updatedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "contentHash": "7256f5fc5d053cf9",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 63,
+        "tier": "good",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 20,
+            "reason": "Ghanaian applicants explicitly eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Ghanaian applicants explicitly eligible",
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_2b4b8d68200b866d",
+      "title": "Sharjah Advanced Industrial AI Accelerator 2027 ($100,000 Cash Prize Pool)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "ai"
+      ],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-05-24",
+        "rawText": "Deadline: May 24, 2027 Applications are open for the Sharjah Advanced Industrial AI Accelerator 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: May 24, 2027 Applications are open for the Sharjah Advanced Industrial AI Accelerator 2027. Join the Sharjah Advanced Industrial AI Accelerator and explore opportunities to validate, commercialise and grow your technology from Sharjah. Selected companies will have the opportunity to engage with SPARK’s innovation ecosystem, industry partners and relevant technical capabilities, with support focused [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/26/sharjah-advanced-industrial-ai-accelerator-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/26/sharjah-advanced-industrial-ai-accelerator-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/26/sharjah-advanced-industrial-ai-accelerator-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-26T18:57:48.050Z",
+      "updatedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "contentHash": "8785f1d5cdc3255c",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_7d04e7e96f2c0a28",
+      "title": "WACSI Next Generation Internship Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-08",
+        "rawText": "Deadline: November 8, 2026 Applications are open for the WACSI Next Generation Internship Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 8, 2026 Applications are open for the WACSI Next Generation Internship Programme 2027. In response to an identified need for structured practical capacity enhancement for young West Africans, WACSI introduced a Next Generation Internship Programme (NGIP) in January 2008 aimed at developing the next generation of African scholars and practitioners. The programme primarily [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-26T18:57:48.050Z",
+      "updatedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "contentHash": "099e2d23d96ba8de",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
