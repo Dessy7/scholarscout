@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:58:32.162Z",
+  "generatedAt": "2026-10-27T02:42:11.184Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-10-26T18:57:50.661Z",
+      "lastVerifiedAt": "2026-10-27T02:41:29.751Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -153,7 +153,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T18:57:56.783Z",
+      "lastVerifiedAt": "2026-10-27T02:41:35.478Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -391,7 +391,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T18:58:02.601Z",
+      "lastVerifiedAt": "2026-10-27T02:41:41.406Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -510,7 +510,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-26T18:58:04.655Z",
+      "lastVerifiedAt": "2026-10-27T02:41:43.492Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -628,7 +628,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-10-26T18:58:06.796Z",
+      "lastVerifiedAt": "2026-10-27T02:41:46.755Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -745,7 +745,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T18:58:10.150Z",
+      "lastVerifiedAt": "2026-10-27T02:41:50.155Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T18:58:12.274Z",
+      "lastVerifiedAt": "2026-10-27T02:41:52.634Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -984,7 +984,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-10-26T18:58:16.263Z",
+      "lastVerifiedAt": "2026-10-27T02:41:56.263Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1103,7 +1103,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-10-26T18:58:21.100Z",
+      "lastVerifiedAt": "2026-10-27T02:42:00.532Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -49397,12 +49397,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-21T17:48:02.345Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.818Z",
       "contentHash": "72e13511e8d1de78",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 41,
+        "score": 40,
         "tier": "fair",
         "breakdown": [
           {
@@ -49451,8 +49451,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -49477,6 +49477,7 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -50098,7 +50099,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.817Z",
       "contentHash": "c1001420dda949a1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50216,7 +50217,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.817Z",
       "contentHash": "bf23a3de294335cd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -50333,7 +50334,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-22T17:46:48.909Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.706Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.818Z",
       "contentHash": "3b28d0d2f5addde9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51276,7 +51277,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-23T17:37:36.768Z",
       "updatedAt": "2026-10-23T17:37:36.768Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.817Z",
       "contentHash": "f1f1b9d3807d24ee",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51512,7 +51513,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-24T16:23:14.123Z",
       "updatedAt": "2026-10-24T16:23:14.123Z",
-      "lastVerifiedAt": "2026-10-26T18:58:28.705Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.817Z",
       "contentHash": "b5b2212fe5b7d688",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -51981,7 +51982,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-26T18:57:48.050Z",
       "updatedAt": "2026-10-26T18:57:48.050Z",
-      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.815Z",
       "contentHash": "a18553b267534db7",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -52099,7 +52100,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-10-26T18:57:48.050Z",
       "updatedAt": "2026-10-26T18:57:48.050Z",
-      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-27T02:42:07.816Z",
       "contentHash": "7256f5fc5d053cf9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -52218,7 +52219,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-26T18:57:48.050Z",
       "updatedAt": "2026-10-26T18:57:48.050Z",
-      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-27T02:42:11.184Z",
       "contentHash": "8785f1d5cdc3255c",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -52334,7 +52335,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-10-26T18:57:48.050Z",
       "updatedAt": "2026-10-26T18:57:48.050Z",
-      "lastVerifiedAt": "2026-10-26T18:57:48.050Z",
+      "lastVerifiedAt": "2026-10-27T02:42:11.184Z",
       "contentHash": "099e2d23d96ba8de",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -52376,6 +52377,237 @@
             "weight": 10,
             "earned": 0,
             "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_dd2ec8df221d5e72",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (Fully-funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully-funded",
+      "eligibilityText": "With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower outstanding young changemakers from Sub-Saharan Africa with the skills, resources, and funding needed to drive sustainable development in their communities.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower outstanding young changemakers from Sub-Saharan Africa with the skills, resources, and funding needed to drive sustainable development in their communities.",
+      "ghanaEligibility": "africa_eligible",
+      "deadline": {
+        "date": "2026-11-19",
+        "rawText": "Deadline: November 19, 2026 Applications are open for the Sir Cyril Taylor Young African Leaders Program 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 19, 2026 Applications are open for the Sir Cyril Taylor Young African Leaders Program 2027. With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower outstanding young changemakers from Sub-Saharan Africa with the skills, resources, and funding needed to drive sustainable development in their communities. [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-27T02:41:27.220Z",
+      "updatedAt": "2026-10-27T02:41:27.220Z",
+      "lastVerifiedAt": "2026-10-27T02:41:27.220Z",
+      "contentHash": "660d6811c9ec5bda",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 58,
+        "tier": "good",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 18,
+            "reason": "African applicants (including Ghana) eligible"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "African applicants (including Ghana) eligible",
+          "Fully funded"
+        ],
+        "concerns": [
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_cb06dfff584d7638",
+      "title": "Nexa Lighthouse Funding Program 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-17",
+        "rawText": "Deadline: November 17, 2026 Applications for the Nexa Lighthouse Funding Program 2027 are now open.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 17, 2026 Applications for the Nexa Lighthouse Funding Program 2027 are now open. Nexa Lighthouse is investing in proven innovations across Asia and the Pacific that help local health actors translate climate-related health risk signals into timely action. These innovations should focus on reducing health risks associated with mosquito-borne infections, extreme heat and [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/10/26/nexa-lighthouse-funding-program-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/10/26/nexa-lighthouse-funding-program-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/10/26/nexa-lighthouse-funding-program-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-10-27T02:41:27.220Z",
+      "updatedAt": "2026-10-27T02:41:27.220Z",
+      "lastVerifiedAt": "2026-10-27T02:41:27.220Z",
+      "contentHash": "c0dd238e7afee321",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 35,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3.5,
+            "reason": "Aligned with your career interests"
           },
           {
             "key": "geography",
