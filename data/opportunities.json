@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T03:03:48.413Z",
+  "generatedAt": "2026-11-02T22:03:35.093Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-02T03:02:56.336Z",
+      "lastVerifiedAt": "2026-11-02T22:02:53.109Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-02T03:03:11.377Z",
+      "lastVerifiedAt": "2026-11-02T22:02:58.647Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,7 +271,7 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-11-02T03:03:15.806Z",
+      "lastVerifiedAt": "2026-11-02T22:03:03.088Z",
       "contentHash": "59e2c2b8ce422569",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-02T03:03:18.987Z",
+      "lastVerifiedAt": "2026-11-02T22:03:05.348Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-02T03:03:21.102Z",
+      "lastVerifiedAt": "2026-11-02T22:03:07.475Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-02T03:03:23.483Z",
+      "lastVerifiedAt": "2026-11-02T22:03:10.620Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-02T03:03:26.625Z",
+      "lastVerifiedAt": "2026-11-02T22:03:14.116Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -864,7 +864,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-02T03:03:29.103Z",
+      "lastVerifiedAt": "2026-11-02T22:03:16.518Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -984,7 +984,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-02T03:03:32.682Z",
+      "lastVerifiedAt": "2026-11-02T22:03:19.842Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1102,7 +1102,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-02T03:03:37.274Z",
+      "lastVerifiedAt": "2026-11-02T22:03:24.755Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -56373,6 +56373,1067 @@
         "reasons": [
           "Matches one of your priority fields",
           "Aligned with your career interests"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_49f52620a72b903b",
+      "title": "2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-10",
+        "rawText": "Application Deadline: 10 January 2027 at 13.00 Central European Time Applications are now open for the 2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 10 January 2027 at 13.00 Central European Time Applications are now open for the 2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation. The Mundus Journalism master’s degree… The post 2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "01bc9fcab042ce8d",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 51,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_b7b8ce6b9f2f02be",
+      "title": "The Government of Mauritius Africa Scholarships Scheme 2027 for study in Mauritius (Fully Funded)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-03-31",
+        "rawText": "Application Deadline: 31 March 2027 Applications are now open for the 2027 Government of Mauritius Africa Scholarships Scheme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 31 March 2027 Applications are now open for the 2027 Government of Mauritius Africa Scholarships Scheme. The Government of Mauritius invites applications from deserving students who are resident… The post The Government of Mauritius Africa Scholarships Scheme 2027 for study in Mauritius (Fully Funded) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "143664508b08448f",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 48,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_bbc21bac0da92dc3",
+      "title": "WAAW Foundation Scholarship 2026 for African Female Students ($500 award)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-18",
+        "rawText": "Application Deadline: December 18, 2026 Applications are now open for the 2026 WAAW Foundation Scholarship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: December 18, 2026 Applications are now open for the 2026 WAAW Foundation Scholarship. WAAW Foundation Scholarship enables female college students in Africa to pursue their studies in a… The post WAAW Foundation Scholarship 2026 for African Female Students ($500 award) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "cfcd320d2d0a0a30",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_6dde2492391d50df",
+      "title": "The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-20",
+        "rawText": "Application Deadline: 20 January 2027 Applications are now open for the 2027 International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 20 January 2027 Applications are now open for the 2027 International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme. The Southern African-German Journalists’ Programme is a multiyear effort to… The post The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme 2027 in Germany (3,500 Euro Stipend). appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "f27b4bb161205fca",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_31b43c245d8e5e37",
+      "title": "IJP Southern African-German Journalists’ Programme 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-20",
+        "rawText": "Deadline: January 20, 2027 Applications are open for the IJP Southern African-German Journalists’ Programme 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: January 20, 2027 Applications are open for the IJP Southern African-German Journalists’ Programme 2027. The Southern African-German Journalists’ Programme is a multiyear effort to foster a deeper understanding between Germany and Africa as a whole. It has been offered in response to concerns about an increasing political and cultural detachment between Africa and Europe. [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/02/ijp-southern-african-german-journalists-programme-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/02/ijp-southern-african-german-journalists-programme-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/02/ijp-southern-african-german-journalists-programme-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "3cbcf2968d0f7db1",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 30,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_8c3ebb736df18adc",
+      "title": "WAAW Foundation Scholarship 2027 for Female College Students in Africa",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Deadline: Unspecified Applications are open for the WAAW Foundation Scholarship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: Unspecified Applications are open for the WAAW Foundation Scholarship 2027. WAAW Foundation Scholarship enables female college students in Africa to pursue their studies in a STEM-related course. With this scholarship, you are free to focus on achieving your academic goal and volunteer to give back to your community and promote the engagement of women [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/02/waaw-foundation-scholarship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/02/waaw-foundation-scholarship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/02/waaw-foundation-scholarship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "b1ba942eab29ff37",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_cac7037662f875a5",
+      "title": "Call for Submissions: New Developments in AI for Social, Economic, and Policy Research Conference 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "ai"
+      ],
+      "level": "non_degree",
+      "type": "conference",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-30",
+        "rawText": "Deadline: November 30, 2026 Submissions are invited for the New Developments in AI for Social, Economic, and Policy Research Conference 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 30, 2026 Submissions are invited for the New Developments in AI for Social, Economic, and Policy Research Conference 2027. Artificial intelligence is reshaping how work is organized, performed, valued, and governed. These changes extend beyond the adoption of new tools: they may alter the division of labor between people and machines, transform occupations and [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/02/new-developments-in-ai-for-social-economic-and-policy-research-conference-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/02/new-developments-in-ai-for-social-economic-and-policy-research-conference-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/02/new-developments-in-ai-for-social-economic-and-policy-research-conference-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "a1f8a5d23f5a7e2f",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 47,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 12.8,
+            "reason": "Matches one of your priority fields"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches one of your priority fields",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_f1701420ac6973fb",
+      "title": "Beyond the Classroom: My Journey Doing a Placement-Based Master’s Dissertation in Sierra Leone",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "“I come as one, but I stand as ten thousand.” These words by Maya Angelou have been a lifelong mantra for me. They remind me that wherever I go, I carry the experiences, lessons and contributions of the people and communities who have shaped my journey. When I began my master’s degree in Africa and [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/02/beyond-the-classroom-my-journey-doing-a-placement-based-masters-dissertation-in-sierra-leone/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/02/beyond-the-classroom-my-journey-doing-a-placement-based-masters-dissertation-in-sierra-leone/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/02/beyond-the-classroom-my-journey-doing-a-placement-based-masters-dissertation-in-sierra-leone",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "ab8be6508d80e55b",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_710b9aed820391e2",
+      "title": "Text to Speech Careers: Roles and Skills in AI Voice Work",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [
+        "ai",
+        "data_science"
+      ],
+      "level": "non_degree",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": null,
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Text to Speech and wider AI voice technology are changing how training courses, product tutorials, apps and customer service lines get their audio. The World Economic Forum’s Future of Jobs Report 2025 states that “AI and big data top the list of fastest-growing skills”, and audio production is one of the places where that shift [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/02/text-to-speech-careers-roles-and-skills-in-ai-voice-work/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/02/text-to-speech-careers-roles-and-skills-in-ai-voice-work/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/02/text-to-speech-careers-roles-and-skills-in-ai-voice-work",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-02T22:02:50.501Z",
+      "updatedAt": "2026-11-02T22:02:50.501Z",
+      "lastVerifiedAt": "2026-11-02T22:02:50.501Z",
+      "contentHash": "61efd0f4be07ad13",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 43,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 15,
+            "reason": "Strong field match (2 of your fields)"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 3,
+            "reason": "Related to your technical direction"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Strong field match (2 of your fields)"
         ],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
