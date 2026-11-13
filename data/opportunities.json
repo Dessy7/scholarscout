@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:35:07.817Z",
+  "generatedAt": "2026-11-13T03:53:48.375Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-12T20:34:29.016Z",
+      "lastVerifiedAt": "2026-11-13T03:52:49.585Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-12T20:34:33.489Z",
+      "lastVerifiedAt": "2026-11-13T03:52:55.238Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-11-12T20:34:37.220Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-12T20:34:39.780Z",
+      "lastVerifiedAt": "2026-11-13T03:53:00.498Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-12T20:34:41.840Z",
+      "lastVerifiedAt": "2026-11-13T03:53:02.559Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-12T20:34:43.926Z",
+      "lastVerifiedAt": "2026-11-13T03:53:04.681Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-12T20:34:47.172Z",
+      "lastVerifiedAt": "2026-11-13T03:53:07.755Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-12T20:34:49.344Z",
+      "lastVerifiedAt": "2026-11-13T03:53:10.279Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-12T20:34:53.335Z",
+      "lastVerifiedAt": "2026-11-13T03:53:14.192Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-12T20:34:58.149Z",
+      "lastVerifiedAt": "2026-11-13T03:53:19.431Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -2046,7 +2046,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "30a500174d1e4060",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -2163,7 +2163,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "e03ce9ada26c308a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -2281,7 +2281,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "e5925a0e1ea9408f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -2400,7 +2400,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "fc9a627781d4c55e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 69,
@@ -2520,7 +2520,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "26b9d778127d0a3b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 71,
@@ -2637,7 +2637,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "24b285e7e488bf74",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -2754,7 +2754,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "3669a4bbddd2e1d8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -2870,7 +2870,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-08-17T01:04:01.188Z",
       "contentHash": "45d531f19104ed98",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -3338,7 +3338,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-20T00:33:17.449Z",
       "contentHash": "9463e970c95315b3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -3456,7 +3456,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-20T00:33:17.449Z",
       "contentHash": "056779e368c78fd4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -3573,7 +3573,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.410Z",
       "contentHash": "5090f3c0e048584d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 32,
@@ -3689,7 +3689,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.410Z",
       "contentHash": "7aed91a6ef3365c7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -3806,7 +3806,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.410Z",
       "contentHash": "aedab044cadaec43",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -3923,7 +3923,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.410Z",
       "contentHash": "b6516f62cedd142b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -4040,7 +4040,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.411Z",
       "contentHash": "4ca3646989f2708c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -4155,7 +4155,7 @@
       "updatedAt": "2026-08-18T20:40:08.496Z",
       "lastVerifiedAt": "2026-08-19T00:33:26.411Z",
       "contentHash": "3c28f957e0a465cc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -4272,7 +4272,7 @@
       "updatedAt": "2026-08-19T13:38:11.874Z",
       "lastVerifiedAt": "2026-08-20T13:40:35.210Z",
       "contentHash": "f22363124dd9a135",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -4386,7 +4386,7 @@
       "updatedAt": "2026-08-19T13:38:11.874Z",
       "lastVerifiedAt": "2026-08-20T13:40:35.211Z",
       "contentHash": "bc9d59cbb40b8c90",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -4501,7 +4501,7 @@
       "updatedAt": "2026-08-19T13:38:11.874Z",
       "lastVerifiedAt": "2026-08-20T00:33:17.447Z",
       "contentHash": "a060e5f65f4f0975",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -4616,7 +4616,7 @@
       "updatedAt": "2026-08-19T13:38:11.874Z",
       "lastVerifiedAt": "2026-08-20T00:33:17.448Z",
       "contentHash": "1faf3a9650d86989",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -4733,7 +4733,7 @@
       "updatedAt": "2026-08-19T13:38:11.874Z",
       "lastVerifiedAt": "2026-08-20T00:33:17.448Z",
       "contentHash": "f7b0acff874ebc26",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -4966,7 +4966,7 @@
       "updatedAt": "2026-08-20T13:39:49.275Z",
       "lastVerifiedAt": "2026-08-21T00:36:11.843Z",
       "contentHash": "06e5c992df7a347b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -5081,7 +5081,7 @@
       "updatedAt": "2026-08-20T13:39:49.275Z",
       "lastVerifiedAt": "2026-08-21T00:36:11.844Z",
       "contentHash": "dc870dffd1ccf77e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -5198,7 +5198,7 @@
       "updatedAt": "2026-08-20T13:39:49.275Z",
       "lastVerifiedAt": "2026-08-21T00:36:11.844Z",
       "contentHash": "c83271b647683bb5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -5669,7 +5669,7 @@
       "updatedAt": "2026-08-21T13:38:39.747Z",
       "lastVerifiedAt": "2026-08-24T00:34:44.497Z",
       "contentHash": "cddb494a2304c731",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -5784,7 +5784,7 @@
       "updatedAt": "2026-08-21T13:38:39.747Z",
       "lastVerifiedAt": "2026-08-24T00:34:44.497Z",
       "contentHash": "6c2c4e395d822040",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -5901,7 +5901,7 @@
       "updatedAt": "2026-08-21T13:38:39.747Z",
       "lastVerifiedAt": "2026-08-24T00:34:44.497Z",
       "contentHash": "f3927e6de315778c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 32,
@@ -6019,7 +6019,7 @@
       "updatedAt": "2026-08-22T13:25:48.370Z",
       "lastVerifiedAt": "2026-08-25T00:34:23.524Z",
       "contentHash": "456ef51b1a615684",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -6136,7 +6136,7 @@
       "updatedAt": "2026-08-22T13:25:48.370Z",
       "lastVerifiedAt": "2026-08-24T00:34:44.496Z",
       "contentHash": "ad459112346b7549",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -6253,7 +6253,7 @@
       "updatedAt": "2026-08-22T13:25:48.370Z",
       "lastVerifiedAt": "2026-08-24T00:34:44.496Z",
       "contentHash": "7cf7a96e149eb909",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -6370,7 +6370,7 @@
       "updatedAt": "2026-08-24T13:58:21.220Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.737Z",
       "contentHash": "7fba3438a08f1ec3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -6485,7 +6485,7 @@
       "updatedAt": "2026-08-24T13:58:21.220Z",
       "lastVerifiedAt": "2026-08-26T00:35:58.305Z",
       "contentHash": "f3bbf9fed8cd623f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 42,
@@ -6601,7 +6601,7 @@
       "updatedAt": "2026-08-24T13:58:21.220Z",
       "lastVerifiedAt": "2026-08-25T00:34:23.524Z",
       "contentHash": "4544a5969270bddb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -6716,7 +6716,7 @@
       "updatedAt": "2026-08-24T13:58:21.220Z",
       "lastVerifiedAt": "2026-08-25T00:34:23.524Z",
       "contentHash": "689615de232f5bc1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -6832,7 +6832,7 @@
       "updatedAt": "2026-08-24T13:58:21.220Z",
       "lastVerifiedAt": "2026-08-25T00:34:23.524Z",
       "contentHash": "1f803933a9c02aaa",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -7420,7 +7420,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.734Z",
       "contentHash": "cd23f7e48520f45b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -7540,7 +7540,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.735Z",
       "contentHash": "595e308e73fc65c9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -7657,7 +7657,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.736Z",
       "contentHash": "378a3c3c769861c5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -7772,7 +7772,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.736Z",
       "contentHash": "5cdffcb189260c30",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -7889,7 +7889,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.736Z",
       "contentHash": "d43bdae2602a22c7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -8006,7 +8006,7 @@
       "updatedAt": "2026-08-25T13:42:01.821Z",
       "lastVerifiedAt": "2026-08-26T13:48:11.736Z",
       "contentHash": "6fb1d098739e56d3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -8125,7 +8125,7 @@
       "updatedAt": "2026-08-26T13:47:22.193Z",
       "lastVerifiedAt": "2026-08-27T05:28:22.305Z",
       "contentHash": "8b29ca5f3b9acf36",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -8361,7 +8361,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.737Z",
       "contentHash": "d6690c697e31fbda",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -8480,7 +8480,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.737Z",
       "contentHash": "75142ddd325db42e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -8596,7 +8596,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.737Z",
       "contentHash": "8dbce69c3e539df7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -8714,7 +8714,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-27T05:27:35.663Z",
       "contentHash": "ed6d889dcd449d86",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -8833,7 +8833,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-27T05:27:35.663Z",
       "contentHash": "af9029581e70126d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 51,
@@ -8950,7 +8950,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-27T05:27:35.663Z",
       "contentHash": "486f5c4d3444a4ae",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -9067,7 +9067,7 @@
       "updatedAt": "2026-08-27T05:27:35.663Z",
       "lastVerifiedAt": "2026-08-27T05:27:35.663Z",
       "contentHash": "2fcc3970105d367d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -9303,7 +9303,7 @@
       "updatedAt": "2026-08-27T22:42:46.151Z",
       "lastVerifiedAt": "2026-08-29T04:35:53.832Z",
       "contentHash": "0803bc416bfff42a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -9419,7 +9419,7 @@
       "updatedAt": "2026-08-27T22:42:46.151Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.736Z",
       "contentHash": "b82f7fd4b769cb2f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -9536,7 +9536,7 @@
       "updatedAt": "2026-08-27T22:42:46.151Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.736Z",
       "contentHash": "730ed9ee2bd4b737",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -9652,7 +9652,7 @@
       "updatedAt": "2026-08-27T22:42:46.151Z",
       "lastVerifiedAt": "2026-08-28T07:24:41.736Z",
       "contentHash": "4cbcc97a8369dc79",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -10010,7 +10010,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.432Z",
       "contentHash": "23f92abbc29371e4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -10127,7 +10127,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.432Z",
       "contentHash": "858fc0dc1311dfbb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -10244,7 +10244,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.432Z",
       "contentHash": "4039828552c5ab00",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -10362,7 +10362,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.433Z",
       "contentHash": "f1b283fa82a9ddc3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 64,
@@ -10479,7 +10479,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.433Z",
       "contentHash": "f1ae1e05cbbaf4ae",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -10596,7 +10596,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-29T04:35:53.831Z",
       "contentHash": "04157d5c55af7263",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -10713,7 +10713,7 @@
       "updatedAt": "2026-08-28T22:49:39.795Z",
       "lastVerifiedAt": "2026-08-29T04:35:53.832Z",
       "contentHash": "ad6a5986d4c835c3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -10832,7 +10832,7 @@
       "updatedAt": "2026-08-29T16:55:58.278Z",
       "lastVerifiedAt": "2026-08-31T02:01:48.428Z",
       "contentHash": "cfc028f96d1f20a8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -11418,7 +11418,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.396Z",
       "contentHash": "2986f0df1140e3a4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -11537,7 +11537,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.396Z",
       "contentHash": "7eeb2f5e0937f11b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -11656,7 +11656,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.397Z",
       "contentHash": "cc954ce3cfc750ee",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -11773,7 +11773,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.397Z",
       "contentHash": "d5fac2bb21a26abc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -11890,7 +11890,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.397Z",
       "contentHash": "744b172c81f8e90d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -12007,7 +12007,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.398Z",
       "contentHash": "972c2d4baadde5ee",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -12128,7 +12128,7 @@
       "updatedAt": "2026-08-31T19:19:41.432Z",
       "lastVerifiedAt": "2026-09-01T02:23:01.398Z",
       "contentHash": "0171a254815f2ca1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -12950,7 +12950,7 @@
       "updatedAt": "2026-09-01T17:05:06.428Z",
       "lastVerifiedAt": "2026-09-02T01:45:01.240Z",
       "contentHash": "066f61960ec9881d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -13066,7 +13066,7 @@
       "updatedAt": "2026-09-01T17:05:06.428Z",
       "lastVerifiedAt": "2026-09-02T01:45:01.240Z",
       "contentHash": "47990eb765f0c7cc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -13182,7 +13182,7 @@
       "updatedAt": "2026-09-01T17:05:06.428Z",
       "lastVerifiedAt": "2026-09-02T01:45:01.240Z",
       "contentHash": "1bb21e5cb1475d67",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -13297,7 +13297,7 @@
       "updatedAt": "2026-09-01T17:05:06.428Z",
       "lastVerifiedAt": "2026-09-02T01:45:01.244Z",
       "contentHash": "c3021bc2ba780bd5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -13414,7 +13414,7 @@
       "updatedAt": "2026-09-01T17:05:06.428Z",
       "lastVerifiedAt": "2026-09-02T01:45:01.244Z",
       "contentHash": "02dd74a2de2bc5a1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -13883,7 +13883,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "6eb4f11ff558a3fc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -13999,7 +13999,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "a60dc67c3b4d58db",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -14114,7 +14114,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.316Z",
       "contentHash": "c45b2757d57772b8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -14230,7 +14230,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "3314217d17860988",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -14350,7 +14350,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "e2352b0edd0883bf",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -14467,7 +14467,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "6f8ef619122152b6",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -14582,7 +14582,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "17acce2ab3fe15fd",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -14699,7 +14699,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-03T01:50:32.317Z",
       "contentHash": "e010120c4d1fa8c1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -14816,7 +14816,7 @@
       "updatedAt": "2026-09-02T16:56:07.764Z",
       "lastVerifiedAt": "2026-09-02T16:56:07.764Z",
       "contentHash": "4d95723d29337dcc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -15523,7 +15523,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.824Z",
       "contentHash": "095ecb1c16ea0f3b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -15641,7 +15641,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.824Z",
       "contentHash": "d34cbccbff342fec",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -15758,7 +15758,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.824Z",
       "contentHash": "85f9b649822c9a9e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -15873,7 +15873,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.829Z",
       "contentHash": "bf483ab034e441bb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -15988,7 +15988,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.829Z",
       "contentHash": "5b6f2bccdb097b17",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -16103,7 +16103,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.829Z",
       "contentHash": "b2c75fc6821ad029",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -16220,7 +16220,7 @@
       "updatedAt": "2026-09-03T16:47:58.542Z",
       "lastVerifiedAt": "2026-09-04T01:47:26.830Z",
       "contentHash": "4f6c5d01bdd8cc94",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -16575,7 +16575,7 @@
       "updatedAt": "2026-09-04T16:40:42.811Z",
       "lastVerifiedAt": "2026-09-07T01:37:24.918Z",
       "contentHash": "5208da1d3ffebae4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -16692,7 +16692,7 @@
       "updatedAt": "2026-09-04T16:40:42.811Z",
       "lastVerifiedAt": "2026-09-06T01:39:19.909Z",
       "contentHash": "1f4eebe3fc7bbc8a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -16809,7 +16809,7 @@
       "updatedAt": "2026-09-04T16:40:42.811Z",
       "lastVerifiedAt": "2026-09-06T01:39:19.909Z",
       "contentHash": "fedaaf5c8df7203b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -16926,7 +16926,7 @@
       "updatedAt": "2026-09-04T16:40:42.811Z",
       "lastVerifiedAt": "2026-09-05T15:44:20.080Z",
       "contentHash": "647e408552545058",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -17045,7 +17045,7 @@
       "updatedAt": "2026-09-04T16:40:42.811Z",
       "lastVerifiedAt": "2026-09-05T15:44:20.080Z",
       "contentHash": "90c631365937c427",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -17280,7 +17280,7 @@
       "updatedAt": "2026-09-06T01:38:32.371Z",
       "lastVerifiedAt": "2026-09-07T01:37:24.917Z",
       "contentHash": "b7a4740d527f1126",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -17397,7 +17397,7 @@
       "updatedAt": "2026-09-06T01:38:32.371Z",
       "lastVerifiedAt": "2026-09-07T01:37:24.917Z",
       "contentHash": "43438f26c45012a5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -17515,7 +17515,7 @@
       "updatedAt": "2026-09-06T01:38:32.371Z",
       "lastVerifiedAt": "2026-09-07T01:37:24.918Z",
       "contentHash": "14ab389cf9b38dcf",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -17631,7 +17631,7 @@
       "updatedAt": "2026-09-06T15:55:09.590Z",
       "lastVerifiedAt": "2026-09-08T01:47:50.359Z",
       "contentHash": "9f143d116967fb9e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -17747,7 +17747,7 @@
       "updatedAt": "2026-09-06T15:55:09.590Z",
       "lastVerifiedAt": "2026-09-08T01:47:50.359Z",
       "contentHash": "d9d694966a57e703",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -17865,7 +17865,7 @@
       "updatedAt": "2026-09-06T15:55:09.590Z",
       "lastVerifiedAt": "2026-09-07T01:37:24.916Z",
       "contentHash": "5bad4071395d9f94",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 53,
@@ -18337,7 +18337,7 @@
       "updatedAt": "2026-09-07T18:00:53.416Z",
       "lastVerifiedAt": "2026-09-08T01:47:50.354Z",
       "contentHash": "0e3cebb1a00d8ebc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -18454,7 +18454,7 @@
       "updatedAt": "2026-09-07T18:00:53.416Z",
       "lastVerifiedAt": "2026-09-08T01:47:50.354Z",
       "contentHash": "1dd1b51215304d75",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -18571,7 +18571,7 @@
       "updatedAt": "2026-09-07T18:00:53.416Z",
       "lastVerifiedAt": "2026-09-08T01:47:50.358Z",
       "contentHash": "7715c69af29d1dc9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -19160,7 +19160,7 @@
       "updatedAt": "2026-09-08T16:57:22.616Z",
       "lastVerifiedAt": "2026-09-10T01:50:11.484Z",
       "contentHash": "0219fa6251e784a7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -19276,7 +19276,7 @@
       "updatedAt": "2026-09-08T16:57:22.616Z",
       "lastVerifiedAt": "2026-09-09T01:53:57.334Z",
       "contentHash": "af6b6a58ff49ffc1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 62,
@@ -19747,7 +19747,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "8cff9703f45eabb6",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -19863,7 +19863,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "06996ed8e044996f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -19980,7 +19980,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-10T16:48:50.026Z",
       "contentHash": "c0cf8ee464df8d27",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 58,
@@ -20097,7 +20097,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-10T01:50:11.484Z",
       "contentHash": "b3f7a43e53ac354b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -20214,7 +20214,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-10T01:50:11.484Z",
       "contentHash": "234a245391cc9948",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 55,
@@ -20330,7 +20330,7 @@
       "updatedAt": "2026-09-09T16:57:21.493Z",
       "lastVerifiedAt": "2026-09-10T01:50:11.484Z",
       "contentHash": "a5a97a035250db24",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -20565,7 +20565,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.059Z",
       "contentHash": "85e4276af6d14a2b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -20682,7 +20682,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-13T16:47:05.247Z",
       "contentHash": "b65010081f6606ad",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -20799,7 +20799,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-11T16:51:02.947Z",
       "contentHash": "5ca40b4cbf06c39f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 54,
@@ -20915,7 +20915,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-11T16:51:02.947Z",
       "contentHash": "f4e4ee7a685cb45d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -21032,7 +21032,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-11T16:51:02.947Z",
       "contentHash": "8ba1e43089c5e5ef",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -21149,7 +21149,7 @@
       "updatedAt": "2026-09-10T16:48:02.447Z",
       "lastVerifiedAt": "2026-09-11T01:49:15.006Z",
       "contentHash": "ed2e8ffd0a002b40",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -21266,7 +21266,7 @@
       "updatedAt": "2026-09-11T01:48:26.831Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.059Z",
       "contentHash": "9a2a6230af825d8d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -21735,7 +21735,7 @@
       "updatedAt": "2026-09-11T16:50:11.719Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.058Z",
       "contentHash": "1c2bb016ea6f0a23",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -21852,7 +21852,7 @@
       "updatedAt": "2026-09-11T16:50:11.719Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.059Z",
       "contentHash": "63a0eaec0b7f5c39",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -21967,7 +21967,7 @@
       "updatedAt": "2026-09-11T16:50:11.719Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.059Z",
       "contentHash": "fc574a3a5be46509",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -22084,7 +22084,7 @@
       "updatedAt": "2026-09-12T01:53:42.961Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.058Z",
       "contentHash": "6889af8a3b069b6f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -22201,7 +22201,7 @@
       "updatedAt": "2026-09-12T01:53:42.961Z",
       "lastVerifiedAt": "2026-09-14T02:04:44.058Z",
       "contentHash": "5b6653cb2e1f6358",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -22316,7 +22316,7 @@
       "updatedAt": "2026-09-14T02:03:57.374Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.529Z",
       "contentHash": "86673f08e2e21d3f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -22668,7 +22668,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "708702b5d0df62e8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -22785,7 +22785,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.222Z",
       "contentHash": "a489405a5961738d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -22904,7 +22904,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.222Z",
       "contentHash": "90a656f807d3adf5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 41,
@@ -23019,7 +23019,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.528Z",
       "contentHash": "04e1fca4e702034b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 37,
@@ -23136,7 +23136,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.528Z",
       "contentHash": "f0f9333f9796b776",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -23254,7 +23254,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.528Z",
       "contentHash": "8448e48ac64b4c75",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -23371,7 +23371,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.528Z",
       "contentHash": "b61e3b865f811d31",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -23488,7 +23488,7 @@
       "updatedAt": "2026-09-14T18:17:15.310Z",
       "lastVerifiedAt": "2026-09-15T02:12:22.528Z",
       "contentHash": "87a84b1809678895",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -23723,7 +23723,7 @@
       "updatedAt": "2026-09-15T17:25:07.791Z",
       "lastVerifiedAt": "2026-09-16T17:25:04.249Z",
       "contentHash": "79019d636a6617f2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -23842,7 +23842,7 @@
       "updatedAt": "2026-09-15T17:25:07.791Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.220Z",
       "contentHash": "b7623eb1de1ad67e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -23959,7 +23959,7 @@
       "updatedAt": "2026-09-15T17:25:07.791Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "448fd41b22124f08",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -24073,7 +24073,7 @@
       "updatedAt": "2026-09-15T17:25:07.791Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "af3a20851c5433c2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -24189,7 +24189,7 @@
       "updatedAt": "2026-09-15T17:25:07.791Z",
       "lastVerifiedAt": "2026-09-16T02:04:37.221Z",
       "contentHash": "463d5ba6b59fdf99",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -24423,7 +24423,7 @@
       "updatedAt": "2026-09-16T17:24:14.792Z",
       "lastVerifiedAt": "2026-09-17T17:24:10.204Z",
       "contentHash": "0eb5a05ac913e9b7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -24537,7 +24537,7 @@
       "updatedAt": "2026-09-16T17:24:14.792Z",
       "lastVerifiedAt": "2026-09-17T02:08:44.290Z",
       "contentHash": "f865088b9fd89cfe",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -24654,7 +24654,7 @@
       "updatedAt": "2026-09-16T17:24:14.792Z",
       "lastVerifiedAt": "2026-09-17T02:08:44.291Z",
       "contentHash": "7d1d2b09d42dcdb4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -24770,7 +24770,7 @@
       "updatedAt": "2026-09-16T17:24:14.792Z",
       "lastVerifiedAt": "2026-09-17T02:08:44.291Z",
       "contentHash": "a4707e457c501832",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -25005,7 +25005,7 @@
       "updatedAt": "2026-09-17T02:07:39.996Z",
       "lastVerifiedAt": "2026-09-17T17:24:10.203Z",
       "contentHash": "cdf414fdacc3c332",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 71,
@@ -25123,7 +25123,7 @@
       "updatedAt": "2026-09-17T02:07:39.996Z",
       "lastVerifiedAt": "2026-09-17T17:24:10.204Z",
       "contentHash": "e69f7c88f957d223",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -25479,7 +25479,7 @@
       "updatedAt": "2026-09-17T17:23:22.765Z",
       "lastVerifiedAt": "2026-09-18T01:56:08.962Z",
       "contentHash": "d58b037fbcb281c2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -25596,7 +25596,7 @@
       "updatedAt": "2026-09-17T17:23:22.765Z",
       "lastVerifiedAt": "2026-09-18T01:56:08.962Z",
       "contentHash": "4f0f8a66b5cc7ed1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -25711,7 +25711,7 @@
       "updatedAt": "2026-09-17T17:23:22.765Z",
       "lastVerifiedAt": "2026-09-17T17:23:22.765Z",
       "contentHash": "06b8863438dfabed",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -25830,7 +25830,7 @@
       "updatedAt": "2026-09-18T01:55:23.640Z",
       "lastVerifiedAt": "2026-09-21T02:04:37.038Z",
       "contentHash": "2add0267c3fd4406",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -25950,7 +25950,7 @@
       "updatedAt": "2026-09-18T01:55:23.640Z",
       "lastVerifiedAt": "2026-09-18T16:52:10.753Z",
       "contentHash": "9a5f1fecc4c61c1f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -26067,7 +26067,7 @@
       "updatedAt": "2026-09-18T01:55:23.640Z",
       "lastVerifiedAt": "2026-09-18T01:55:23.640Z",
       "contentHash": "af2db404e1d8daad",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -26418,7 +26418,7 @@
       "updatedAt": "2026-09-18T16:51:22.175Z",
       "lastVerifiedAt": "2026-09-22T02:10:48.146Z",
       "contentHash": "fa6f88d35854610c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -26535,7 +26535,7 @@
       "updatedAt": "2026-09-18T16:51:22.175Z",
       "lastVerifiedAt": "2026-09-21T02:04:37.037Z",
       "contentHash": "cc9da1396b81714a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -27123,7 +27123,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T17:28:29.246Z",
       "contentHash": "22c668b466fd299b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -27240,7 +27240,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T17:28:29.246Z",
       "contentHash": "76e80ccf2e0c3dec",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -27357,7 +27357,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T02:10:48.145Z",
       "contentHash": "aafa17542be1f105",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -27472,7 +27472,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T02:10:48.145Z",
       "contentHash": "d23a93861a0fb1d5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -27589,7 +27589,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T02:10:48.145Z",
       "contentHash": "2868c26ef35c043f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -27708,7 +27708,7 @@
       "updatedAt": "2026-09-21T18:24:19.642Z",
       "lastVerifiedAt": "2026-09-22T02:10:48.146Z",
       "contentHash": "8db1aa4a3e89c5b1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -27943,7 +27943,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.200Z",
       "contentHash": "efff05a1b6151c68",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -28060,7 +28060,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.200Z",
       "contentHash": "dbd36c1dbb6f5e90",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -28177,7 +28177,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.200Z",
       "contentHash": "7e213642c2440e5f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -28292,7 +28292,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.200Z",
       "contentHash": "2a505b7c5a4f7c0b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 53,
@@ -28409,7 +28409,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.201Z",
       "contentHash": "0584aa34a74c29c7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -28524,7 +28524,7 @@
       "updatedAt": "2026-09-22T17:27:47.349Z",
       "lastVerifiedAt": "2026-09-23T02:10:14.201Z",
       "contentHash": "2caa092e3eb279ff",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -28641,7 +28641,7 @@
       "updatedAt": "2026-09-23T02:09:30.393Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.475Z",
       "contentHash": "104e7fda8832ac69",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -29111,7 +29111,7 @@
       "updatedAt": "2026-09-23T17:37:16.795Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.474Z",
       "contentHash": "bf5634900f73bfb5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -29226,7 +29226,7 @@
       "updatedAt": "2026-09-23T17:37:16.795Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.474Z",
       "contentHash": "b2687a5347cf41bc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -29343,7 +29343,7 @@
       "updatedAt": "2026-09-23T17:37:16.795Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.474Z",
       "contentHash": "9dd929758977c3e2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -29460,7 +29460,7 @@
       "updatedAt": "2026-09-23T17:37:16.795Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.475Z",
       "contentHash": "0f4b41541868652d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -29577,7 +29577,7 @@
       "updatedAt": "2026-09-23T17:37:16.795Z",
       "lastVerifiedAt": "2026-09-24T01:57:23.475Z",
       "contentHash": "563e3f7b5a98138c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 35,
@@ -30046,7 +30046,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-26T16:51:01.785Z",
       "contentHash": "81ef67be710001fb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -30165,7 +30165,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-26T16:51:01.785Z",
       "contentHash": "6dbc7e93c1fef7ee",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 51,
@@ -30282,7 +30282,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-25T02:13:53.895Z",
       "contentHash": "19a90ce7d7b1debe",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -30399,7 +30399,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-25T02:13:53.895Z",
       "contentHash": "38eff9e2fcc17797",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -30516,7 +30516,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-25T02:13:53.895Z",
       "contentHash": "5c5f6ad515433c7c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -30633,7 +30633,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-24T17:40:17.853Z",
       "contentHash": "39b35e86bb1d37e9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -30750,7 +30750,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-24T17:40:17.853Z",
       "contentHash": "a53b87258c41eee8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -30866,7 +30866,7 @@
       "updatedAt": "2026-09-24T17:40:17.853Z",
       "lastVerifiedAt": "2026-09-24T17:40:17.853Z",
       "contentHash": "6714d31a07310149",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -30982,7 +30982,7 @@
       "updatedAt": "2026-09-25T17:40:23.847Z",
       "lastVerifiedAt": "2026-09-26T16:51:01.784Z",
       "contentHash": "50e8036a54971e51",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -31218,7 +31218,7 @@
       "updatedAt": "2026-09-25T17:40:23.847Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.917Z",
       "contentHash": "9c4987e90802a89c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -31335,7 +31335,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-29T03:03:29.645Z",
       "contentHash": "c38776a006d81ca3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -31452,7 +31452,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.916Z",
       "contentHash": "ffadd251a6f1ce10",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -31569,7 +31569,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.916Z",
       "contentHash": "a04762c5007bee7e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -31686,7 +31686,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.917Z",
       "contentHash": "87481f514513f7de",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -31803,7 +31803,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.917Z",
       "contentHash": "0fa814d5859ae7e0",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -31920,7 +31920,7 @@
       "updatedAt": "2026-09-27T02:13:37.989Z",
       "lastVerifiedAt": "2026-09-28T02:18:35.917Z",
       "contentHash": "84e385e5726808ec",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -32389,7 +32389,7 @@
       "updatedAt": "2026-09-28T19:55:34.733Z",
       "lastVerifiedAt": "2026-09-29T03:03:29.644Z",
       "contentHash": "2479b129a75a3a86",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -32504,7 +32504,7 @@
       "updatedAt": "2026-09-28T19:55:34.733Z",
       "lastVerifiedAt": "2026-09-29T03:03:29.644Z",
       "contentHash": "8ef9cf147fbc3c69",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -32623,7 +32623,7 @@
       "updatedAt": "2026-09-28T19:55:34.733Z",
       "lastVerifiedAt": "2026-09-29T03:03:29.645Z",
       "contentHash": "ff72559f7cd53726",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -32975,7 +32975,7 @@
       "updatedAt": "2026-09-29T18:24:01.053Z",
       "lastVerifiedAt": "2026-09-30T02:45:08.046Z",
       "contentHash": "b7a61d7b09d3fcbc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 35,
@@ -33089,7 +33089,7 @@
       "updatedAt": "2026-09-29T18:24:01.053Z",
       "lastVerifiedAt": "2026-09-30T02:45:08.046Z",
       "contentHash": "9d3e0458b6fa6f43",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -33206,7 +33206,7 @@
       "updatedAt": "2026-09-29T18:24:01.053Z",
       "lastVerifiedAt": "2026-09-30T02:45:08.047Z",
       "contentHash": "8c7e2a9e28ccd37d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -33325,7 +33325,7 @@
       "updatedAt": "2026-09-29T18:24:01.053Z",
       "lastVerifiedAt": "2026-09-30T02:45:08.047Z",
       "contentHash": "80dbabc060f593e3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 62,
@@ -33559,7 +33559,7 @@
       "updatedAt": "2026-09-30T18:13:18.241Z",
       "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "e9f04278f137fb4d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -33674,7 +33674,7 @@
       "updatedAt": "2026-09-30T18:13:18.241Z",
       "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "89c8a614e515bc75",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -33791,7 +33791,7 @@
       "updatedAt": "2026-09-30T18:13:18.241Z",
       "lastVerifiedAt": "2026-10-01T02:50:35.101Z",
       "contentHash": "2c5200efd98cf736",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -33908,7 +33908,7 @@
       "updatedAt": "2026-09-30T18:13:18.241Z",
       "lastVerifiedAt": "2026-09-30T18:13:18.241Z",
       "contentHash": "01eea1ab1b559824",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -34143,7 +34143,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-01T18:38:39.626Z",
       "contentHash": "e3c2167f3d24acd8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 32,
@@ -34967,7 +34967,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-02T02:53:28.036Z",
       "contentHash": "751a28fce0271057",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -35083,7 +35083,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-02T02:53:28.037Z",
       "contentHash": "77fdcf8a3355d4f5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 42,
@@ -35202,7 +35202,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-02T02:53:28.037Z",
       "contentHash": "680010282305d3f5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 53,
@@ -35322,7 +35322,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-02T02:53:28.038Z",
       "contentHash": "5912b545476e439a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 54,
@@ -35440,7 +35440,7 @@
       "updatedAt": "2026-10-01T18:38:39.626Z",
       "lastVerifiedAt": "2026-10-02T02:53:28.038Z",
       "contentHash": "e251db572f16fcf8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -35558,7 +35558,7 @@
       "updatedAt": "2026-10-02T02:52:38.565Z",
       "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "701780986963c3a9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -35791,7 +35791,7 @@
       "updatedAt": "2026-10-02T18:08:30.795Z",
       "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "c7961256522d443d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -35908,7 +35908,7 @@
       "updatedAt": "2026-10-02T18:08:30.795Z",
       "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "80e562a9740d6728",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -36025,7 +36025,7 @@
       "updatedAt": "2026-10-02T18:08:30.795Z",
       "lastVerifiedAt": "2026-10-03T02:39:57.748Z",
       "contentHash": "057fd1790a2aa0a4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -36144,7 +36144,7 @@
       "updatedAt": "2026-10-03T02:39:12.200Z",
       "lastVerifiedAt": "2026-10-05T02:45:45.518Z",
       "contentHash": "6484e68e600eb6d9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -36260,7 +36260,7 @@
       "updatedAt": "2026-10-03T16:54:46.696Z",
       "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
       "contentHash": "9698a7d331e4552c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -36377,7 +36377,7 @@
       "updatedAt": "2026-10-03T16:54:46.696Z",
       "lastVerifiedAt": "2026-10-06T03:37:03.999Z",
       "contentHash": "6a961fdf4bfd5536",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -36494,7 +36494,7 @@
       "updatedAt": "2026-10-03T16:54:46.696Z",
       "lastVerifiedAt": "2026-10-05T02:45:45.517Z",
       "contentHash": "a61fbe32df707a41",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -36612,7 +36612,7 @@
       "updatedAt": "2026-10-03T16:54:46.696Z",
       "lastVerifiedAt": "2026-10-05T02:45:45.517Z",
       "contentHash": "83330b4a022b22e7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -36965,7 +36965,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "881f0316c88e2783",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 62,
@@ -37084,7 +37084,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "80ad36ddaaff8a56",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -37202,7 +37202,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "be1bf59a7b253529",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -37319,7 +37319,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "93e90e8cc41a29af",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -37436,7 +37436,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.624Z",
       "contentHash": "b552710a84b4ebfb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -37555,7 +37555,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T18:43:39.625Z",
       "contentHash": "5082c92de695daf8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -37672,7 +37672,7 @@
       "updatedAt": "2026-10-05T20:54:38.326Z",
       "lastVerifiedAt": "2026-10-06T03:37:03.998Z",
       "contentHash": "55228d8673ab86cf",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -37789,7 +37789,7 @@
       "updatedAt": "2026-10-06T18:42:53.774Z",
       "lastVerifiedAt": "2026-10-07T03:03:03.867Z",
       "contentHash": "4ff9aeef79d0c28e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -37904,7 +37904,7 @@
       "updatedAt": "2026-10-06T18:42:53.774Z",
       "lastVerifiedAt": "2026-10-07T03:03:03.867Z",
       "contentHash": "406130f27719c28f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -38610,7 +38610,7 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T19:09:58.897Z",
       "contentHash": "abb8bacafe33c9cb",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -38727,7 +38727,7 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
       "contentHash": "1139ff9502011372",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -38844,7 +38844,7 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
       "contentHash": "c77f27cd910dd6ba",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 41,
@@ -38960,7 +38960,7 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
       "contentHash": "1eb9e943a882fc56",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -39077,7 +39077,7 @@
       "updatedAt": "2026-10-07T03:02:13.453Z",
       "lastVerifiedAt": "2026-10-07T03:02:13.453Z",
       "contentHash": "4e7a489f39d94d74",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -39193,7 +39193,7 @@
       "updatedAt": "2026-10-07T19:09:14.298Z",
       "lastVerifiedAt": "2026-10-08T03:19:40.362Z",
       "contentHash": "4536a8cf445953d0",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -39310,7 +39310,7 @@
       "updatedAt": "2026-10-07T19:09:14.298Z",
       "lastVerifiedAt": "2026-10-08T03:19:40.362Z",
       "contentHash": "04f46645ce18fc00",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -39427,7 +39427,7 @@
       "updatedAt": "2026-10-07T19:09:14.298Z",
       "lastVerifiedAt": "2026-10-08T03:19:40.363Z",
       "contentHash": "84ff7b058767a2aa",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -39543,7 +39543,7 @@
       "updatedAt": "2026-10-07T19:09:14.298Z",
       "lastVerifiedAt": "2026-10-08T03:19:40.363Z",
       "contentHash": "bd15a45ddc52307e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -39659,7 +39659,7 @@
       "updatedAt": "2026-10-08T03:18:55.482Z",
       "lastVerifiedAt": "2026-10-08T03:18:55.482Z",
       "contentHash": "b7d4288b21cec7a2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -39777,7 +39777,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-09T18:36:47.745Z",
       "contentHash": "d691a71932ebf594",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -39894,7 +39894,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-09T18:36:47.745Z",
       "contentHash": "b65c5a9a8056bee1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -40011,7 +40011,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-09T03:25:27.425Z",
       "contentHash": "47c6513c2f6dbdc3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -40129,7 +40129,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-09T03:25:27.425Z",
       "contentHash": "29bd67ed7afcdee4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -40246,7 +40246,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-09T03:25:27.426Z",
       "contentHash": "fe2ca98c3516b091",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -40363,7 +40363,7 @@
       "updatedAt": "2026-10-08T19:05:36.256Z",
       "lastVerifiedAt": "2026-10-08T19:05:36.256Z",
       "contentHash": "75312cd8014c2431",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -40478,7 +40478,7 @@
       "updatedAt": "2026-10-09T03:24:42.987Z",
       "lastVerifiedAt": "2026-10-09T18:36:47.745Z",
       "contentHash": "76b37faf9cc37904",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -41532,7 +41532,7 @@
       "updatedAt": "2026-10-09T18:36:04.032Z",
       "lastVerifiedAt": "2026-10-12T03:01:10.519Z",
       "contentHash": "5191f0a4d0aa6b27",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -41648,7 +41648,7 @@
       "updatedAt": "2026-10-09T18:36:04.032Z",
       "lastVerifiedAt": "2026-10-12T03:01:10.519Z",
       "contentHash": "60ee05fa20ae94c7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -41763,7 +41763,7 @@
       "updatedAt": "2026-10-10T03:04:26.003Z",
       "lastVerifiedAt": "2026-10-12T03:01:10.519Z",
       "contentHash": "c4470ea465510f09",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -42819,7 +42819,7 @@
       "updatedAt": "2026-10-12T21:29:35.722Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.763Z",
       "contentHash": "4b3a04bc5a4b1d4d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -42936,7 +42936,7 @@
       "updatedAt": "2026-10-12T21:29:35.722Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.763Z",
       "contentHash": "89fbe08de89973be",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -43053,7 +43053,7 @@
       "updatedAt": "2026-10-12T21:29:35.722Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.763Z",
       "contentHash": "d32a0136e58a3135",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -43170,7 +43170,7 @@
       "updatedAt": "2026-10-12T21:29:35.722Z",
       "lastVerifiedAt": "2026-10-13T04:15:45.563Z",
       "contentHash": "aa4ba77d1534aea4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -43287,7 +43287,7 @@
       "updatedAt": "2026-10-12T21:29:35.722Z",
       "lastVerifiedAt": "2026-10-13T04:15:45.563Z",
       "contentHash": "c644b4948e05af77",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -43404,7 +43404,7 @@
       "updatedAt": "2026-10-13T19:40:59.185Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.762Z",
       "contentHash": "7c8a8fc389ccd5d8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -43520,7 +43520,7 @@
       "updatedAt": "2026-10-13T19:40:59.185Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.762Z",
       "contentHash": "b18af84116eb0d12",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -43636,7 +43636,7 @@
       "updatedAt": "2026-10-13T19:40:59.185Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.762Z",
       "contentHash": "9cfb87d866ab2867",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -43753,7 +43753,7 @@
       "updatedAt": "2026-10-13T19:40:59.185Z",
       "lastVerifiedAt": "2026-10-14T02:28:04.763Z",
       "contentHash": "068b4d39219481d8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -43987,7 +43987,7 @@
       "updatedAt": "2026-10-14T02:27:19.186Z",
       "lastVerifiedAt": "2026-10-14T02:27:19.186Z",
       "contentHash": "bda3cc0dfd139e12",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 35,
@@ -44453,7 +44453,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-16T01:59:37.209Z",
       "contentHash": "e1dd43fa8f28124d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -44571,7 +44571,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-15T02:09:03.926Z",
       "contentHash": "f8e8c4c74f707d46",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -44689,7 +44689,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-15T02:09:03.926Z",
       "contentHash": "1a3ad92acff8ffa9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -44807,7 +44807,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-15T02:09:03.927Z",
       "contentHash": "ff5f7d56accf0479",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -44922,7 +44922,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-15T02:09:03.933Z",
       "contentHash": "8d0268b13e95b5d2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -45039,7 +45039,7 @@
       "updatedAt": "2026-10-14T17:42:33.875Z",
       "lastVerifiedAt": "2026-10-15T02:09:03.933Z",
       "contentHash": "431feb02fa708a89",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -45156,7 +45156,7 @@
       "updatedAt": "2026-10-15T17:31:53.540Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.912Z",
       "contentHash": "1dfd726ffd39a6c8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -45273,7 +45273,7 @@
       "updatedAt": "2026-10-15T17:31:53.540Z",
       "lastVerifiedAt": "2026-10-16T01:59:37.206Z",
       "contentHash": "b310adfb3cdca504",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -45389,7 +45389,7 @@
       "updatedAt": "2026-10-15T17:31:53.540Z",
       "lastVerifiedAt": "2026-10-16T01:59:37.209Z",
       "contentHash": "0ee2a3ae01fa8237",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 42,
@@ -45509,7 +45509,7 @@
       "updatedAt": "2026-10-15T17:31:53.540Z",
       "lastVerifiedAt": "2026-10-16T01:59:37.209Z",
       "contentHash": "6a13564c56bf3037",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 50,
@@ -46451,7 +46451,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-20T02:25:25.360Z",
       "contentHash": "59e441c14836ef50",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 41,
@@ -46567,7 +46567,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.907Z",
       "contentHash": "13735b14a1660477",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -46682,7 +46682,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.907Z",
       "contentHash": "59eed3a7ba77af7c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -46801,7 +46801,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.911Z",
       "contentHash": "a32e201d29321d08",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 61,
@@ -46920,7 +46920,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.912Z",
       "contentHash": "4b817adf185d9d2c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -47036,7 +47036,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.912Z",
       "contentHash": "40ab136059b54ac5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -47153,7 +47153,7 @@
       "updatedAt": "2026-10-16T17:07:25.842Z",
       "lastVerifiedAt": "2026-10-19T02:09:48.912Z",
       "contentHash": "62b832dd5c31fc5a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -47869,7 +47869,7 @@
       "updatedAt": "2026-10-19T18:55:21.916Z",
       "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "d8d68a34ff6207cd",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -47986,7 +47986,7 @@
       "updatedAt": "2026-10-19T18:55:21.916Z",
       "lastVerifiedAt": "2026-10-20T17:40:49.553Z",
       "contentHash": "2c6f383f897c472a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 35,
@@ -48101,7 +48101,7 @@
       "updatedAt": "2026-10-19T18:55:21.916Z",
       "lastVerifiedAt": "2026-10-20T02:25:25.360Z",
       "contentHash": "8e85165481a19a0f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -48574,7 +48574,7 @@
       "updatedAt": "2026-10-20T17:40:04.349Z",
       "lastVerifiedAt": "2026-10-21T02:18:49.852Z",
       "contentHash": "545a2246e39262ed",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -48691,7 +48691,7 @@
       "updatedAt": "2026-10-20T17:40:04.349Z",
       "lastVerifiedAt": "2026-10-21T02:18:49.852Z",
       "contentHash": "f080ecdd5f4a8b0c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -48810,7 +48810,7 @@
       "updatedAt": "2026-10-20T17:40:04.349Z",
       "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "b5853ba97d803104",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 50,
@@ -48927,7 +48927,7 @@
       "updatedAt": "2026-10-20T17:40:04.349Z",
       "lastVerifiedAt": "2026-10-21T02:18:49.853Z",
       "contentHash": "d847b17c48d0e4b3",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -49163,7 +49163,7 @@
       "updatedAt": "2026-10-21T02:18:05.762Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.752Z",
       "contentHash": "5cf67402b7ff1dad",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -49280,7 +49280,7 @@
       "updatedAt": "2026-10-21T02:18:05.762Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.752Z",
       "contentHash": "18b9d4cd8a046a4e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -49518,7 +49518,7 @@
       "updatedAt": "2026-10-21T17:48:02.345Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.751Z",
       "contentHash": "f71d2e0a62cb6f47",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -49635,7 +49635,7 @@
       "updatedAt": "2026-10-21T17:48:02.345Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.751Z",
       "contentHash": "32a2ed5da3aaa418",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -49752,7 +49752,7 @@
       "updatedAt": "2026-10-21T17:48:02.345Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.752Z",
       "contentHash": "937e862e21b02f6f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -49867,7 +49867,7 @@
       "updatedAt": "2026-10-21T17:48:02.345Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.752Z",
       "contentHash": "d286775dad3945c6",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -49984,7 +49984,7 @@
       "updatedAt": "2026-10-21T17:48:02.345Z",
       "lastVerifiedAt": "2026-10-22T02:13:39.752Z",
       "contentHash": "9363e3c0001cbb57",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -50569,7 +50569,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-24T02:16:58.264Z",
       "contentHash": "4a7838cee83315b9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -50687,7 +50687,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.299Z",
       "contentHash": "c3df2457ef1986e4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -50804,7 +50804,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.299Z",
       "contentHash": "71c1d3fef3fda24b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 38,
@@ -50923,7 +50923,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.300Z",
       "contentHash": "e8eedf095d434490",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 45,
@@ -51041,7 +51041,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.300Z",
       "contentHash": "9d00deb019910c5b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -51158,7 +51158,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-10-23T02:19:25.300Z",
       "contentHash": "725dadb62270b79b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -51396,7 +51396,7 @@
       "updatedAt": "2026-10-23T17:37:36.768Z",
       "lastVerifiedAt": "2026-10-25T02:03:52.233Z",
       "contentHash": "16deb99bc5c07554",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -51631,7 +51631,7 @@
       "updatedAt": "2026-10-24T16:23:14.123Z",
       "lastVerifiedAt": "2026-10-26T18:58:32.162Z",
       "contentHash": "c3e972d1cb2061aa",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -51748,7 +51748,7 @@
       "updatedAt": "2026-10-24T16:23:14.123Z",
       "lastVerifiedAt": "2026-10-26T02:04:44.263Z",
       "contentHash": "61462d8aa3523f49",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -51866,7 +51866,7 @@
       "updatedAt": "2026-10-24T16:23:14.123Z",
       "lastVerifiedAt": "2026-10-26T02:04:44.263Z",
       "contentHash": "3401ae18bc508b2f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 53,
@@ -52219,7 +52219,7 @@
       "updatedAt": "2026-10-26T18:57:48.050Z",
       "lastVerifiedAt": "2026-10-27T02:42:11.184Z",
       "contentHash": "8785f1d5cdc3255c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -52335,7 +52335,7 @@
       "updatedAt": "2026-10-26T18:57:48.050Z",
       "lastVerifiedAt": "2026-10-27T02:42:11.184Z",
       "contentHash": "099e2d23d96ba8de",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -52450,7 +52450,7 @@
       "updatedAt": "2026-10-27T02:41:27.220Z",
       "lastVerifiedAt": "2026-10-28T02:51:10.351Z",
       "contentHash": "660d6811c9ec5bda",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 58,
@@ -52566,7 +52566,7 @@
       "updatedAt": "2026-10-27T02:41:27.220Z",
       "lastVerifiedAt": "2026-10-28T02:51:10.352Z",
       "contentHash": "c0dd238e7afee321",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 35,
@@ -53033,7 +53033,7 @@
       "updatedAt": "2026-10-27T18:29:41.929Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.177Z",
       "contentHash": "bec380c8b144c90b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -53150,7 +53150,7 @@
       "updatedAt": "2026-10-27T18:29:41.929Z",
       "lastVerifiedAt": "2026-10-28T02:51:10.347Z",
       "contentHash": "cc141d51738201ec",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -53267,7 +53267,7 @@
       "updatedAt": "2026-10-27T18:29:41.929Z",
       "lastVerifiedAt": "2026-10-28T02:51:10.350Z",
       "contentHash": "dc5d621e395c6b2d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
@@ -53384,7 +53384,7 @@
       "updatedAt": "2026-10-27T18:29:41.929Z",
       "lastVerifiedAt": "2026-10-28T02:51:10.351Z",
       "contentHash": "1d8e14421a85a76b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -53617,7 +53617,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.576Z",
       "contentHash": "97525a97b7b7ade2",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -53732,7 +53732,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.176Z",
       "contentHash": "2eecb89bb47048d0",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 36,
@@ -53846,7 +53846,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.176Z",
       "contentHash": "aa1df7eadbc028a1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -53961,7 +53961,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.176Z",
       "contentHash": "1eea20c4bf8a4fe9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -54078,7 +54078,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.177Z",
       "contentHash": "c3a21e99b0c72810",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -54195,7 +54195,7 @@
       "updatedAt": "2026-10-28T18:35:21.524Z",
       "lastVerifiedAt": "2026-10-29T03:13:37.177Z",
       "contentHash": "4c26e77a7187eff9",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -54549,7 +54549,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-31T03:00:28.804Z",
       "contentHash": "d5cb4589f31dadb4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -54664,7 +54664,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-31T03:00:28.805Z",
       "contentHash": "f5bf41e30b5fea68",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 37,
@@ -54781,7 +54781,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "e32b89fe703f31a7",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -54895,7 +54895,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "a75a35ffb60ecd30",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -55012,7 +55012,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "a8c013ae3dff8ff5",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -55129,7 +55129,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "e2ffe52baaf660d8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -55247,7 +55247,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "8f0d3d4f2b3060ea",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -55364,7 +55364,7 @@
       "updatedAt": "2026-10-29T18:44:57.751Z",
       "lastVerifiedAt": "2026-10-30T03:16:42.575Z",
       "contentHash": "3ee97081dad39082",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -55714,7 +55714,7 @@
       "updatedAt": "2026-10-30T18:20:43.343Z",
       "lastVerifiedAt": "2026-11-02T03:03:48.412Z",
       "contentHash": "aa9bc43f7242d754",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -55831,7 +55831,7 @@
       "updatedAt": "2026-10-30T18:20:43.343Z",
       "lastVerifiedAt": "2026-10-31T17:27:52.940Z",
       "contentHash": "0ebc93dbdc716e6c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -55948,7 +55948,7 @@
       "updatedAt": "2026-10-31T17:27:10.897Z",
       "lastVerifiedAt": "2026-11-02T03:03:48.407Z",
       "contentHash": "b6c5d203581aa2a8",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 60,
@@ -56065,7 +56065,7 @@
       "updatedAt": "2026-10-31T17:27:10.897Z",
       "lastVerifiedAt": "2026-11-02T03:03:48.411Z",
       "contentHash": "49a8fb78ce75a0ad",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -56181,7 +56181,7 @@
       "updatedAt": "2026-10-31T17:27:10.897Z",
       "lastVerifiedAt": "2026-11-02T03:03:48.412Z",
       "contentHash": "385e2a1d86a72598",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 29,
@@ -56299,7 +56299,7 @@
       "updatedAt": "2026-11-01T02:55:25.694Z",
       "lastVerifiedAt": "2026-11-02T03:03:48.412Z",
       "contentHash": "14586d92452dbe3f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 48,
@@ -56888,7 +56888,7 @@
       "updatedAt": "2026-11-02T22:02:50.501Z",
       "lastVerifiedAt": "2026-11-04T03:40:38.494Z",
       "contentHash": "3cbcf2968d0f7db1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -57003,7 +57003,7 @@
       "updatedAt": "2026-11-02T22:02:50.501Z",
       "lastVerifiedAt": "2026-11-04T03:40:38.495Z",
       "contentHash": "b1ba942eab29ff37",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -57123,7 +57123,7 @@
       "updatedAt": "2026-11-02T22:02:50.501Z",
       "lastVerifiedAt": "2026-11-03T04:21:33.921Z",
       "contentHash": "a1f8a5d23f5a7e2f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -57240,7 +57240,7 @@
       "updatedAt": "2026-11-02T22:02:50.501Z",
       "lastVerifiedAt": "2026-11-03T04:21:33.921Z",
       "contentHash": "ab8be6508d80e55b",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -57361,7 +57361,7 @@
       "updatedAt": "2026-11-02T22:02:50.501Z",
       "lastVerifiedAt": "2026-11-03T04:21:33.921Z",
       "contentHash": "61efd0f4be07ad13",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 43,
@@ -57595,7 +57595,7 @@
       "updatedAt": "2026-11-03T19:54:33.563Z",
       "lastVerifiedAt": "2026-11-04T20:12:32.864Z",
       "contentHash": "fbf67d1ee3d4d231",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -57712,7 +57712,7 @@
       "updatedAt": "2026-11-03T19:54:33.563Z",
       "lastVerifiedAt": "2026-11-04T03:40:38.494Z",
       "contentHash": "aece333360d7b432",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -58536,7 +58536,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.974Z",
       "contentHash": "c3048af324e89e38",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -58653,7 +58653,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.975Z",
       "contentHash": "6d06e38f6f0c4f54",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -58770,7 +58770,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.975Z",
       "contentHash": "e839dbedd7efc61a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 39,
@@ -58886,7 +58886,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.975Z",
       "contentHash": "5c44d41234562269",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -59003,7 +59003,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.976Z",
       "contentHash": "c307517e3a651271",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -59121,7 +59121,7 @@
       "updatedAt": "2026-11-04T20:11:25.557Z",
       "lastVerifiedAt": "2026-11-05T03:59:16.976Z",
       "contentHash": "f7ea9ce9ea5aa854",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -59236,7 +59236,7 @@
       "updatedAt": "2026-11-05T03:58:27.046Z",
       "lastVerifiedAt": "2026-11-05T03:58:27.046Z",
       "contentHash": "680cf5e85a7d863d",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 53,
@@ -59590,7 +59590,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-07T17:55:22.776Z",
       "contentHash": "57cfb5b2b7631821",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -59708,7 +59708,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-07T17:55:22.776Z",
       "contentHash": "c318e86d33952904",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -59825,7 +59825,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-06T03:58:19.752Z",
       "contentHash": "286a870b2b0e07a4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -59942,7 +59942,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-06T03:58:19.752Z",
       "contentHash": "f06519e52c058608",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -60062,7 +60062,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-06T03:58:19.752Z",
       "contentHash": "2555b0442441450f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -60179,7 +60179,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-06T03:58:19.752Z",
       "contentHash": "f5da300950290f48",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 31,
@@ -60294,7 +60294,7 @@
       "updatedAt": "2026-11-05T20:25:30.831Z",
       "lastVerifiedAt": "2026-11-06T03:58:19.752Z",
       "contentHash": "ffa5a8ca5d85edad",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -61116,7 +61116,7 @@
       "updatedAt": "2026-11-06T19:46:34.796Z",
       "lastVerifiedAt": "2026-11-07T17:55:22.775Z",
       "contentHash": "a47b5c6f20f988cc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -61235,7 +61235,7 @@
       "updatedAt": "2026-11-06T19:46:34.796Z",
       "lastVerifiedAt": "2026-11-07T17:55:22.776Z",
       "contentHash": "93aa0f5b063adf9a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": true,
       "match": {
         "score": 54,
@@ -61353,7 +61353,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-10T04:59:42.369Z",
       "contentHash": "694057355653517a",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -61470,7 +61470,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-09T03:23:59.186Z",
       "contentHash": "bfd43c75daeaa124",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -61589,7 +61589,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-09T03:23:59.186Z",
       "contentHash": "0f892470891ef381",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 41,
@@ -61708,7 +61708,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-09T03:23:59.187Z",
       "contentHash": "8e2e76abb313c918",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 44,
@@ -61826,7 +61826,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-09T03:23:59.188Z",
       "contentHash": "0b58ac5d643dbc4c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 25,
@@ -61944,7 +61944,7 @@
       "updatedAt": "2026-11-08T03:00:21.314Z",
       "lastVerifiedAt": "2026-11-09T03:23:59.188Z",
       "contentHash": "ceb8fd1d82b29d4c",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -62651,7 +62651,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-11T03:31:28.152Z",
       "contentHash": "1f7c4633c33c01aa",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 28,
@@ -62767,7 +62767,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-11T03:31:28.152Z",
       "contentHash": "a77bb39a187c3a21",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -62884,7 +62884,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-11T03:31:28.152Z",
       "contentHash": "99c41e9a6e550c29",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -63001,7 +63001,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-10T04:59:42.368Z",
       "contentHash": "61583319633f6228",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -63119,7 +63119,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-10T04:59:42.369Z",
       "contentHash": "27d5c878c7270677",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -63236,7 +63236,7 @@
       "updatedAt": "2026-11-09T22:48:24.372Z",
       "lastVerifiedAt": "2026-11-10T04:59:42.369Z",
       "contentHash": "22d04f3d99c88ebc",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 52,
@@ -63471,7 +63471,7 @@
       "updatedAt": "2026-11-10T20:07:24.667Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.163Z",
       "contentHash": "5d054500e4436fd1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -63591,7 +63591,7 @@
       "updatedAt": "2026-11-10T20:07:24.667Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.163Z",
       "contentHash": "29923736d311237f",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 46,
@@ -63708,7 +63708,7 @@
       "updatedAt": "2026-11-10T20:07:24.667Z",
       "lastVerifiedAt": "2026-11-11T03:31:28.151Z",
       "contentHash": "faaf5f33fff2bf10",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -63825,7 +63825,7 @@
       "updatedAt": "2026-11-10T20:07:24.667Z",
       "lastVerifiedAt": "2026-11-11T03:31:28.151Z",
       "contentHash": "19972c9c90a0ac65",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -63941,7 +63941,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-11T19:56:44.106Z",
       "updatedAt": "2026-11-11T19:56:44.106Z",
-      "lastVerifiedAt": "2026-11-12T20:35:04.976Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.370Z",
       "contentHash": "5b3b591ed58bb519",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -64059,7 +64059,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-11T19:56:44.106Z",
       "updatedAt": "2026-11-11T19:56:44.106Z",
-      "lastVerifiedAt": "2026-11-12T20:35:04.977Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.371Z",
       "contentHash": "a2b834ca810f0087",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -64177,12 +64177,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-11T19:56:44.106Z",
       "updatedAt": "2026-11-11T19:56:44.106Z",
-      "lastVerifiedAt": "2026-11-12T20:35:04.977Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.371Z",
       "contentHash": "110d14555fe02c3e",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 34,
+        "score": 32,
         "tier": "weak",
         "breakdown": [
           {
@@ -64231,8 +64231,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -64257,6 +64257,7 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -64294,7 +64295,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-11T19:56:44.106Z",
       "updatedAt": "2026-11-11T19:56:44.106Z",
-      "lastVerifiedAt": "2026-11-12T20:35:04.977Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.372Z",
       "contentHash": "e88850dda725d334",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -64414,7 +64415,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T20:35:07.816Z",
       "contentHash": "c663940c79a0e421",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 40,
@@ -64530,7 +64531,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T20:35:07.816Z",
       "contentHash": "a5517c089d2547b1",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -64647,7 +64648,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T20:35:07.816Z",
       "contentHash": "c7d0490adc3fd969",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -64764,7 +64765,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T20:35:07.816Z",
       "contentHash": "78e987ee6292e377",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 30,
@@ -64879,7 +64880,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.162Z",
       "contentHash": "e4de1abf91c34a82",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -64998,7 +64999,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.162Z",
       "contentHash": "5881280dc0cf42f4",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 47,
@@ -65115,7 +65116,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.162Z",
       "contentHash": "4dbc82ae3262d545",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 49,
@@ -65232,7 +65233,7 @@
       "updatedAt": "2026-11-11T19:56:44.106Z",
       "lastVerifiedAt": "2026-11-12T04:40:53.162Z",
       "contentHash": "26e0822a1a8ff577",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -65347,7 +65348,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-12T20:34:26.540Z",
       "updatedAt": "2026-11-12T20:34:26.540Z",
-      "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.368Z",
       "contentHash": "15f722ac22d976d3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -65465,7 +65466,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-12T20:34:26.540Z",
       "updatedAt": "2026-11-12T20:34:26.540Z",
-      "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.370Z",
       "contentHash": "a5fe05bc24e5f2bf",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -65582,7 +65583,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-12T20:34:26.540Z",
       "updatedAt": "2026-11-12T20:34:26.540Z",
-      "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
+      "lastVerifiedAt": "2026-11-13T03:53:26.370Z",
       "contentHash": "8f9ecc686094a485",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -65701,7 +65702,7 @@
       "updatedAt": "2026-11-12T20:34:26.540Z",
       "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
       "contentHash": "633d09a34ce6e108",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 33,
@@ -65818,7 +65819,7 @@
       "updatedAt": "2026-11-12T20:34:26.540Z",
       "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
       "contentHash": "4e0f4e92ec1b6e69",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -65935,7 +65936,7 @@
       "updatedAt": "2026-11-12T20:34:26.540Z",
       "lastVerifiedAt": "2026-11-12T20:34:26.540Z",
       "contentHash": "70279f7fb8b4c08e",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 48,
