@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:41:23.099Z",
+  "generatedAt": "2026-11-17T05:30:47.168Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-16T22:40:42.749Z",
+      "lastVerifiedAt": "2026-11-17T05:30:06.068Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-16T22:40:47.951Z",
+      "lastVerifiedAt": "2026-11-17T05:30:12.198Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-11-16T22:40:51.621Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-16T22:40:54.215Z",
+      "lastVerifiedAt": "2026-11-17T05:30:16.920Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-16T22:40:56.272Z",
+      "lastVerifiedAt": "2026-11-17T05:30:20.146Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-16T22:40:59.196Z",
+      "lastVerifiedAt": "2026-11-17T05:30:22.241Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-16T22:41:02.270Z",
+      "lastVerifiedAt": "2026-11-17T05:30:25.346Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-16T22:41:04.441Z",
+      "lastVerifiedAt": "2026-11-17T05:30:27.842Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-16T22:41:08.416Z",
+      "lastVerifiedAt": "2026-11-17T05:30:31.131Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-16T22:41:13.103Z",
+      "lastVerifiedAt": "2026-11-17T05:30:36.013Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -65348,7 +65348,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-12T20:34:26.540Z",
       "updatedAt": "2026-11-12T20:34:26.540Z",
-      "lastVerifiedAt": "2026-11-16T22:41:20.251Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.716Z",
       "contentHash": "15f722ac22d976d3",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -66052,7 +66052,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-13T20:12:15.489Z",
       "updatedAt": "2026-11-13T20:12:15.489Z",
-      "lastVerifiedAt": "2026-11-16T22:41:20.250Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.715Z",
       "contentHash": "0a7eb8562c9f4b4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -66170,7 +66170,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-14T03:51:37.636Z",
       "updatedAt": "2026-11-14T03:51:37.636Z",
-      "lastVerifiedAt": "2026-11-16T22:41:20.250Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.715Z",
       "contentHash": "4013a6e4a0f5bd99",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67221,7 +67221,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.714Z",
       "contentHash": "f766a0e4709cd8b9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67339,12 +67339,12 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.714Z",
       "contentHash": "8d9baf07e1b7603e",
       "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
-        "score": 34,
+        "score": 32,
         "tier": "weak",
         "breakdown": [
           {
@@ -67393,8 +67393,8 @@
             "key": "deadline",
             "label": "Deadline urgency",
             "weight": 5,
-            "earned": 5,
-            "reason": "Healthy application window (≤ 7 days)"
+            "earned": 3.5,
+            "reason": "Closes within 3 days — tight timeline"
           },
           {
             "key": "type",
@@ -67419,6 +67419,7 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Closes within 3 days — tight timeline",
           "Some details need manual review"
         ]
       }
@@ -67456,7 +67457,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.715Z",
       "contentHash": "712299f7003acb34",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67573,7 +67574,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:43.715Z",
       "contentHash": "4f3b0b2afd4dcd19",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67691,7 +67692,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:47.164Z",
       "contentHash": "7db4c8bc6f54cd09",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67808,7 +67809,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:47.165Z",
       "contentHash": "2a41a233c09a911a",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -67923,7 +67924,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:47.167Z",
       "contentHash": "cd030b4a86652b3f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -68039,7 +68040,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-16T22:40:40.278Z",
       "updatedAt": "2026-11-16T22:40:40.278Z",
-      "lastVerifiedAt": "2026-11-16T22:40:40.278Z",
+      "lastVerifiedAt": "2026-11-17T05:30:47.168Z",
       "contentHash": "12bfc82a8b7cb2f1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -68118,6 +68119,123 @@
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_10cda6bca6ab37af",
+      "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "fully_funded",
+      "fundingDetails": "Fully Funded",
+      "eligibilityText": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan) Application Deadline: February 28, 2027, 9:00 AM (UTC/GMT +9 hours) Applications are now open for the 2027 UNIQLO Global Management Program.",
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan) Application Deadline: February 28, 2027, 9:00 AM (UTC/GMT +9 hours) Applications are now open for the 2027 UNIQLO Global Management Program.",
+      "ghanaEligibility": "international",
+      "deadline": {
+        "date": "2027-02-28",
+        "rawText": "Application Deadline: February 28, 2027, 9:00 AM (UTC/GMT +9 hours) Applications are now open for the 2027 UNIQLO Global Management Program.",
+        "timezone": "Etc/UTC"
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: February 28, 2027, 9:00 AM (UTC/GMT +9 hours) Applications are now open for the 2027 UNIQLO Global Management Program. Global Management Program (GMP) is a 6-day intensive program… The post The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-17T05:30:03.490Z",
+      "updatedAt": "2026-11-17T05:30:03.490Z",
+      "lastVerifiedAt": "2026-11-17T05:30:03.490Z",
+      "contentHash": "5e7a840beaf0048e",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 58,
+        "tier": "good",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 16,
+            "reason": "Open to international applicants"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 17.5,
+            "reason": "Fully funded"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Open to international applicants",
+          "Fully funded",
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
           "Some details need manual review"
         ]
       }
