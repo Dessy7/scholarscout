@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:06:31.322Z",
+  "generatedAt": "2026-11-20T04:41:30.050Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-19T21:05:52.700Z",
+      "lastVerifiedAt": "2026-11-20T04:40:15.007Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-19T21:05:57.754Z",
+      "lastVerifiedAt": "2026-11-20T04:40:20.688Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-11-19T04:50:00.825Z",
+      "lastVerifiedAt": "2026-11-20T04:40:25.208Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-19T21:06:02.651Z",
+      "lastVerifiedAt": "2026-11-20T04:40:27.883Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-19T21:06:04.729Z",
+      "lastVerifiedAt": "2026-11-20T04:40:31.816Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-19T21:06:06.901Z",
+      "lastVerifiedAt": "2026-11-20T04:40:34.024Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -746,7 +746,7 @@
       "updatedAt": "2026-08-17T01:04:01.188Z",
       "lastVerifiedAt": "2026-11-19T21:06:10.181Z",
       "contentHash": "773b9b687c7b5c65",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 34,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-19T21:06:12.721Z",
+      "lastVerifiedAt": "2026-11-20T04:40:57.383Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-19T21:06:16.325Z",
+      "lastVerifiedAt": "2026-11-20T04:41:00.770Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-19T21:06:20.706Z",
+      "lastVerifiedAt": "2026-11-20T04:41:07.193Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70153,7 +70153,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:14.526Z",
       "contentHash": "c6a0a57b9652b09e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70271,7 +70271,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:14.527Z",
       "contentHash": "a674df9d9a84ca70",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70389,7 +70389,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:14.527Z",
       "contentHash": "c6f67a0637cf0349",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70507,7 +70507,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:14.528Z",
       "contentHash": "e04a2d8cba7289a1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70624,7 +70624,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:14.528Z",
       "contentHash": "152e08e8fdcaac7b",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70741,7 +70741,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "05f72bf741f09f2a",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70858,7 +70858,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "cf706dd8cf86ca23",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70975,7 +70975,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "710429e0e61e00e1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71090,7 +71090,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "7b43182cc58165dd",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71206,7 +71206,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "9f43a67e1166228d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71324,7 +71324,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-19T21:05:50.216Z",
+      "lastVerifiedAt": "2026-11-20T04:41:30.049Z",
       "contentHash": "eeeb242289f9b829",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71635,6 +71635,237 @@
           "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_05830ae9e72bbc7e",
+      "title": "IAS Person-Centred Care Global Advocacy Academy 2027 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-30",
+        "rawText": "Deadline: November 30, 2026 Applications are invited for the IAS Person-Centred Care Global Advocacy Academy 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 30, 2026 Applications are invited for the IAS Person-Centred Care Global Advocacy Academy 2027. The International AIDS Society (IAS) will award up to 20 fellowships to suitable candidates to engage in a series of interactive sessions over three days. Academy fellows will explore the evidence for, and implementation of, person-centred care for people [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-20T04:40:12.442Z",
+      "updatedAt": "2026-11-20T04:40:12.442Z",
+      "lastVerifiedAt": "2026-11-20T04:40:12.442Z",
+      "contentHash": "41dfb3c35b3e7ea0",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_1b2ded03d37ef988",
+      "title": "Oxford Saïd Future Leaders Scholarships 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Deadline: On Rolling Basis Applications are open for the Oxford Saïd Future Leaders Scholarships 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: On Rolling Basis Applications are open for the Oxford Saïd Future Leaders Scholarships 2027. The Oxford Saïd Future Leaders Scholarships are prestigious awards to honour the achievements and support the ambitions of our brightest and best MBA students, who will go on to become future leaders in their different fields. They are supported by [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/20/oxford-said-future-leaders-scholarships-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/20/oxford-said-future-leaders-scholarships-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/20/oxford-said-future-leaders-scholarships-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-20T04:40:12.442Z",
+      "updatedAt": "2026-11-20T04:40:12.442Z",
+      "lastVerifiedAt": "2026-11-20T04:40:12.442Z",
+      "contentHash": "62c9393d52659f06",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 28,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
           "Some details need manual review"
         ]
       }
