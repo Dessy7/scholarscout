@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:35:56.072Z",
+  "generatedAt": "2026-11-21T19:54:22.938Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-21T04:34:54.922Z",
+      "lastVerifiedAt": "2026-11-21T19:53:38.550Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-21T04:35:04.884Z",
+      "lastVerifiedAt": "2026-11-21T19:53:48.522Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -273,7 +273,7 @@
       "updatedAt": "2026-10-22T17:46:48.909Z",
       "lastVerifiedAt": "2026-11-21T04:35:08.255Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "needs_review",
+      "verificationStatus": "source_unavailable",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-21T04:35:10.403Z",
+      "lastVerifiedAt": "2026-11-21T19:53:53.643Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-21T04:35:12.439Z",
+      "lastVerifiedAt": "2026-11-21T19:53:56.326Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-21T04:35:14.446Z",
+      "lastVerifiedAt": "2026-11-21T19:53:58.952Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,9 +744,9 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-20T20:52:13.725Z",
+      "lastVerifiedAt": "2026-11-21T19:54:02.669Z",
       "contentHash": "773b9b687c7b5c65",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 34,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-21T04:35:37.555Z",
+      "lastVerifiedAt": "2026-11-21T19:54:05.082Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-21T04:35:42.398Z",
+      "lastVerifiedAt": "2026-11-21T19:54:08.536Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-21T04:35:46.697Z",
+      "lastVerifiedAt": "2026-11-21T19:54:12.978Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -70153,7 +70153,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-19T21:05:50.216Z",
       "updatedAt": "2026-11-19T21:05:50.216Z",
-      "lastVerifiedAt": "2026-11-21T04:35:53.148Z",
+      "lastVerifiedAt": "2026-11-21T19:54:19.886Z",
       "contentHash": "c6a0a57b9652b09e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71672,7 +71672,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-20T04:40:12.442Z",
       "updatedAt": "2026-11-20T04:40:12.442Z",
-      "lastVerifiedAt": "2026-11-21T04:35:56.071Z",
+      "lastVerifiedAt": "2026-11-21T19:54:22.938Z",
       "contentHash": "41dfb3c35b3e7ea0",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -71903,7 +71903,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-20T20:51:50.558Z",
       "updatedAt": "2026-11-20T20:51:50.558Z",
-      "lastVerifiedAt": "2026-11-21T04:35:53.146Z",
+      "lastVerifiedAt": "2026-11-21T19:54:19.884Z",
       "contentHash": "9fdccd6e18699b0d",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -72021,7 +72021,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-20T20:51:50.558Z",
       "updatedAt": "2026-11-20T20:51:50.558Z",
-      "lastVerifiedAt": "2026-11-21T04:35:53.148Z",
+      "lastVerifiedAt": "2026-11-21T19:54:19.886Z",
       "contentHash": "558f330967831bd2",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -72140,7 +72140,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-20T20:51:50.558Z",
       "updatedAt": "2026-11-20T20:51:50.558Z",
-      "lastVerifiedAt": "2026-11-21T04:35:56.070Z",
+      "lastVerifiedAt": "2026-11-21T19:54:22.937Z",
       "contentHash": "a596a34883fa4a37",
       "verificationStatus": "needs_review",
       "environmental": true,
@@ -72257,7 +72257,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-20T20:51:50.558Z",
       "updatedAt": "2026-11-20T20:51:50.558Z",
-      "lastVerifiedAt": "2026-11-21T04:35:56.071Z",
+      "lastVerifiedAt": "2026-11-21T19:54:22.937Z",
       "contentHash": "7e97feec3cc75707",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -72330,6 +72330,592 @@
           }
         ],
         "reasons": [],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_071bd8cf7068217a",
+      "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-27",
+        "rawText": "Application Deadline: 27 November 2026 Applications are now open for the 2026 Dataphyte Foundation Infra-watch Media Fellowship.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 27 November 2026 Applications are now open for the 2026 Dataphyte Foundation Infra-watch Media Fellowship. Dataphyte Foundation, in partnership with the Center for International Private Enterprise (CIPE), invites… The post The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-21T19:53:35.943Z",
+      "updatedAt": "2026-11-21T19:53:35.943Z",
+      "lastVerifiedAt": "2026-11-21T19:53:35.943Z",
+      "contentHash": "f19e8adcda4971d7",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 37,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d78a730f3b49ead8",
+      "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "phd",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-15",
+        "rawText": "Deadline: January 15, 2027 Applications are open for the Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: January 15, 2027 Applications are open for the Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028. Through a partnership between the Clements Center for National Security and the Archer Center, The University of Texas System campus in Washington, D.C., the Clements-Archer National Security Policy Postdoctoral Fellowship offers recent Ph.D. graduates of The University of Texas [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-21T19:53:35.943Z",
+      "updatedAt": "2026-11-21T19:53:35.943Z",
+      "lastVerifiedAt": "2026-11-21T19:53:35.943Z",
+      "contentHash": "58985bb15ce14d04",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_22ee84d986ac7b9c",
+      "title": "Asia House Fellowship 2027/2028 (£24,000 stipend)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-31",
+        "rawText": "Deadline: January 31, 2027 Applications are open for the Asia House Fellowship 2027/2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: January 31, 2027 Applications are open for the Asia House Fellowship 2027/2028. The Asia House Fellowship aims to develop the next generation of business and policy leaders. Now in its sixth year, it is a unique opportunity for two candidates who share Asia House’s vision for a strong and dynamic relationship between Asia, the [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-21T19:53:35.943Z",
+      "updatedAt": "2026-11-21T19:53:35.943Z",
+      "lastVerifiedAt": "2026-11-21T19:53:35.943Z",
+      "contentHash": "99ee5057170ebae6",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_d78de66fd0e71586",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "masters",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-31",
+        "rawText": "Deadline: December 31, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 31, 2026 Applications are open for the Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028. The Mastercard Foundation Scholars Program at the University of Cambridge enables talented young Africans to pursue a master’s degree and grow their leadership potential. If you are a passionate, ambitious young African committed to creating impact and driving [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-21T19:53:35.943Z",
+      "updatedAt": "2026-11-21T19:53:35.943Z",
+      "lastVerifiedAt": "2026-11-21T19:53:35.943Z",
+      "contentHash": "bc9c1fad6d0fc0b4",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 33,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_e5cb353b3b679ef8",
+      "title": "Dataphyte Foundation Infra-Watch Media Fellowship 2027",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-11-27",
+        "rawText": "Deadline: November 27, 2026 Applications are open for the Dataphyte Foundation Infra-Watch Media Fellowship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: November 27, 2026 Applications are open for the Dataphyte Foundation Infra-Watch Media Fellowship 2027. Dataphyte Foundation, in partnership with the Center for International Private Enterprise (CIPE), invites applications from Nigerian journalists to join a two-month investigative journalism fellowship on foreign-funded infrastructure reporting. About the Fellowship The Foreign-Funded Infrastructure Accountability (“Infra-Watch”) Media Fellowship will train five [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-21T19:53:35.943Z",
+      "updatedAt": "2026-11-21T19:53:35.943Z",
+      "lastVerifiedAt": "2026-11-21T19:53:35.943Z",
+      "contentHash": "31339cbd1508eeec",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 7 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
           "Funding details could not be verified from the source",
