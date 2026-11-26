@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:45:54.377Z",
+  "generatedAt": "2026-11-26T22:03:06.989Z",
   "opportunities": [
     {
       "id": "opp_67c03977ff0eafbe",
@@ -34,7 +34,7 @@
       "sourceName": "Ghana Scholarships Authority",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-09-28T19:55:34.733Z",
-      "lastVerifiedAt": "2026-11-26T05:45:13.710Z",
+      "lastVerifiedAt": "2026-11-26T22:02:23.680Z",
       "contentHash": "1fcc997079132c15",
       "verificationStatus": "verified",
       "environmental": false,
@@ -152,7 +152,7 @@
       "sourceName": "Chevening Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-26T05:45:19.517Z",
+      "lastVerifiedAt": "2026-11-26T22:02:29.736Z",
       "contentHash": "eb1817edc6053e72",
       "verificationStatus": "verified",
       "environmental": true,
@@ -271,9 +271,9 @@
       "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-22T17:46:48.909Z",
-      "lastVerifiedAt": "2026-11-25T22:04:36.317Z",
+      "lastVerifiedAt": "2026-11-26T22:02:33.828Z",
       "contentHash": "59e2c2b8ce422569",
-      "verificationStatus": "source_unavailable",
+      "verificationStatus": "needs_review",
       "environmental": false,
       "match": {
         "score": 55,
@@ -390,7 +390,7 @@
       "sourceName": "Erasmus Mundus Joint Masters",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-26T05:45:24.945Z",
+      "lastVerifiedAt": "2026-11-26T22:02:36.474Z",
       "contentHash": "e672aaf958a61888",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -509,7 +509,7 @@
       "sourceName": "Commonwealth Master's Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T17:48:02.345Z",
-      "lastVerifiedAt": "2026-11-26T05:45:27.620Z",
+      "lastVerifiedAt": "2026-11-26T22:02:38.547Z",
       "contentHash": "b25edb4a4cff289f",
       "verificationStatus": "verified",
       "environmental": false,
@@ -627,7 +627,7 @@
       "sourceName": "Commonwealth Shared Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-20T17:40:04.349Z",
-      "lastVerifiedAt": "2026-11-26T05:45:29.272Z",
+      "lastVerifiedAt": "2026-11-26T22:02:40.775Z",
       "contentHash": "145a288f0e79c3ce",
       "verificationStatus": "verified",
       "environmental": false,
@@ -744,7 +744,7 @@
       "sourceName": "Australia Awards Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-26T05:45:32.675Z",
+      "lastVerifiedAt": "2026-11-26T22:02:44.172Z",
       "contentHash": "773b9b687c7b5c65",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -863,7 +863,7 @@
       "sourceName": "MEXT Japanese Government Scholarships",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-26T05:45:35.080Z",
+      "lastVerifiedAt": "2026-11-26T22:02:46.708Z",
       "contentHash": "64ad2dacebd2ec4f",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -983,7 +983,7 @@
       "sourceName": "Global Korea Scholarship (GKS)",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-10-21T02:18:05.762Z",
-      "lastVerifiedAt": "2026-11-26T05:45:38.532Z",
+      "lastVerifiedAt": "2026-11-26T22:02:50.503Z",
       "contentHash": "29207abf72ebfb82",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -1101,7 +1101,7 @@
       "sourceName": "Mastercard Foundation Scholars Program",
       "discoveredAt": "2026-08-17T01:04:01.188Z",
       "updatedAt": "2026-08-17T01:04:01.188Z",
-      "lastVerifiedAt": "2026-11-26T05:45:43.514Z",
+      "lastVerifiedAt": "2026-11-26T22:02:55.491Z",
       "contentHash": "e5160a474c3bc47e",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -74833,7 +74833,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-25T22:04:21.358Z",
       "updatedAt": "2026-11-25T22:04:21.358Z",
-      "lastVerifiedAt": "2026-11-26T05:45:51.002Z",
+      "lastVerifiedAt": "2026-11-26T22:03:03.872Z",
       "contentHash": "b7d9f450b30602e1",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -74951,7 +74951,7 @@
       "sourceName": "Opportunities for Africans (RSS)",
       "discoveredAt": "2026-11-25T22:04:21.358Z",
       "updatedAt": "2026-11-25T22:04:21.358Z",
-      "lastVerifiedAt": "2026-11-26T05:45:51.003Z",
+      "lastVerifiedAt": "2026-11-26T22:03:03.872Z",
       "contentHash": "0ee736154abda480",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -75304,7 +75304,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-25T22:04:21.358Z",
       "updatedAt": "2026-11-25T22:04:21.358Z",
-      "lastVerifiedAt": "2026-11-26T05:45:54.372Z",
+      "lastVerifiedAt": "2026-11-26T22:03:06.988Z",
       "contentHash": "d3aecb7ee3cd9c97",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -75422,7 +75422,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-25T22:04:21.358Z",
       "updatedAt": "2026-11-25T22:04:21.358Z",
-      "lastVerifiedAt": "2026-11-26T05:45:54.376Z",
+      "lastVerifiedAt": "2026-11-26T22:03:06.988Z",
       "contentHash": "e65d9c69fffe0514",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -75539,7 +75539,7 @@
       "sourceName": "Opportunity Desk (RSS)",
       "discoveredAt": "2026-11-25T22:04:21.358Z",
       "updatedAt": "2026-11-25T22:04:21.358Z",
-      "lastVerifiedAt": "2026-11-26T05:45:54.376Z",
+      "lastVerifiedAt": "2026-11-26T22:03:06.988Z",
       "contentHash": "d63bc5e49e8103b9",
       "verificationStatus": "needs_review",
       "environmental": false,
@@ -75732,6 +75732,595 @@
         ],
         "concerns": [
           "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_c1a8cc04465218df",
+      "title": "The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "masters_scholarship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-10",
+        "rawText": "Application Deadline: December 10th, 2026 Applications are now open for the 2026 KPMG Nigeria University Scholarship Programme.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: December 10th, 2026 Applications are now open for the 2026 KPMG Nigeria University Scholarship Programme. Empowering the next generation of leaders, the KPMG University Scholarship Programme (KUSP) supports… The post The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-26T22:02:21.202Z",
+      "updatedAt": "2026-11-26T22:02:21.202Z",
+      "lastVerifiedAt": "2026-11-26T22:02:21.202Z",
+      "contentHash": "754751ec24540155",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 37,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_202daf5e082a10bb",
+      "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "fully_funded_stipend",
+      "fundingDetails": "Fully Funded, plus US$2,000 monthly stipend",
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-02-15",
+        "rawText": "Application Deadline: 15 February 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 15 February 2027. Applications are now open for the 2027 African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme. The African Research Universities Alliance (ARUA), with support… The post The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-26T22:02:21.202Z",
+      "updatedAt": "2026-11-26T22:02:21.202Z",
+      "lastVerifiedAt": "2026-11-26T22:02:21.202Z",
+      "contentHash": "275bfd42acc62dcd",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 53,
+        "tier": "fair",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 20,
+            "reason": "Fully funded with stipend"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Fully funded with stipend",
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_489d825b254df792",
+      "title": "The International Agency for Research on Cancer (IARC) Summer School 2027 for researchers and health professionals (Travel scholarships available to Lyon, France)",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "non_degree",
+      "type": "summer_school",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2027-01-10",
+        "rawText": "Application Deadline: 10 January 2027 (12:00 midday CET).",
+        "timezone": "Europe/Paris"
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: 10 January 2027 (12:00 midday CET). Applications are now open for the 2027 International Agency for Research on Cancer (IARC) Summer School. The IARC Summer School is designed… The post The International Agency for Research on Cancer (IARC) Summer School 2027 for researchers and health professionals (Travel scholarships available to Lyon, France) appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-26T22:02:21.202Z",
+      "updatedAt": "2026-11-26T22:02:21.202Z",
+      "lastVerifiedAt": "2026-11-26T22:02:21.202Z",
+      "contentHash": "c5b49de83d885217",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 36,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 4.3,
+            "reason": "Deadline is comfortably in the future"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations",
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_642f0c6c983e7921",
+      "title": "The Aradel Undergraduate and Graduate Internship Program 2027 for young Nigerians.",
+      "organization": "Opportunities for Africans (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": "africa",
+      "fields": [],
+      "level": "unknown",
+      "type": "other",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": null,
+        "rawText": "Application Deadline: Unspecified.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Application Deadline: Unspecified. Applications are now open for the Aradel Undergraduate and Graduate Internship Program. Join the 2027 Internship Program, designed to equip you with valuable on-the-job experience, provide coaching… The post The Aradel Undergraduate and Graduate Internship Program 2027 for young Nigerians. appeared first on Opportunities For Africans.",
+      "applicationUrl": "https://www.opportunitiesforafricans.com/the-aradel-undergraduate-and-graduate-internship-program-2027-for-young-nigerians/",
+      "sourceUrl": "https://www.opportunitiesforafricans.com/the-aradel-undergraduate-and-graduate-internship-program-2027-for-young-nigerians/",
+      "canonicalUrl": "https://opportunitiesforafricans.com/the-aradel-undergraduate-and-graduate-internship-program-2027-for-young-nigerians",
+      "sourceId": "opportunities-for-africans",
+      "sourceName": "Opportunities for Africans (RSS)",
+      "discoveredAt": "2026-11-26T22:02:21.202Z",
+      "updatedAt": "2026-11-26T22:02:21.202Z",
+      "lastVerifiedAt": "2026-11-26T22:02:21.202Z",
+      "contentHash": "c4425c8a45c76cbd",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 31,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Africa is one of your preferred destinations"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Deadline not confirmed"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 2,
+            "reason": "Not among your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Africa is one of your preferred destinations"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
+          "Academic requirement not stated — check the programme page",
+          "Field relevance to your profile is limited",
+          "Deadline could not be verified",
+          "Some details need manual review"
+        ]
+      }
+    },
+    {
+      "id": "opp_6519dd21c1690100",
+      "title": "Friends of Pakistan Fellowship 2027 (Funded)",
+      "organization": "Opportunity Desk (RSS)",
+      "university": null,
+      "country": null,
+      "city": null,
+      "region": null,
+      "fields": [],
+      "level": "unknown",
+      "type": "fellowship",
+      "fundingType": "unknown",
+      "fundingDetails": null,
+      "eligibilityText": null,
+      "academicRequirement": null,
+      "academicFit": "unknown",
+      "nationalityRequirement": null,
+      "ghanaEligibility": "unknown",
+      "deadline": {
+        "date": "2026-12-11",
+        "rawText": "Deadline: December 11, 2026 Applications are open for the Friends of Pakistan Fellowship 2027.",
+        "timezone": null
+      },
+      "startDate": null,
+      "duration": null,
+      "summary": "Deadline: December 11, 2026 Applications are open for the Friends of Pakistan Fellowship 2027. Pakistan has extraordinary leaders working on big social problems. Scale is the next frontier. Each year, a small cohort of Pakistani leaders spends seven days in Northern Pakistan refining their model for scale. They leave with a sharper operating approach, an [...]",
+      "applicationUrl": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
+      "sourceUrl": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
+      "canonicalUrl": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027",
+      "sourceId": "opportunity-desk",
+      "sourceName": "Opportunity Desk (RSS)",
+      "discoveredAt": "2026-11-26T22:02:21.202Z",
+      "updatedAt": "2026-11-26T22:02:21.202Z",
+      "lastVerifiedAt": "2026-11-26T22:02:21.202Z",
+      "contentHash": "8079ec8ddd5ec544",
+      "verificationStatus": "needs_review",
+      "environmental": false,
+      "match": {
+        "score": 34,
+        "tier": "weak",
+        "breakdown": [
+          {
+            "key": "nationality",
+            "label": "Nationality eligibility",
+            "weight": 20,
+            "earned": 6,
+            "reason": "Ghanaian eligibility not established by the source"
+          },
+          {
+            "key": "funding",
+            "label": "Funding strength",
+            "weight": 20,
+            "earned": 2.5,
+            "reason": "Funding not verified"
+          },
+          {
+            "key": "academic",
+            "label": "Academic compatibility",
+            "weight": 15,
+            "earned": 7.5,
+            "reason": "No academic threshold stated by the source"
+          },
+          {
+            "key": "field",
+            "label": "Field relevance",
+            "weight": 15,
+            "earned": 3,
+            "reason": "No clear field match detected"
+          },
+          {
+            "key": "career",
+            "label": "Career & interest fit",
+            "weight": 10,
+            "earned": 0,
+            "reason": "Limited career-interest signal"
+          },
+          {
+            "key": "geography",
+            "label": "Geographic preference",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Location not specified"
+          },
+          {
+            "key": "deadline",
+            "label": "Deadline urgency",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Healthy application window (≤ 30 days)"
+          },
+          {
+            "key": "type",
+            "label": "Opportunity-type preference",
+            "weight": 5,
+            "earned": 5,
+            "reason": "Matches your target opportunity types"
+          },
+          {
+            "key": "verification",
+            "label": "Source confidence",
+            "weight": 5,
+            "earned": 2.5,
+            "reason": "Some details need manual review"
+          }
+        ],
+        "reasons": [
+          "Matches your target opportunity types"
+        ],
+        "concerns": [
+          "Ghanaian eligibility not confirmed — verify on the official page",
+          "Funding details could not be verified from the source",
           "Academic requirement not stated — check the programme page",
           "Field relevance to your profile is limited",
           "Some details need manual review"

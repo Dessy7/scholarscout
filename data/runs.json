@@ -1,6 +1,171 @@
 {
   "runs": [
     {
+      "id": "run_1795730541202",
+      "trigger": "scheduled",
+      "startedAt": "2026-11-26T22:02:21.202Z",
+      "completedAt": "2026-11-26T22:03:06.989Z",
+      "status": "completed",
+      "sourcesChecked": 15,
+      "pagesFetched": 15,
+      "opportunitiesFound": 20,
+      "newItems": 5,
+      "updatedItems": 0,
+      "rejectedItems": 10,
+      "errors": [
+        "Chinese Government Scholarship (CSC): http-412",
+        "Chinese Government Scholarship (CSC): 203 consecutive failures — consider reviewing this source",
+        "UNEP — Youth & Education Opportunities: http-404",
+        "UNEP — Youth & Education Opportunities: 87 consecutive failures — consider reviewing this source"
+      ],
+      "sourceResults": [
+        {
+          "sourceId": "ghana-scholarships-authority",
+          "sourceName": "Ghana Scholarships Authority",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2460
+        },
+        {
+          "sourceId": "chevening",
+          "sourceName": "Chevening Scholarships",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 6056
+        },
+        {
+          "sourceId": "daad-epos",
+          "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 4092
+        },
+        {
+          "sourceId": "erasmus-mundus",
+          "sourceName": "Erasmus Mundus Joint Masters",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2646
+        },
+        {
+          "sourceId": "commonwealth-masters",
+          "sourceName": "Commonwealth Master's Scholarships",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2072
+        },
+        {
+          "sourceId": "commonwealth-shared",
+          "sourceName": "Commonwealth Shared Scholarships",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2228
+        },
+        {
+          "sourceId": "australia-awards",
+          "sourceName": "Australia Awards Scholarships",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 3397
+        },
+        {
+          "sourceId": "mext",
+          "sourceName": "MEXT Japanese Government Scholarships",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2536
+        },
+        {
+          "sourceId": "gks",
+          "sourceName": "Global Korea Scholarship (GKS)",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 3795
+        },
+        {
+          "sourceId": "csc-china",
+          "sourceName": "Chinese Government Scholarship (CSC)",
+          "status": "failed",
+          "fetchedPages": 1,
+          "found": 0,
+          "error": "http-412",
+          "durationMs": 2903
+        },
+        {
+          "sourceId": "mastercard-foundation",
+          "sourceName": "Mastercard Foundation Scholars Program",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 1,
+          "error": null,
+          "durationMs": 2084
+        },
+        {
+          "sourceId": "clean-air-fund",
+          "sourceName": "Clean Air Fund — News & Opportunities",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 0,
+          "error": null,
+          "durationMs": 2608
+        },
+        {
+          "sourceId": "unep-tunza",
+          "sourceName": "UNEP — Youth & Education Opportunities",
+          "status": "failed",
+          "fetchedPages": 1,
+          "found": 0,
+          "error": "http-404",
+          "durationMs": 2233
+        },
+        {
+          "sourceId": "opportunities-for-africans",
+          "sourceName": "Opportunities for Africans (RSS)",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 6,
+          "error": null,
+          "durationMs": 3539
+        },
+        {
+          "sourceId": "opportunity-desk",
+          "sourceName": "Opportunity Desk (RSS)",
+          "status": "success",
+          "fetchedPages": 1,
+          "found": 4,
+          "error": null,
+          "durationMs": 3116
+        },
+        {
+          "sourceId": "daad-scholarship-db",
+          "sourceName": "DAAD Scholarship Database (Ghana filter)",
+          "status": "skipped_inactive",
+          "fetchedPages": 0,
+          "found": 0,
+          "error": null,
+          "durationMs": 0
+        }
+      ]
+    },
+    {
       "id": "run_1795671911131",
       "trigger": "scheduled",
       "startedAt": "2026-11-26T05:45:11.131Z",
@@ -16365,169 +16530,6 @@
           "found": 5,
           "error": null,
           "durationMs": 3129
-        },
-        {
-          "sourceId": "daad-scholarship-db",
-          "sourceName": "DAAD Scholarship Database (Ghana filter)",
-          "status": "skipped_inactive",
-          "fetchedPages": 0,
-          "found": 0,
-          "error": null,
-          "durationMs": 0
-        }
-      ]
-    },
-    {
-      "id": "run_1791400154298",
-      "trigger": "scheduled",
-      "startedAt": "2026-10-07T19:09:14.298Z",
-      "completedAt": "2026-10-07T19:09:58.898Z",
-      "status": "completed",
-      "sourcesChecked": 15,
-      "pagesFetched": 16,
-      "opportunitiesFound": 21,
-      "newItems": 4,
-      "updatedItems": 0,
-      "rejectedItems": 10,
-      "errors": [
-        "Chinese Government Scholarship (CSC): http-412",
-        "Chinese Government Scholarship (CSC): 103 consecutive failures — consider reviewing this source"
-      ],
-      "sourceResults": [
-        {
-          "sourceId": "ghana-scholarships-authority",
-          "sourceName": "Ghana Scholarships Authority",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2577
-        },
-        {
-          "sourceId": "chevening",
-          "sourceName": "Chevening Scholarships",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 4610
-        },
-        {
-          "sourceId": "daad-epos",
-          "sourceName": "DAAD — Development-Related Postgraduate Courses (EPOS)",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 4350
-        },
-        {
-          "sourceId": "erasmus-mundus",
-          "sourceName": "Erasmus Mundus Joint Masters",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2543
-        },
-        {
-          "sourceId": "commonwealth-masters",
-          "sourceName": "Commonwealth Master's Scholarships",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2084
-        },
-        {
-          "sourceId": "commonwealth-shared",
-          "sourceName": "Commonwealth Shared Scholarships",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2116
-        },
-        {
-          "sourceId": "australia-awards",
-          "sourceName": "Australia Awards Scholarships",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 3360
-        },
-        {
-          "sourceId": "mext",
-          "sourceName": "MEXT Japanese Government Scholarships",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2133
-        },
-        {
-          "sourceId": "gks",
-          "sourceName": "Global Korea Scholarship (GKS)",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 3537
-        },
-        {
-          "sourceId": "csc-china",
-          "sourceName": "Chinese Government Scholarship (CSC)",
-          "status": "failed",
-          "fetchedPages": 1,
-          "found": 0,
-          "error": "http-412",
-          "durationMs": 3046
-        },
-        {
-          "sourceId": "mastercard-foundation",
-          "sourceName": "Mastercard Foundation Scholars Program",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 1,
-          "error": null,
-          "durationMs": 2042
-        },
-        {
-          "sourceId": "clean-air-fund",
-          "sourceName": "Clean Air Fund — News & Opportunities",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 0,
-          "error": null,
-          "durationMs": 2294
-        },
-        {
-          "sourceId": "unep-tunza",
-          "sourceName": "UNEP — Youth & Education Opportunities",
-          "status": "success",
-          "fetchedPages": 2,
-          "found": 0,
-          "error": null,
-          "durationMs": 4421
-        },
-        {
-          "sourceId": "opportunities-for-africans",
-          "sourceName": "Opportunities for Africans (RSS)",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 6,
-          "error": null,
-          "durationMs": 2372
-        },
-        {
-          "sourceId": "opportunity-desk",
-          "sourceName": "Opportunity Desk (RSS)",
-          "status": "success",
-          "fetchedPages": 1,
-          "found": 5,
-          "error": null,
-          "durationMs": 3089
         },
         {
           "sourceId": "daad-scholarship-db",
